@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699f4d1d0ea965f090d74be6"
+            },
+    "name":  "Cervical spine",
+    "type":  "X-Ray",
+    "content":  "HISTORY:     [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    [Multiple] views of the  [SIDE]  [BODY PART] were performed.\n\n\nFINDINGS:\n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: []\n\n\nIMPRESSION:\n\n[]",
+    "prompt":  "Add pertinent negatives from template.",
+    "tags":  [
+                 "cervical  xray",
+                 "cervical spine x-ray",
+                 "cervical x-ray"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-16T17:15:05.422Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

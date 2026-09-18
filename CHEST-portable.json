@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6994f813f95e4682410a49d8"
+            },
+    "name":  "CHEST portable",
+    "type":  "X-Ray",
+    "content":  "PROCEDURE: XR Chest 1 View Portable\n\nCOMPARISON: None available\n\nFINDINGS:\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nIMPRESSION: \n\nNo definite consolidation seen.",
+    "prompt":  "1. Use pertinent negatives from template. ",
+    "tags":  [
+                 "cxp",
+                 "XR Chest 1 View Portable",
+                 "XR Chest 1 View"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "68f1593b21330c1b03668046"
+            },
+    "name":  "BONE SCAN",
+    "type":  "Nuclear",
+    "content":  "EXAM:\nNM Bone Scan.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nFrontal images of the whole body were obtained following the intravenous administration of radiopharmaceutical.\nPer PQRS, this bone scan was compared with all other relevant prior exams regardless of modality. See the Comparisons section for documentation of relevant prior exams. \n\nRADIOPHARMACEUTICAL:\n[_ _] technetium m99 pertechnetate.\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nSPINE:\nNo abnormal increased or decreased uptake.\n\nRIBS:\nNo abnormal uptake.\n\nLONG BONES:\nNo abnormal uptake.\n\nPELVIS:\nNo focal increased or decreased uptake.\n\nJOINTS:\nNo focal increased or decreased uptake.\n\nSKULL/FACIAL BONES:\nNo focal increased or decreased uptake.\n\nRENAL/BLADDER:\nNormal physiologic excretion.\n\nIMPRESSION:\n1. No abnormal uptake noted.",
+    "prompt":  "",
+    "tags":  [
+                 "nmb",
+                 "nb",
+                 "NM Bone Imaging Whole Body"
+             ],
+    "numpadCode":  "567",
+    "radial":  "",
+    "rvu":  1,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

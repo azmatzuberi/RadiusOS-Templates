@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "688a968e3df089d13e6161cd"
+            },
+    "name":  "CHEST",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  [URI]\n\nTECHNIQUE:  Two views of the chest performed. \n \nCOMPARISON: None\n\nFINDINGS:\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nIMPRESSION: \n\nNo definite consolidation seen.",
+    "prompt":  "Do not remove the pertinent negatives from the template\n",
+    "tags":  [
+                 "xcr",
+                 "xch",
+                 "ch",
+                 "chest"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

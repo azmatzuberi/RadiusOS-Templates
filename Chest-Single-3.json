@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a07b420ea965f090d753b8"
+            },
+    "name":  "Chest Single",
+    "type":  "X-Ray",
+    "content":  "HISTORY:   []\n\nCOMPARISON: [ None available.]\n\nTECHNIQUE:  Single views of the chest.\n\nFINDINGS: \n\nLUNGS: [Clear of consolidation.]\n \nHEART: [Normal heart size.]\n\nPLEURA: [No pleural effusions.] [No pneumothorax.]\n\nOSSEOUS: [No skeletal abnormalities of significance.]\n\nIMPRESSION: \n\n[]",
+    "prompt":  "Keep template style and format. \ninclude all pertinent negatives in report. Do not truncate.",
+    "tags":  [
+                 "portable chest",
+                 "single chest",
+                 "portable"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0.22,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-11T17:51:56.936Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

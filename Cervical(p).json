@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "690d147fcecf1133460b60ff"
+            },
+    "name":  "Cervical(p)",
+    "type":  "MRI",
+    "content":  "FINDINGS:\n\nThere is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.\n\nNo cervical cord expansion or syrinx identified.\n\nLevel by level:\n\n C1-C2: [Negative]\n\nC2-C3: [Negative]\n\nC3-C4: [Negative]\n\nC4-C5: [Negative]\n\nC5-C6: [Negative].\n\nC6-C7: [Negative].\n\nC7-T1: [Negative]\n\nCONCLUSION:\n",
+    "prompt":  "",
+    "tags":  [
+                 "mrcs",
+                 "mri cervical",
+                 "mr cervical"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

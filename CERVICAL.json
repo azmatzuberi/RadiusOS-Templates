@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "67cf3df228371506434c9ba4"
+            },
+    "name":  "CERVICAL",
+    "type":  "X-Ray",
+    "content":  "  HISTORY:  []\n\nTECHNIQUE:  Multiple views of the cervical spine performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nC7-T1 not well visualized on the lateral view.\n\nThere is normal alignment.\n\nNo prevertebral soft tissue swelling.\n\nNo fracture or subluxation seen.\n\nNo radiopaque foreign body or subcutaneous gas.\n\nBones appear normal for age. \n\nVisualized lung is clear. \n\nIMPRESSION:   \n\nNo fracture or subluxation seen within the visualized cervical spine.   ",
+    "prompt":  "  Update the findings section in the included template with the input data.  Remove any brackets after making a report.  \nOnly summarize the impression with pertinent positives and remove any pertinent negatives.\n\n ",
+    "tags":  [
+                 "cervical",
+                 "cs"
+             ],
+    "numpadCode":  "666",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

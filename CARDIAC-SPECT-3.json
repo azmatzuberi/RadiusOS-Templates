@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c28"
+            },
+    "name":  "CARDIAC SPECT",
+    "type":  "Nuclear",
+    "content":  "TWO-DAY GATED CARDIAC SPECT IMAGING REPORT\n\nDate and Time: 9/11/2025 3:19 PM\n\nEXAM DATE: \n\nMYOCARDIAL PERFUSION REPORT\n\nINDICATION FOR TEST:  To exclude     coronary artery disease in a patient    \n\nBODY SIZE:  \nHeight (inches):        Weight (lbs):    \n\nIMAGING PROTOCOL\nPERFUSION IMAGING:     \nRADIOPHARMACEUTICAL: Technetium-99m Sestamibi\nREST DOSE:     mCi    STRESS DOSE:      mCi\nLEXISCAN DOSE:  0.4 mg of Lexiscan given intravenously over a 1-minute interval followed at approximately 2 minutes by 75 mg of aminophylline intravenously. \nCNMT:  DD\n\nSTRESS PROTOCOL\nTREADMILL PROTOCOL:     \n\nEXERCISE PERFORMANCE DATA\nEXERCISE TIME:     \nHR (MAX):      b/m\nBP (MAX):     \n\nMYOCARDIAL PERFUSION FINDINGS\nANTERIOR:  Normal\nINFERIOR:  Normal\nLATERAL:  Normal  \nSEPTAL:  Normal\nAPICAL:  Normal  \nPOSTEROBASAL:  Normal\nCOMMENTS:  SPECT imaging reveals    .\n\nLEFT VENTRICULAR WALL MOTION\nANTERIOR:  Normal\nINFERIOR:  Normal\nLATERAL:  Normal  \nSEPTAL:  Normal\nAPICAL:  Normal  \nPOSTEROBASAL:  Normal\n\nOTHER FINDINGS\nEJECTION FRACTION:     %.    LV SIZE:  Normal\n\nIMPRESSION\n1.  This is a myocardial perfusion imaging study for evidence of reversible ischemia. \n2.  SPECT imaging reveals    \n3.  The left ventricle is    , and there     evidence for transient cavity dilatation during stress.  Gated wall motion analysis reveals normal regional wall motion with an ejection fraction of approximately    %.  Normal systolic thickening is noted. \n4.     \n5.  This study is consistent with a     probability for angiographically significant coronary artery disease.\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c39"
+            },
+    "name":  "CHEST",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  [URI]\n\nTECHNIQUE:  Two views of the chest performed. \n \nCOMPARISON: None\n\nFINDINGS:\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nIMPRESSION: \n\nNo definite consolidation seen.",
+    "prompt":  "CHEST prompts\n\nAdd the pertinent negative from the template if they don\u0027t contradict the findings.",
+    "tags":  [
+                 "cxr",
+                 "ch",
+                 "ch2",
+                 " XR Chest 2 Views"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

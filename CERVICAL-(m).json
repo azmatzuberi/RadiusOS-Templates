@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c15"
+            },
+    "name":  "CERVICAL (m)",
+    "type":  "MRI",
+    "content":  "EXAM: MRI cervical spine without contrast. \n\nHISTORY: []\n\nCOMPARISON: None\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.\n\nFINDINGS:\n\n\nThere is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.\n\nNo cervical cord expansion or syrinx identified.\n\nLevel by level:\n\n C1-C2: [Negative]\n\nC2-C3: [Negative]\n\nC3-C4: [Negative]\n\nC4-C5: [Negative]\n\nC5-C6: [Negative].\n\nC6-C7: [Negative].\n\nC7-T1: [Negative]\n\n\nIMPRESSION:\n\nNo malposition disc material.  No canal stenosis or foraminal narrowing.\nTECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.\n\nFINDINGS:\n\n\nThere is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.\n\nNo cervical cord expansion or syrinx identified.\n\nLevel by level:\n\n C1-C2: [Negative]\n\nC2-C3: [Negative]\n\nC3-C4: [Negative]\n\nC4-C5: [Negative]\n\nC5-C6: [].\n\nC6-C7: [].\n\nC7-T1: [Negative]\n\n\nIMPRESSION:\n\nNo malposition disc material.  No canal stenosis or foraminal narrowing.",
+    "prompt":  " \n1. Add COMPARISON:  in generated report if a prior study is given. Otherwise COMPARISON: None\n ",
+    "tags":  [
+                 "mrc",
+                 "mr cervical",
+                 "mri cervical",
+                 "mrcs",
+                 "MR C Spine wo Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

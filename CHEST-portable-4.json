@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "69963bf0f95e4682410a5371"
+            },
+    "name":  "CHEST portable",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  [URI]\n\nTECHNIQUE:  Portable view of the chest performed. \n \nCOMPARISON: None\n\nFINDINGS:\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nIMPRESSION: \n\nNo definite consolidation seen.",
+    "prompt":  "1. Adhere to template style and formatting.\n2. Add pertinent negatives from template. ",
+    "tags":  [
+                 "chest single",
+                 "cxrs",
+                 "pc",
+                 "portable chest",
+                 "single chest"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

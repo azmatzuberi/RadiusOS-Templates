@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69a74ef2cbfb767b13d9a27b"
+            },
+    "name":  "CAROTIDS",
+    "type":  "CT",
+    "content":  " EXAM: CAROTID US\n \nHISTORY:  high-risk patient.\n\nCOMPARISON:   None.\n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the carotid arteries  performed. \n\nFINDINGS:\n\nRight and left internal carotid artery to common carotid arterial ratio is [] and [] respectively.\n\nIMPRESSION:\n\n[]\n\n \nReference: Society of Radiologists in Ultrasound Consensus Conference Radiology 2003; 229 (2) 340-34Occlusion and stenosis of unspecified carotid artery\n\n  \n\n\n\n\n\n ",
+    "prompt":  "Make sure to include internal ICA/CCA radios of right and left in findings. Not impression. \n\nInclude right and left PSV/EDV\n\n Please tabulated velocity data in a more readable table and convert to cm/sec.\n\n\n\n \n\n\n",
+    "tags":  [
+                 "carotid",
+                 "usc",
+                 "us carotids",
+                 "CAROTID DUPLEX"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a7403dcbfb767b13d9a18a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

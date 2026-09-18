@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69174e36655b63777983357b"
+            },
+    "name":  "CALCIUM(S)",
+    "type":  "CT",
+    "content":  "INDICATION:  Hyperlipidemia. Atherosclerotic cardiovascular disease (ASCVD) risk stratification.    \n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Noncontrast axial CT images were obtained through the level of the heart. The study was reviewed on dedicated calcium scoring software. Total and regional calcium score values were calculated. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nTECHNICAL QUALITY: Good\n\nRADIATION DOSE:  CTDI volume 8 mGy; total DLP 149 mGy-cm.\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\nFINDINGS:  \n\nThe total Agatston CAC score is 4. \nAge/sex adjusted CAC score percentile: 0-25th percentile.\n\nVessel-level Agatston CAC scoring:\nLM: 0\nLAD: 4\nLCX: 0\nRCA/PDA: 0\n\nEXTRA-CORONARY CALCIFICATION:\nThe aortic valve demonstrates []  calcifications.\nThe thoracic aorta demonstrates  []calcifications.\nThe mitral valve demonstrates []calcifications.\n\nGREAT VESSELS (cm):\nMain Pulmonary Artery: []cm\nAortic Sinus: []cm\nAscending aorta: []cm\n\nPERICARDIUM:  Unremarkable.\n\nOTHER FINDINGS:  None\n\nIMPRESSION:\n\n1.  Total Agatston calcium score of []. \n\n\n2. CAC-DRS Category A1/N1.\n\n3.  Right middle lobe pulmonary mass measuring 3.2 x 2.4 cm. Chest CT may be performed as clinically needed.\n\n\n\nA= CAC-DRS Risk category \nN= Number of vessels involved \n\n--------------------------------------------------------------------------------------------\n\nSUGGESTED RECOMMENDATIONS:\n\nBased on the 2018 CAC-DRS Consensus Document of the Society of Cardiovascular Computed Tomography (SCCT)\n\nCAC-DRS A0\nCAC score = 0  \nRisk: Very low risk\nTreatment recommendations: Statin generally not recommended (excluding familial hypercholesterolemia).\n\nCAC-DRS A1\nCAC score = 1–99\nRisk: Mildly increased risk\nTreatment recommendations: Moderate-intensity statin\n\nCAC-DRS A2\nCAC score = 100–299\nRisk: Moderately increased risk\nTreatment recommendations: Moderate to high-intensity statin + acetylsalicylic acid (ASA) 81mg\n\nCAC-DRS A3\nCAC score \u003e 300 \nRisk: Moderately to severely increased risk\nTreatment recommendations: High intensity statin + ASA  81mg",
+    "prompt":  "",
+    "tags":  [
+                 "caclium"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

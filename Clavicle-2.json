@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6973fc84675f2f3d4cf8f2d2"
+            },
+    "name":  "Clavicle",
+    "type":  "X-Ray",
+    "content":  "\nTECHNIQUE:  Two views of the [] clavicle performed.\n\nCOMPARISON: None\n\nFINDINGS:\n\n  No fracture or dislocation seen.\n  Mineralization is appropriate for age.\n  Visualized lung is clear.\n  No radiopaque foreign body or subcutaneous gas identified.\n\nIMPRESSION: No acute process",
+    "prompt":  "",
+    "tags":  [
+                 "xcl"
+             ],
+    "numpadCode":  "786",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

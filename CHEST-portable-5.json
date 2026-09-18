@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e40"
+            },
+    "name":  "CHEST portable",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  [URI]\n\nTECHNIQUE:  Portable view of the chest performed. \n \nCOMPARISON: None\n\nFINDINGS:\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nIMPRESSION: \n\nNo definite consolidation seen.",
+    "prompt":  "CHEST prompts",
+    "tags":  [
+                 "chest single",
+                 "cxrs",
+                 "pc"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

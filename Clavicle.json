@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "686d5feec5bab2a6a40a1a82"
+            },
+    "name":  "Clavicle",
+    "type":  "X-Ray",
+    "content":  "EXAM: Clavicle\n\nHISTORY:  Trauma\n\nTECHNIQUE:  Two views of the right clavicle performed.\n\nCOMPARISON: None\n\nFINDINGS:\n\n  No fracture or dislocation seen.\n  Mineralization is appropriate for age.\n  Visualized lung is clear.\n  No radiopaque foreign body or subcutaneous gas identified.\n\nIMPRESSION\n\nTECHNIQUE:  Two views of the right clavicle performed.\n\nCOMPARISON: None\n\nFINDINGS:\n\n  No fracture or dislocation seen.\n  Mineralization is appropriate for age.\n  Visualized lung is clear.\n  No radiopaque foreign body or subcutaneous gas identified.\n\nIMPRESSION:",
+    "prompt":  "",
+    "tags":  [
+                 "xcl",
+                 "clavicle"
+             ],
+    "numpadCode":  "786",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

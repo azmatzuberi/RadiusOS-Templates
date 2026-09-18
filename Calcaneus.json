@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "6903d38d066a2465b595acc0"
+            },
+    "name":  "Calcaneus",
+    "type":  "X-Ray",
+    "content":  "HISTORY:     [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    [Multiple] views of the  [SIDE]  [BODY PART] were performed.\n\n\nFINDINGS:\n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: []\n\n\nIMPRESSION:\n\n[]",
+    "prompt":  "Use INDICATION and not EXAM for titles.",
+    "tags":  [
+                 "calcaneus",
+                 "cal"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-16T17:14:51.786Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "rvu":  0
+}

@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c29"
+            },
+    "name":  "CERVICAL",
+    "type":  "CT",
+    "content":  "EXAM: CT CERVICAL WO\n\nHISTORY: []\n\nTECHNIQUE: Axial images through the cervical spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.\n\nTotal DLP:  [] mGy*cm  \n\n\nCOMPARISON:  None\n\nCONTRAST: None\n\n\nFINDINGS: \n\nALIGNMENT: [Unremarkable.]\n\nOSSEOUS: [Unremarkable.]\n\nSOFT TISSUE: [Unremarkable.]\n\nTHYROID: [Unremarkable.]\n\nLUNGS: [Unremarkable.]\n\nSINUSES: [Unremarkable.]\n\nLevel by Level:\n\nC2-C3: [Unremarkable.]\n\nC3-C4: [Unremarkable.]\n\nC4-C5: [Unremarkable.]\n\nC5-C6: [Unremarkable.]\n\nC6-C7: [Unremarkable.]\n\nC7-T1: [Unremarkable.]\n\n\nIMPRESSION:\n\n",
+    "prompt":  " include total DLP if given in input. ",
+    "tags":  [
+                 "ctcs",
+                 "EXAM:  CT C Spine wo Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

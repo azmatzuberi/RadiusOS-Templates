@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea08e"
+            },
+    "name":  "CHEST HIRES",
+    "type":  "CT",
+    "content":  "EXAM:  CT OF THE CHEST WITHOUT IV CONTRAST \n\nHISTORY: []\n\n\nCOMPARISON: None\n\nTECHNIQUE: CT of the chest was performed.  Coronal and sagittal reformats were obtained from the axial data set.\n\nIV Contrast: None\n\nFINDINGS:\n\nAIRWAY/THYROID: The airway is patent.  No thyromegaly.\n\nAORTA/VASCULAR: No aortic aneurysm.\n\nLUNGS:  No suspicious pulmonary nodules seen.  \n\nMEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. \n\nPLEURA:   No pleural effusion or pneumothorax seen.  \n\nHILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  \n \nAXILLARY: No bulky axillary adenopathy.  \n\nOSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. \n\n\nUPPER ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. \n \nIMPRESSION:\n\nNo acute process within the chest.",
+    "prompt":  " \n\n 1. any pulmonary nodules please less than in the lungs section and remove the statement \"No suspicious pulmonary nodules seen. \"\n\n2. include DLP if given in the input and placed under contrast field.\n\n3. include recommendations if given. \n\n4. include sentences in impression if given. ",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

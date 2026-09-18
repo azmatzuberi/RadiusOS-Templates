@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "690e032ccecf1133460b6256"
+            },
+    "name":  "CHEST WO",
+    "type":  "CT",
+    "content":  "FINDINGS:\n\nLUNGS:  No suspicious pulmonary nodules seen.  \n\nMEDIASTINUM AND HILA:  There is no cardiomegaly.  There is no pericardial effusion. \n\nPLEURA:   No pleural effusion or pneumothorax seen.  \n\nOSSEOUS AND SPINE:   Underlying osseous structures no significant abnormality. \n\nVASCULAR: No aortic aneurysm.\n\nABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. \n \nCONCLUSION:\n\n[]",
+    "prompt":  "1. Adhere to the template style and format. Don\u0027t omit sections or sentences. \n\n2. Include all sections even if not discussed.\n\n3. Remove all brackets from recommendation section.",
+    "tags":  [
+                 "CT Thorax without Contrast",
+                 "CT chest without "
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-16T18:43:57.845Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

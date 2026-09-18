@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699df7dc0ea965f090d741ab"
+            },
+    "name":  "Chest (2V)",
+    "type":  "X-Ray",
+    "content":  "INDICATION: XRAY CHEST\n\nHISTORY:   {Cough}\n\nCOMPARISON: [ None available.]\n\nTECHNIQUE:   Frontal and lateral views of the chest.\n\nFINDINGS: \n\nLUNGS: [Clear of consolidation.]\n \nHEART: [Normal heart size.]\n\nPLEURA: [No pleural effusions.] [No pneumothorax.]\n\nOSSEOUS AND SPINE: [No skeletal abnormalities of significance.]\n\nIMPRESSION: \n\n[]",
+    "prompt":  "Keep template style and format. \ninclude all pertinent negatives in report. Do not truncate.\nUpdate the history if provided.",
+    "tags":  [
+                 "chest xray",
+                 "chest",
+                 "chest x-ray"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0.22,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-16T18:07:17.183Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

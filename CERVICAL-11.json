@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e0b"
+            },
+    "name":  "CERVICAL",
+    "type":  "MRI",
+    "content":  "EXAM: MRI cervical spine without contrast. \n\nHISTORY: []\n\nCOMPARISON: None\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.\n\nFINDINGS:\n\n\nThere is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.\n\nNo cervical cord expansion or syrinx identified.\n\nLevel by level:\n\n C1-C2: [Negative]\n\nC2-C3: [Negative]\n\nC3-C4: [Negative]\n\nC4-C5: [Negative]\n\nC5-C6: [Negative].\n\nC6-C7: [Negative].\n\nC7-T1: [Negative]\n\n\nIMPRESSION:\n\n[] ",
+    "prompt":  " only add pertinent positives  in the impression..  Please make a statement see level by level regarding details.\n\nIf there is straightening of the cervical alignment add findings most likely related to spasm or positional in the impression.\n\ndo not convert mm to cm.",
+    "tags":  [
+                 "mrcs",
+                 "MR cervical"
+             ],
+    "numpadCode":  "203",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

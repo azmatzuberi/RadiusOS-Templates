@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e3c"
+            },
+    "name":  "CONSULT",
+    "type":  "IR",
+    "content":  "REASON FOR CONSULTATION\n[Reason]\n\n\nHISTORY OF PRESENT ILLNESS\n[Ilness]\n\n\nPAST MEDICAL HISTORY\n[See H\u0026P]\n\n\nSOCIAL HISTORY\n[Non-contributory]\n\n\nFAMILY HISTORY\n[Non-contributory]\n\n\nSURGICAL HISTORY\n[Non-contributory]\n\n\nMEDICATIONS\n[ See medication reconciliation list]\n\n\nALLERGIES\n[No contraindication]\n\n\nREVIEW OF SYSTEMS:\n\n\nGENERAL/CONSTITUTIONAL: [Negative]\nHEAD, EYES, EARS, NOSE AND THROAT: [Negative]\nCARDIOVASCULAR: [Negative]\nRESPIRATORY: [Negative]\nGASTROINTESTINAL: [Negative]\nGENITOURINARY: [Negative]\nMUSCULOSKELETAL: [Negative]\nSKIN: [Negative]\nNEUROLOGIC: [Negative]\nPSYCHIATRIC: [Negative]\nENDOCRINE: [Negative]\nHEMATOLOGIC/LYMPHATIC: [Negative]\n\n\nPHYSICAL EXAM\nGENERAL:  [Negative].\nVITAL SIGNS:  [Non-contributory].\n\n\nLABS\n[No contraindication]\n\n\nIMPRESSION\n[Impression]\n\n\nPLAN\n[Plan]",
+    "prompt":  "consult prompt",
+    "tags":  [
+
+             ],
+    "numpadCode":  "639",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

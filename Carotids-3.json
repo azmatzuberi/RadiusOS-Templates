@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699e03430ea965f090d742bd"
+            },
+    "name":  "Carotids",
+    "type":  "Ultrasound",
+    "content":  "HISTORY:   [High risk patient].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Standard duplex imaging of the carotid system was performed.  \n\nFINDINGS:  Grayscale imaging shows no significant luminal diameter narrowing in the right or left carotid system. \n\nSpectral analysis was performed. No abnormal increased velocity, spectral broadening, turbulence or color flow aliasing is noted.  \n\nThe peak/end velocities in cm/sec are as follows: \n\nRIGHT              \nCCA, proximal:  []    /     []                    \nCCA, distal:   []   /   []              \nICA, proximal:  []    /     []               \nICA, mid:     [] /[]                    \nICA, distal:     [] /  []              \nECA, proximal:     []              \nVertebral: []  , antegrade            \n                 \nICA/CCA ratio:   []                 \n\nLEFT\nCCA, proximal:   []   / []                \nCCA, distal:    []  / []                    \nICA, proximal:     [] /   []           \nICA, mid:   []   /    []               \nICA, distal:    []  / []                 \nECA, proximal:     []         \nVertebral:   [] , antegrade                \n           \nICA/CCA ratio:  []                  \n\nThe degree of stenosis is calculated in accordance with the NASCET Index.\n\nIMPRESSION:\n\n[1. No hemodynamically significant stenosis bilaterally.]\n[2. Atherosclerotic plaquing particularly along the carotid bulbs bilaterally.]",
+    "prompt":  "1. Make sure to include internal ICA/CCA radios of right and left.\n\n2. Include right and left PSV/EDV if provided. Remove EDV if not provided. \n\n\n3.Please tabulated velocity data in a more readable table and convert to cm/sec.\n\n4. Use INDICATION: and not EXAM: in report title. \n\n5. If incidental thyroid nodule is reported in input. Add Recommend dedicated thyroid ultrasound examination.\n\n6. Tabulate velocity data in a more readable table and convert to cm/sec.\n\n\n7. If PSV \u0026lt; 110 AND EDV \u0026lt; 45 → Stenosis = Normal to mild (0-30%)\nIf PSV 110–150 AND EDV \u0026lt; 45 → Stenosis = Moderate_(50-69%)\nIf PSV 150–250 AND EDV 45–150 → Stenosis = Severe (60-75%)\nIf flow is extremely low → Stenosis = Critical (80 to 99%)\nIf no flow detected → Stenosis = Occlusion (100%).\n\ngive results bake in severity and percentage.",
+    "tags":  [
+                 "carotids",
+                 "usc",
+                 "CAROTID DUPLEX"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-08-18T20:41:09.796Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

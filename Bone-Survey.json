@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69384db6aa19c8984398eef4"
+            },
+    "name":  "Bone Survey",
+    "type":  "X-Ray",
+    "content":  "INDICATION:     .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Standard bone survey to include AP and lateral views of the skull and spinal column, AP rib cage, AP pelvis, and AP long bones.\n\nFINDINGS:\n\nAP and lateral skull:  Within normal limits. No abnormally lucent or sclerotic lesions.\n\nAP and lateral C-spine:  Within normal limits. No abnormally lucent or sclerotic lesions.\n\nAP and lateral T-spine:  Normal alignment. No compression fractures. No abnormally lucent or sclerotic lesions.\n\nAP and lateral L-spine:   Normal alignment. No compression fractures. No abnormally lucent or sclerotic lesions.\n\nSacrum and pelvis:  Within normal limits. No abnormally lucent or sclerotic lesions.\n\nRib cage:  Within normal limits. No abnormally lucent or sclerotic lesions\n\nBilateral humeri and femurs:  Within normal limits. No abnormally lucent or sclerotic long bone lesions.\n\nIMPRESSION: \n\nUnremarkable radiographic skeletal survey.",
+    "prompt":  "Use Indication and not EXAM for title. ",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

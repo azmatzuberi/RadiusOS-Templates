@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ab4b135851246ed0645a84"
+            },
+    "name":  "Carotids",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:   [High risk patient].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Standard duplex imaging of the carotid system was performed.  \n\nFINDINGS:  Grayscale imaging shows no significant luminal diameter narrowing in the right or left carotid system. \n\nSpectral analysis was performed. No abnormal increased velocity, spectral broadening, turbulence or color flow aliasing is noted.  \n\nThe peak/end velocities in cm/sec are as follows: \n\nRIGHT              \nCCA, proximal:  []    /     []                    \nCCA, distal:   []   /   []              \nICA, proximal:  []    /     []               \nICA, mid:     [] /[]                    \nICA, distal:     [] /  []              \nECA, proximal:     [] /  []              \nVertebral: []     /  []  , antegrade            \n                 \nICA/CCA ratio:   []                 \n\nLEFT\nCCA, proximal:   []   / []                \nCCA, distal:    []  / []                    \nICA, proximal:     [] /   []           \nICA, mid:   []   /    []               \nICA, distal:    []  / []                 \nECA, proximal:     [] /   []          \nVertebral:   []   /  []  , antegrade                \n           \nICA/CCA ratio:  []                  \n\nThe degree of stenosis is calculated in accordance with the NASCET Index.\n\nIMPRESSION:\n\n[1. No hemodynamically significant stenosis bilaterally.]\n[2. Atherosclerotic plaquing particularly along the carotid bulbs bilaterally.]\n\n",
+    "prompt":  "1. Make sure to include internal ICA/CCA radios of right and left.\n\n2. Include right and left PSV/EDV if provided. Remove EDV if not provided. \n\n\n3.Please tabulated velocity data in a more readable table and convert to cm/sec.\n\n4. Use INDICATION: and not EXAM: in report title. \n\n5. If incidental thyroid nodule is reported in input. Add Recommend dedicated thyroid ultrasound examination.\n\n",
+    "tags":  [
+                 "carotids",
+                 "usc",
+                 "CAROTID DUPLEX"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

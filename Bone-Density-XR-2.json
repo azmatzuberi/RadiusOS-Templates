@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c4d"
+            },
+    "name":  "Bone Density XR",
+    "type":  "Nuclear",
+    "content":  "PROCEDURE: XR Bone Density - Axial \n\nExam date 1/14/2022 9:12 AM\n\nComparison: None\n\nHISTORY: Disorder of Bone Density\n\nTECHNIQUE:  Dual energy x-ray evaluation of the lumbar spine and both hips was performed.\n\nFINDINGS: The T score for the lumbar spine L1-L4 is []\nThe T score for the left femoral neck is []\nThe T score for the total left hip is []\nThe T score for the right femoral neck is []\nThe T score for the total right hip is []\nThe T score for the total bilateral hips is[]\n\nNote: The normal T score is equal to or greater than -1 SD.\n         Osteopenia corresponds to a T score between -1 and -2.5 SD.\n         Osteoporosis corresponds to a T score at or below -2.5 SD.\n\nThe 10 year probability of major osteoporotic fracture Frax score is []%\nThe hip fracture Frax score is []%\n\nIMPRESSION: \n[]\n",
+    "prompt":  "",
+    "tags":  [
+                 "XR Bone Density - Axial"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

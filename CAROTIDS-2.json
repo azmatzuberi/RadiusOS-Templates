@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6970ef0ee6a30cefd3761bbe"
+            },
+    "name":  "CAROTIDS",
+    "type":  "Ultrasound",
+    "content":  "PROCEDURE: US Vasc Dplx Extracran Art Bilat Comp\n\nHISTORY: []\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Standard duplex imaging of the carotid system was performed.  \n\nFINDINGS:  Grayscale imaging shows no significant luminal diameter narrowing in the right or left carotid system. \n\nSpectral analysis was performed. No abnormal increased velocity, spectral broadening, turbulence or color flow aliasing is noted.  \n\nThe peak/end velocities in cm/sec are as follows: \n\nRIGHT   \n           \nCCA:  []                               \nICA:  []                             \nECA,:     []              \nVertebral: [antegrade ]           \n                 \nICA/CCA ratio:   []                 \n\nLEFT\n          \nCCA:  []                               \nICA:  []                             \nECA,:     []              \nVertebral: [antegrade ]                  \n           \nICA/CCA ratio:  []                  \n\nThe degree of stenosis is calculated in accordance with the NASCET Index.\n\nIMPRESSION:\n\n[No hemodynamically significant stenosis bilaterally.]\n\n\n \nReference: Society of Radiologists in Ultrasound Consensus Conference Radiology 2003; 229 (2) 340-34Occlusion and stenosis of unspecified carotid artery\n\n  \n\n\n\n\n\n ",
+    "prompt":  "Make sure to include internal ICA/CCA radios of right and left in findings. Not impression. \n\nInclude right and left PSV/EDV\n\n Please tabulated velocity data in a more readable table and convert to cm/sec.\n\n\n\n \n\n\n",
+    "tags":  [
+                 "usc",
+                 "us carotids",
+                 "CAROTID DUPLEX",
+                 "Carotid Ultrasound",
+                 "US Vasc Dplx Extracran Art Bilat Comp"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

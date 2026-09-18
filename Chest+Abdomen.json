@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "689390a7420ab8f00479fddb"
+            },
+    "name":  "Chest+Abdomen",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain\n\nTECHNIQUE:  Single view of the chest with abdominal views performed.\n\nCOMPARISON: None\n\nFINDINGS: \n\n\nThe lungs are clear of consolidation.\n\nNo pleural effusion or pneumothorax seen.  \n\nMediastinum and cardiac contours are preserved.\n\nUnderlying osseous structures show no significant abnormality. \n\nThe bowel gas pattern is unremarkable.  \n\nFair amount of stool is present. \n\nThe renal fossa are obscured by bowel. \n\nNo abnormal calcification seen.\n\nUnderlying osseous structures are intact.\n\nIMPRESSION: \n\n   ",
+    "prompt":  "modify the findings based on the input data.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "6835f4f521d763969903656f"
+            },
+    "name":  "Consulting",
+    "type":  "Clinical",
+    "content":  "REFERRING PHYSICIAN []\nREASON FOR CONSULTATION []\nHISTORY OF PRESENT ILLNESS []\nPAST MEDICAL HISTORY []\nSOCIAL HISTORY []\nFAMILY HISTORY []\nSURGICAL HISTORY []\nMEDICATIONS []\nALLERGIES []\n\nREVIEW OF SYSTEMS:\n\nGENERAL/CONSTITUTIONAL: []\nHEAD, EYES, EARS, NOSE AND THROAT: [] CARDIOVASCULAR: []\nRESPIRATORY: []\nGASTROINTESTINAL: []\nGENITOURINARY: []\nMUSCULOSKELETAL: []\nSKIN: []\nNEUROLOGIC: []\nPSYCHIATRIC: []\nENDOCRINE: []\nHEMATOLOGIC/LYMPHATIC: []\n\nPHYSICAL EXAM GENERAL:  []. \nVITAL SIGNS:  Temperature [], blood pressure [], heart rate [], respiratory rate []. \nSKIN: [] \nHEENT: [] \nEyes: [] Nares \n[] Mouth: [] \nEars: [] \nNose: [] \nThroat: [] \nNECK:  [] \nLUNGS: [] \nHEART: [] \nABDOMEN: [] \nEXTREMITIES: [] \nNEUROLOGICAL: []\n\nLABS \n[]\n\nIMPRESSION \n[]\nPLAN [\n\n]\n",
+    "prompt":  "Please use input data to modify the template \n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68dbf082dfff68f7a4be29ee"
+            },
+    "name":  "Brain",
+    "type":  "MRI",
+    "content":  "EXAM:  MR Brain [with or without] Intravenous Contrast.\n\nCLINICAL HISTORY: []\n\nTECHNIQUE:\nMagnetic resonance images of the brain [with or without] intravenous contrast in multiple planes.\n\nCONTRAST:\n\n[With or without];\n\nCOMPARISON:\n\n[None provided.]\n\nFINDINGS:\n\nBRAIN:\n\n[No restricted diffusion to indicate acute infarction.]\n\n[No intracranial mass or hemorrhage.]\n\n[No midline shift or extra-axial fluid collection.]\n\n[No cerebellar tonsillar ectopia.]\n\n[No abnormal enhancement.]\n\n[The central arterial and venous flow voids are patent.]\n\nVENTRICLES:\n\n[No hydrocephalus.]\n\n\nORBITS:\n\n[The orbits are  grossly normal.]\n\n\nSINUSES AND MASTOIDS:\n\n[The sinuses and mastoid air cells are clear.]\n\n\nBONES:\n\n[No acute fracture or focal osseous lesions.]\n\nIMPRESSION:\n[]",
+    "prompt":  " 1. Add pertinent negatives from template. ",
+    "tags":  [
+                 "mrb",
+                 "MR Brain wo Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
