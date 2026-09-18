@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "68c2ea0d64d1f570dfbcc0b9"
+            },
+    "name":  "CTAP (S) WITHOUT",
+    "type":  "CT",
+    "content":  "INDICATION:   []  .\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Contiguous axial images were obtained through the abdomen and pelvis without IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\nFINDINGS:\n\nLung bases:  [Clear.]\n\nLiver:  [No intrahepatic biliary dilatation.]\n\nGallbladder:   [Unremarkable] \n\nCommon bile duct: [ Normal caliber. No calcified stones.]\n\nSpleen:  [Within normal limits.]\n\nPancreas: [  No pancreatic fluid collections.]\n\nAdrenals: [ No masses.]\n\nKidneys:  [ No hydronephrosis.]\n\nLymph nodes:  [No adenopathy.]\n\nStomach, small bowel and colon: [ No bowel wall thickening or obstruction.]\n\nPeritoneal cavity: [ No mesenteric stranding or free fluid.]\n\nOsseous structures:  [No acute fracture or destructive lesion.]\n\nAbdominal aorta: [ No aneurysm.]\n\nPelvic organs:  [Normal.]\n\nBladder:     No stones.]\n\nIMPRESSION: \n\n[Normal CT abdomen and pelvis.]\n",
+    "prompt":  "1.  Adhere to template structure and format in outline fashion. Dont make paragraphs of just the data.\n\n1b.  Start with indication: not exam: as detailed in template.\n\n2.  Add COMPARISON study if given in input in the Comparison section.\n\n3.  Keep double line spacing.\n\n4. Include statement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0].\"\n\n5. Don\u0027t add post surgical findings to the impression. Only pertinent positives or negatives and recommendations. \n\n6. Use spacing similar to template, typically single line spacing. \n",
+    "tags":  [
+                 "ctapwo",
+                 "CTAP without",
+                 "CT AP WO"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  1.74,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

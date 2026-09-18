@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "6807d155cdb8f28bf1319c88"
+            },
+    "name":  "CTA  AbdPel",
+    "type":  "CT",
+    "content":  "EXAM:CTA Abdomen/Pelvis\n\nTECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  \n\nCOMPARISON: None\n\nIV Contrast: Administered\nGI Contrast: None\n\n VASCULAR FINDINGS:\n\n The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.\n  There is normal branch pattern.\n  No abdominal aortic aneurysm or dissection.\n  No aortoiliac disease.\n  Patent common, bilateral iliac, external and internal iliac arteries.\n  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.\n\n\n NONVASCULAR FINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n\nIMPRESSION:\n\n []\n\n \n\n",
+    "prompt":  "1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3. include DLP if given in the input and placed under contrast field.\n\n4.  Add Clinical history if given in input in the History section.\n\n5.  Add COMPARISON study if given in input in the Comparison section.\n\n",
+    "tags":  [
+                 "ctaap",
+                 "cta ap"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

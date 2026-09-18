@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6aa9a5d568bc79759b18bffd"
+            },
+    "content":  "FINDINGS:\n\n\n\nCHEST :\n\nTHORACIC VASCULATURE:  [Unremarkable.]\n\nLUNGS:  [Unremarkable.]\n\nMEDIASTINUM and HILA: [Unremarkable.]\n\nHEART: [Unremarkable.]\n\nPLEURA:  [Unremarkable.]\n\nCHEST WALL:   [No osseous metastatic disease.]\n\n\n\nABDOMEN/PELVIS :\n\nLIVER:  [Unremarkable.]\n\nBILIARY SYSTEM: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]\n\nSPLEEN:  [Unremarkable.]\n\nPANCREAS:  [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nKIDNEYS: [Unremarkable.]\n\nPELVIS:  [Unremarkable.]\n\nBOWEL:  [Unremarkable.]\n\nABDOMINAL WALL: [Unremarkable.]\n\nVASCULAR:  [Unremarkable.]\n\nOSSEOUS  AND SPINE:   [Unremarkable.]\n\nCONCLUSION: []",
+    "createdAt":  {
+                      "$date":  "2026-09-15T20:08:53.417Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CT PAN SCAN",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "CT whole body"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-16T17:02:13.155Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

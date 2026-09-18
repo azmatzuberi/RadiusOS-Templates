@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69f23151d4c9f235943ca9f8"
+            },
+    "content":  "FINDINGS:\n\nLungs: [Visualized lower lungs are clear.]\n\nHeart: [Heart is normal in size without pericardial effusion.]\n\nLiver: [Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]\n\nBILIARY System: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]\n\nSpleen: [Spleen is normal in size, contour, and attenuation.]\n\nPancreas: [Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]\n\nAdrenal Glands: [No adrenal masses.]\n\nKidneys: [Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] \n\nBowel:  [No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]\n\nVascular: [Abdominal aorta and arborizing branches are normal in course and caliber.]\n\nPelvis: [No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]\n\nOSSEOUS AND SPINE: [Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]\n\nCONCLUSION:\n[]",
+    "createdAt":  {
+                      "$date":  "2026-04-29T16:26:57.113Z"
+                  },
+    "isPublic":  false,
+    "name":  "CT UROGRAM",
+    "prompt":  "1. Do not include brackets [] in the final rendering.\n\n2. Combine hernias into one sentence in impression/conclusion.\n\n3. Combine atherosclerotic disease and coronary atherosclerotic disease into one sentence in impression/conclusion.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "[CT Urogram w/wo Contrast]",
+                 "CT urogram"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-14T15:58:27.344Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

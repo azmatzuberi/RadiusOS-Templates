@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e4d"
+            },
+    "name":  "CT TEMPORAL",
+    "type":  "CT",
+    "content":  "CT TEMPORAL BONES WITHOUT CONTRAST\n\nIndication:\n[ ]\n\nComparison:\n[ ] (e.g., None / Prior CT dated [ ])\n\nTechnique:\nNoncontrast CT of the temporal bones performed with thin-section axial images and reformatted in coronal and sagittal planes.\n[Additional technique details if needed]\n\nFindings\n\nRight Temporal Bone:\n\nExternal Auditory Canal:\n[ ]\n\nTympanic Membrane:\n[ ]\n\nMiddle Ear Cavity:\n[ ]\n\nOssicles:\n[ ]\n\nScutum:\n[ ]\n\nTegmen Tympani / Tegmen Mastoid:\n[ ]\n\nMastoid Air Cells:\n[ ]\n\nInner Ear (Cochlea, Vestibule, Semicircular Canals):\n[ ]\n\nInternal Auditory Canal:\n[ ]\n\nFacial Nerve Canal:\n[ ]\n\nVestibular Aqueduct:\n[ ]\n\nJugular Bulb:\n[ ]\n\nCarotid Canal:\n[ ]\n\nLeft Temporal Bone:\n\nExternal Auditory Canal:\n[ ]\n\nTympanic Membrane:\n[ ]\n\nMiddle Ear Cavity:\n[ ]\n\nOssicles:\n[ ]\n\nScutum:\n[ ]\n\nTegmen Tympani / Tegmen Mastoid:\n[ ]\n\nMastoid Air Cells:\n[ ]\n\nInner Ear (Cochlea, Vestibule, Semicircular Canals):\n[ ]\n\nInternal Auditory Canal:\n[ ]\n\nFacial Nerve Canal:\n[ ]\n\nVestibular Aqueduct:\n[ ]\n\nJugular Bulb:\n[ ]\n\nCarotid Canal:\n[ ]\n\nAdditional Findings:\n[ ]\n\nImpression\n\n[ ]\n\n[ ]\n\n[ ]",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

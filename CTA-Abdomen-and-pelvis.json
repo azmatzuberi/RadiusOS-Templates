@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69d532c79d77f2470c17ea9b"
+            },
+    "name":  "CTA Abdomen and pelvis",
+    "type":  "CT",
+    "content":  "FINDINGS:\n\nVASCULAR FINDINGS:\n\nVASCULAR:\n\n [ The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.]\n [ No abdominal aortic aneurysm or dissection.]\n [ No aortoiliac disease.]\n  [Patent common, bilateral iliac, external and internal iliac arteries.]\n  [Patent bilateral common femoral arteries and proximal superficial and profundus arteries.]\n\n\n NONVASCULAR FINDINGS: \n \n\nLUNG: [Lung bases are unremarkable.] \n\nLIVER: [Unremarkable.]\n\nBILIARY SYSTEM:  [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL WALL: [Unremarkable.]\n\nPELVIS: [Unremarkable]\n\nOSSEOUS AND SPINE: [Unremarkable]\n\n\nCONCLUSION:\n\n []",
+    "prompt":  "1. Use the template and adhere to style and format.",
+    "tags":  [
+                 "CTAAP",
+                 "CTA Abdomen and pelvis"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-14T20:54:27.855Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

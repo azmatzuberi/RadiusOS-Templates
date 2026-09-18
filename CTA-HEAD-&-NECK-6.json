@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "69ebd8e3d49e6f6b9f12bf33"
+            },
+    "content":  "EXAM:  CTA HEAD and NECK\n\nHISTORY: []\n\nTECHNIQUE: CTA of the circle of Willis was performed with coronal and sagittal reformats. CTA of the neck was performed concurrently. \n\nDLP: [] mGY-cm\n\nIV CONTRAST: [Adminstered]\nCOMPARISON:  [None]\n\nCTA HEAD FINDINGS: The circle of Willis is overall intact.  There is no evidence for internal carotid artery dissection or intracranial dissection.  No AVM malformation seen.  No evidence for aneurysm.  Enhancement pattern is within normal limits.  \n\nCTA NECK FINDINGS:\n\nNONVASCULAR FINDINGS:\n\nLung Apices: [Negative]\n\nSoft tissue: [Negative]\n\nOsseous Structures: [Negative]\n\nVASCULAR FINDINGS:\n\n[Normal branch pattern of the aorta and great vessels. ]\n\n[No dissection, critical stenosis, or AVM malformation.]\n\nIMPRESSION: \n\n[]",
+    "createdAt":  {
+                      "$date":  "2026-04-24T20:56:03.584Z"
+                  },
+    "isPublic":  false,
+    "name":  "CTA HEAD \u0026 NECK",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "ctahn",
+                 "cta head and neck",
+                 "cta hn"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

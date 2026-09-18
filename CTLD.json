@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a68d671b2cf53eae86c3edc"
+            },
+    "content":  "FINDINGS:\n\nLungs: [Lungs are well aerated without infiltrate or focal consolidation.]  [No pleural effusion, pleural abnormality, or pneumothorax.]  [Lobar and segmental branches of the tracheobronchial tree are patent without endobronchial lesions.]\n\nPleura: [No effusions.]\n\nHeart: [Heart is normal in size without pericardial effusion.] \n\nVasculature:  [No aortic aneurysm.]\n\nLymphatics: [No axillary, mediastinal, or hilar lymphadenopathy.]\n[Supraclavicular soft tissues of the neck are normal.]\n\nAirway: [Visualized thyroid gland is normal in size, contour, and attenuation.]  [Airway is patent.]\n\nUpper Abdomen: [Soft tissues of the upper abdomen are normal.]\n\nCHEST WALL/OSSEOUS :  [Thoracic spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]\n\nNote:\nLow-dose CT is nondiagnostic for soft tissue details.\n\nCONCLUSION:\n[]",
+    "createdAt":  {
+                      "$date":  "2026-07-28T16:18:57.904Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CTLD",
+    "prompt":  "You must follow all rules exactly. Do not deviate.\n\nSECTION 1 — FORMAT AND FINDINGS RULES\n\nFor pulmonary nodules:\n\nList all pulmonary nodules in the LUNGS section.\n\nRemove the sentence “No suspicious pulmonary nodules seen.”\n\nDo not add any substitute sentence unless the input contains one.\n\nAdhere strictly to the template style, spacing, and format. Do not change section names, order, spacing, or structure.\n\nUse double line spacing between all sections and all lines.\n\nIf a section has no positive findings, write “Negative” in that section.\n\nDo not include the word “TEMPLATE” anywhere in the report.\n\nInclude Lung‑RADS as a recommendation inside the IMPRESSION section, not as a separate line.\n\nKeep pertinent negatives if fields are not changed. Dont just state negative. Use the statement from the template included. \n\nDo not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.\n\nAdd recommendations only if the input contains recommendations.\nIf present, place them as a separate line directly below the IMPRESSION using this exact format:\nRECOMMENDATIONS: []\n\nDo not add calcified granulomas to impression.\n\nDo not re-list pulmonary nodules and sizes in the impression and only summarize.\n\nSECTION 2 — LUNG-RADS LOGIC\n\nAdd lung rads as a RECOMMENDATION\n\nIf Lung-RADS 1:\nContinue annual low-dose CT in 12 months.\n\nIf Lung-RADS 2:\nContinue annual low-dose CT in 12 months.\n\nIf Lung-RADS 3:\nRecommend 6-month low-dose CT follow-up.\n\nIf Lung-RADS 4A:\nRecommend diagnostic chest CT in 3 months. Consider PET-CT if solid component is 8 mm or larger.\n\nIf Lung-RADS 4B:\nRecommend PET-CT and tissue sampling. Thoracic oncology referral is appropriate.\n\nIf Lung-RADS 4X:\nRecommend diagnostic chest CT (contrast as appropriate), PET-CT, tissue sampling, and thoracic oncology referral.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "CTLD",
+                 "CT LD",
+                 "CT low dose"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-10T16:20:23.239Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

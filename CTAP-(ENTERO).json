@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6931a59880d082ddefeed8a2"
+            },
+    "name":  "CTAP (ENTERO)",
+    "type":  "CT",
+    "content":  "INDICATION:   []  .\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  The patient was given Citra Select barium sulfate suspension orally. After a 45 minute delay, scans were obtained through the abdomen and pelvis following IV contrast infusion. Coronal and axial reformat images were included. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nCONTRAST:  [100] mL of Optiray (350 mg/mL) single-use vial was administered IV with [0] mL discarded. \n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\nFINDINGS:\n\nLung bases:  [Clear.]\n\nLiver:  [No enhancing mass. No intrahepatic biliary dilatation.]\n\nGallbladder:   [Unremarkable] \n\nCommon bile duct: [ Normal caliber. No calcified stones.]\n\nSpleen:  [Within normal limits.]\n\nPancreas: No enhancing mass. [  No pancreatic fluid collections.]\n\nAdrenals: [ No masses.]\n\nKidneys: [No enhancing mass] [ No hydronephrosis.]\n\nLymph nodes:  [No adenopathy.]\n\nStomach, small bowel and colon: [ No bowel wall thickening or obstruction.]\n\nPeritoneal cavity: [ No mesenteric stranding or free fluid.]\n\nOsseous structures:  [No acute fracture or destructive lesion.]\n\nAbdominal aorta: [ No aneurysm.]\n\nPelvic organs:  [Normal.]\n\nBladder:     No stones.]\n\nIMPRESSION: \n\n[Normal CT abdomen and pelvis.]\n",
+    "prompt":  "1. Put findings/input data and modify the included template.   Stay with the template format and style.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word.\n\n3.  Add clinical indication if given in input in the INDICATION section.\n\n4.  Add COMPARISON study if given in input in the Comparison section.\n\n5.  Keep double line spacing.\n\n6. Include staement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0].\"\n\n7. Do not add word history, use indication: \n\n8. If this is included, add to technique and do not remove:  \"Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient\u0027s kidney disease or diabetes requiring medication and absence of recent lab studies. I-STAT: Cr: [] mg/dL; calculated GFR [] mL/min.\" \n\n9. Dont add postdurgical changes or hardware or non-pertinent findings to the impression.\n\n10. Do not use \"EXAM\" as title. Use \"INDICATION\"  as detailed in template. Adhere to the template. \n\n",
+    "tags":  [
+                 "ctapw",
+                 "ctap with",
+                 "CTAP W",
+                 "CT AP W"
+             ],
+    "numpadCode":  "",
+    "radial":  "CTA",
+    "rvu":  1.82,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

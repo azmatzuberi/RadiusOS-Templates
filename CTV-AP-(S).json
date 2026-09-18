@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69374760e8d945893f443465"
+            },
+    "name":  "CTV AP (S)",
+    "type":  "CT",
+    "content":  "INDICATION:   venous insufficiency\n\nTECHNIQUE:  Helical axial scans were obtained through the abdomen and pelvis during IV contrast infusion, followed by 100 mL saline flush. Coronal reformat images as well as 3-D rotational reconstruction of aorta and in plane reconstructions of right and left iliac arteries were obtained. CT venogram performed. CT scan done according to ALARA (As Low As Reasonably Achievable). Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient\u0027s advanced age/risk factors and absence of recent lab studies. I-STAT: Cr: 0.8 mg/dL; calculated GFR 96 mL/min.\n\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  \n\n\nCOMPARISON: None\n\n Contrast:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration \nGI Contrast: None\n\n VASCULAR FINDINGS:\n\n \n\n NONVASCULAR FINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n\nIMPRESSION:\n\n []\n\n \n\n\n",
+    "prompt":  "Use INDICATION and not EXAM: for title. \n\nKeep or add this sentence:\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  \n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6a989778aaea8ebbbc38eeb9"
+            },
+    "content":  "FINDINGS:\n\nLungs:  [Lung bases are clear.]\n\nLiver:   [No intrahepatic biliary dilatation.]\n\nBILIARY system: [Unremarkable]\n\nSpleen:  [Within normal limits.]\n\nPancreas:    [No pancreatic fluid collections.]\n\nAdrenals:  [No masses.]\n\nKidneys:    [No hydronephrosis].\n\nBowel: [ No bowel wall thickening or obstruction.]\n\nPeritoneal cavity:  [No mesenteric stranding or free fluid.]\n\nPelvis: [Unremarkable]\n\nOsseous and spine:  [ No acute fracture or destructive lesion.]\n\nVascular:  [No aneurysm.]\n\nIMPRESSION: \n[]",
+    "createdAt":  {
+                      "$date":  "2026-09-02T21:39:04.773Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CTAPW",
+    "prompt":  "",
+    "radial":  "CTAP",
+    "rvu":  0,
+    "tags":  [
+                 "ctapw",
+                 "ct abdomen and pelvis"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-14T16:17:15.691Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "691e03717c57e63b87f63527"
+            },
+    "name":  "CT enterography",
+    "type":  "CT",
+    "content":  "INDICATION:     .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  The patient was given Citra Select barium sulfate suspension orally. After a 45 minute delay, scans were obtained through the abdomen and pelvis following IV contrast infusion. Coronal and axial reformat images were included. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nCONTRAST:  100 mL of Optiray (350 mg/mL) single-use vial was administered IV with 0 mL discarded. \n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\nFINDINGS:\n\nLung bases:  Clear.\n\nLiver and spleen:  Normal size. No mass.\n\nGallbladder:  No calcified stones or wall thickening identified.\n\nBile ducts:  No biliary dilatation.\n\nPancreas:  No mass or enlargement. No pancreatic fluid collections.\n\nAdrenals and kidneys:  No adrenal masses. Normal renal contours. No cysts. No stones identified. No hydronephrosis.\n\nAbdominal aorta:  No aneurysm.\n\nLymph nodes:  No adenopathy.\n\nBowel and mesentery:      There is a normal appearance of the stomach. No areas of bowel wall thickening or abnormal bowel wall enhancement are noted. Appendix is    .\n\nPeritoneal cavity:  No ascites.\n\nPelvic structures:  No significant findings.\n\nAbdominal wall:  No masses or hernias.\n\nSkeletal structures:  No significant findings.\n\nIMPRESSION:  \n\nCT of the abdomen and pelvis, with CT enterography, is within normal limits.\n",
+    "prompt":  "1. Put findings/input data and modify the included template.   Stay with the template format and style.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word.\n\n3.  Add clinical indication if given in input in the INDICATION section.\n\n4.  Add COMPARISON study if given in input in the Comparison section.\n\n5.  Keep double line spacing.\n\n6. Include staement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0].\"\n\n7. Do not add word history, use indication: \n\n8. If this is included, add to technique and do not remove:  \"Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient\u0027s kidney disease or diabetes requiring medication and absence of recent lab studies. I-STAT: Cr: [] mg/dL; calculated GFR [] mL/min.\" \n\n9. Dont add postdurgical changes or hardware or non-pertinent findings to the impression.\n\n10. Do not use \"EXAM\" as title. Use \"INDICATION\"  as detailed in template. Adhere to the template. \n\n11.  Use single line spacing.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

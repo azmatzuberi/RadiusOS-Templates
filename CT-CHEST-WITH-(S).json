@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68c866e1377c4e0e6cd36610"
+            },
+    "name":  "CT CHEST WITH (S)",
+    "type":  "CT",
+    "content":  "INDICATION:   []  . \n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to the lung bases following intravenous contrast administration. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nCONTRAST:  [100] mL of Optiray (350 mg/mL) single-use vial was administered IV with [0] mL discarded. \n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]\n\nFINDINGS:\n\nLungs and pleura:  [Lungs clear. No effusions.]\n\nMediastinum:  [No masses.]\n\nLymph nodes:  [No adenopathy.]\n\nHeart:  [No cardiomegaly.  No significant pericardial effusion.  No significant coronary artery calcifications.]\n\nGreat vessels:  No aortic aneurysm. [Normal caliber pulmonary arteries with no filling defect detected.]\n\nOsseous structures:  [No acute fracture or destructive lesion.]\n\nUpper abdomen:  [Portions of the abdomen included are normal.]\n\nIMPRESSION: \n\n[Normal CT chest.] [No abnormal enhancement.]\n\n\nDISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist\u0027s interpretation to assess the clinical significance of any detected findings.",
+    "prompt":  "Stick to the template style and format without deviation. \n\nDont add \"Exam\" title but \"INDICATION\" at the top.\n\n Include the statement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\"  as mentioned in template.\n",
+    "tags":  [
+                 "ctchw",
+                 "ct chest with"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

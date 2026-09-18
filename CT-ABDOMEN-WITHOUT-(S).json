@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68cdb31029b2b4e3e366fefa"
+            },
+    "name":  "CT ABDOMEN  WITHOUT (S)",
+    "type":  "CT",
+    "content":  "INDICATION:   [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE: CT scan of the abdomen was performed without IV contrast. Oral contrast not administered. CT scan done according to ALARA (As Low As Reasonably  Achievable.)\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]\n\nFINDINGS:\n\nLung bases:  [Clear.]\n\nLiver:   [No intrahepatic biliary dilatation.]\n\nGallbladder:  []  \n\nCommon bile duct:  [Normal caliber. No calcified stones.]\n\nSpleen:  [Within normal limits.]\n\nPancreas:    [No pancreatic fluid collections.]\n\nAdrenals:  [No masses.]\n\nKidneys:    [No hydronephrosis].\n\nLymph nodes:  [No adenopathy.]\n\nStomach, small bowel and colon: [ No bowel wall thickening or obstruction.]\n\nPeritoneal cavity:  [No mesenteric stranding or free fluid.]\n\nOsseous structures: [ No acute fracture or destructive lesion.]\n\nAbdominal aorta:  [No aneurysm.]\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "Keep single line spacing.\nuse the input to fill in the [] per field in the template. \n\n\nDont add exam title.  Use indication as depicted in the  template. \n\n",
+    "tags":  [
+                 "ctabwo",
+                 "ct abdomen without"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  1.19,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

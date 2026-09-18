@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "691368420853775c77e5ba31"
+            },
+    "name":  "CT HIRES (S)",
+    "type":  "CT",
+    "content":  "INDICATION:    [] .\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  High-resolution protocol was utilized to include initial contiguous helical axial scans through the thorax without IV contrast.  Coronal reconstructions as well as overlapping thin-slice axial reconstructions were included. Patient was scanned in both supine and prone position. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]\n\n\nIV Contrast: [None]\n\nFINDINGS:\n\nAIRWAY/THYROID: The airway is patent.  No thyromegaly.\n\nAORTA/VASCULAR: No aortic aneurysm.\n\nLUNGS:  No suspicious pulmonary nodules seen.  \n\nMEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. \n\nPLEURA:   No pleural effusion or pneumothorax seen.  \n\nHILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  \n \nAXILLARY: No bulky axillary adenopathy.  \n\nOSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. \n\n\nUPPER ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. \n \nIMPRESSION:\n\nNo acute process within the chest.",
+    "prompt":  "Keep single line spacing.\nuse the input to fill in the [] per field in the template. \n\n\nDont add exam title.  Use indication as depicted in the  template. \n\n",
+    "tags":  [
+                 "hires",
+                 "cthr"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  1,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

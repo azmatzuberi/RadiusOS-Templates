@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6939cb54c7d334acd2072bd0"
+            },
+    "name":  "CT NECK (s)",
+    "type":  "CT",
+    "content":  "INDICATION: [Reason for exam]\n\nCOMPARISON:   None.\n\nTECHNIQUE: CT scan of the neck was performed with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]\n\nCONTRAST: [None]\n\n\nFINDINGS:\n\nSINUSES: [Unremarkable.]\n\nNASOPHARYNX:  [Unremarkable.]\n\nOROPHARYNX:  [Unremarkable.] \n\nHYPOPHARYNX:  [Unremarkable.]\n\nLARYNX:  [Unremarkable.]\n\nTHYROID:  [Unremarkable.]\n\nSALIVARY/PAROTID GLANDS:   [Unremarkable.]\n\nVASCULATURE:  [Unremarkable.]\n\nLYMPHATICS:  [Unremarkable.]\n\nSUPRACLAVICULAR FOSSA:  [Unremarkable.]\n\nVISUALIZED UPPER CHEST:  [Unremarkable.]\n\nIMPRESSION:\n\n[]\n\n\n",
+    "prompt":  "1.  Use indication and not exam as title.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3. Add DLP if given into the report if given in input.\n\n4.  Add Clinical history if given in input in the HISTORY section.\n\n5.  Add  comparison study if given in input in the COMPARISON section.\n\n6. 5.  Add Contrast given if study if given in input in the CONTRAST section.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a988f27aaea8ebbbc38edef"
+            },
+    "content":  "FINDINGS:\n\n\nCHEST :\n\nAIRWAY: [Unremarkable.]\n\nAORTA:  [Unremarkable.]\n\nLUNGS:   [Unremarkable.]\n\nPLEURA:    [Unremarkable.]\n\nHILAR/MEDIASTINAL/AXILLARY STRUCTURES:  [No adenopathy.]\n\nCHEST WALL/OSSEUS:   [No osseous metastatic disease.]\n\n\nABDOMEN/PELVIS :\n\n\nLIVER:  [Unremarkable.]\n\nBILLIARY:  [Unremarkable.]\n\nSPLEEN:  [Unremarkable.] \n\nPANCREAS:  [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nKIDNEYS/BLADDER: [Unremarkable.]\n\nBOWEL:  [Unremarkable.]\n\nABDOMINAL WALL/MESENTERY:  [Unremarkable.]\n\nLYMPHATICS: [No abdominal or pelvic lymphadenopathy. ]\n\nAORTA and VASCULARITY:  [Unremarkable.]\n\nOSSEOUS AND SPINE:  [Unremarkable.]\n \n\nCONCLUSION:\n\n [Unremarkable.]",
+    "createdAt":  {
+                      "$date":  "2026-09-02T21:03:35.742Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CT CHEST AND ABDOMEN",
+    "prompt":  "You must follow all rules exactly. Do not deviate.\n\nSECTION 1 — TEMPLATE STRUCTURE RULES\n\nFollow the exact template structure. Do not change section names, order, spacing, or formatting.\n\nUse double line spacing between all sections and all lines.\n\nInclude all template fields, including pertinent negatives. Do not remove any field.\n\nDo not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.\n\nPlace hernias in the BOWEL section. If a finding does not fit any section, place it in OTHER.\n\nRemove all brackets.  \n\nSECTION 2 — FINDINGS RULES\n\nInclude every sentence from the input FINDINGS. Do not omit any sentence.\n\nIf a sentence does not match any section, place it in OTHER.\n\nSECTION 3 — IMPRESSION RULES\n\nSummarize the findings but do not combine into one sentence.\n\nDo not repeat sentences word-for-word.\n\nDo not copy verbatim.\n\nDo not merge findings.\n\nProvide concise, accurate summaries only.\n\nInclude pertinent negatives when clinically relevant, including statements such as “No obstructive uropathy or nephrolithiasis.”\n\nDo not include surgeries in the IMPRESSION.\n\nAdd recommendations only if the input contains recommendations. If present, place them directly below the IMPRESSION using:\nRECOMMENDATIONS: []\n\nSECTION 4 — BEHAVIOR RULES\n\nOutput must be deterministic.\n\nIf any rule conflicts, follow the strictest rule.",
+    "radial":  "",
+    "rvu":  1.8,
+    "tags":  [
+
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-10T16:18:53.991Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

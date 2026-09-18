@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69207d6d0f522ea65fa44e17"
+            },
+    "name":  "CTAPWO",
+    "type":  "CT",
+    "content":  "FINDINGS: \n\nLUNG: [Lung bases are clear.] \n\nLIVER: [Unremarkable.]\n\nBILIARY system: [Unremarkable]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nPELVIS: [Unremarkable]\n\nOSSEOUS  AND SPINE:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\nCONCLUSION:\n\n[]",
+    "prompt":  "1. Do not add titles such as  \"EXAM:, TECHNIQUE:, HISTORY:, COMPARISON:\" to these reports but formulate the impression/conclusion in an numbered format. \n\n2. Add pertinent negatives like: No obstructive uropathy or nephrolithiasis if mentioned in the findings/input.\n\n3. Make sure to summarize findings in the conclusion/impression and add recommendations below conclusion/impression if included in the findings/input data.\n\n4. Do not truncate impressions from the input box when generating.\n\n5. Do not leave any brackets, []",
+    "tags":  [
+                 "ctapwo",
+                 "CT abdomen and pelvis without "
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-14T20:42:43.152Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

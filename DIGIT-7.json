@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a0768bffab2e18bc01b4fd1"
+            },
+    "content":  "HISTORY:  Pain/injury.\n\nTECHNIQUE:  Imaging of the []  performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nOverall alignment is anatomic.\n\nThere is no fracture or dislocation. \n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically.",
+    "createdAt":  {
+                      "$date":  "2026-05-15T18:41:03.834Z"
+                  },
+    "isPublic":  false,
+    "name":  "DIGIT",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "digit",
+                 "xrd",
+                 "digit xray"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

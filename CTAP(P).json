@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6967e7507992559faa3f1d40"
+            },
+    "name":  "CTAP(P)",
+    "type":  "X-Ray",
+    "content":  "FINDINGS:\n[Visualized lower lungs are clear.]\n\n\n\n[Heart is normal in size without pericardial effusion.]\n\n\n\n[Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]\n\n\n\n[Gallbladder normal without gallbladder wall thickening or pericholecystic fluid.  No calcified stones within the gallbladder.]\n\n\n\n[Spleen is normal in size, contour, and attenuation.]\n\n\n\n[Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]\n\n\n\n[No adrenal masses.]\n\n\n\n[Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] \n\n\n\n[No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]\n\n\n\n[Abdominal aorta and arborizing branches are normal in course and caliber.]\n\n\n\n[No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]\n\n\n\n[Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]\n\nCONCLUSION:\n[]\n\n\n\nThank you for the opportunity to provide your interpretation.\n",
+    "prompt":  "Dont add EXAM, technique, history, or comparison to these reports.\n\nuse double line spacing\n\nuse the template as our outline and keep the style and format. ",
+    "tags":  [
+                 "ctapw"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

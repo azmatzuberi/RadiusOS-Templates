@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "68c01ee764d1f570dfbcb8c3"
+            },
+    "name":  "CT LOW DOSE (S)",
+    "type":  "CT",
+    "content":  "INDICATION:  Pulmonary nodule.\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Scans were obtained through the thorax without IV contrast, to include contiguous axial images with bone and soft tissue algorithm. Thin slice axial reformat and coronal reformat images were included. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\n\nIV Contrast: [None]\n\nFINDINGS:\n\nLungs and pleura:  [Lungs clear. No effusions.]\n\nMediastinum and pulmonary hila:  [No mass or adenopathy.]\n\nHeart:  [No cardiomegaly.  No significant pericardial effusion.  No significant coronary artery calcifications.]\n\nGreat vessels:  [No aortic aneurysm. The pulmonary arteries are of normal caliber.]\n\nSkeletal structures and chest wall:  [Unremarkable.]\n\nUpper abdomen: [ No significant findings.]\n\nIMPRESSION: \n\n[Noncontrast CT of the chest is within normal limits.]\n\n\nDISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist\u0027s interpretation to assess the clinical significance of any detected findings.\n \nIMPRESSION:\n\n[]\n\nRecommedations: \n\n[]",
+    "prompt":  "1. Adhere to the template style and format without altering and and replace [] with findings from input. \n\n2. Use INDICATION not EXAM for title. Dont add a separate history section. \n\n3.  Include the statement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\"  as mentioned in template.\n\n4. Dont relist any pulmonary nodules in impression.  Make a general statement. ",
+    "tags":  [
+                 "ctld",
+                 "ct low dose",
+                 "ctchld"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  1.08,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

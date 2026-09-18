@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6998adf3f95e4682410a66d9"
+            },
+    "name":  "DIGIT",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain/injury.\n\nTECHNIQUE:  Imaging of the []  performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nOverall alignment is anatomic.\n\nThere is no fracture or dislocation. \n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically. ",
+    "prompt":  "",
+    "tags":  [
+                 "digit",
+                 "xrd",
+                 "digit xray",
+                 "XR Finger"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

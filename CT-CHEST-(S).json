@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "68a730a043e07de84cc4140d"
+            },
+    "name":  "CT CHEST (S)",
+    "type":  "CT",
+    "content":  "INDICATION:  [ ]  .\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Scans were obtained through the thorax without IV contrast, to include contiguous axial images with bone and soft tissue algorithm. Thin slice axial reformat and coronal reformat images were included. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\nFINDINGS:\n\nPulmonary parenchyma:  [No consolidation. No emphysema.]\n\nAirways: [The central airways are patent].\n\nPleural space: [There is no pleural effusion.]\n\nLymph nodes: [No enlarged mediastinal, hilar or axillary lymph node.]\n\nMediastinum: [No lesion.]\n\nHeart:  No cardiomegaly. [ No significant pericardial effusion.  No significant coronary artery calcifications.]\n\nGreat vessels:  [No aortic aneurysm. The pulmonary arteries are of normal caliber.]\n\nSkeletal structures and chest wall: [No destructive osseous lesion.]\n\nUpper abdomen: [No significant finding.]\n\nIMPRESSION: \n\n[Noncontrast CT of the chest is within normal limits].\n\nLungRADS Assessment Categories Release date: 2022\n\n   \n\n\nDISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist\u0027s interpretation to assess the clinical significance of any detected findings.",
+    "prompt":  " \n1.Modify the template data with the input data given.  \n\n2. If clincal history provided. Add to indication section.\n\n3. include sentences in impression if given. \n\n4. Use single line spacing.\n\n5. Do not add \"EXAM\" as title and use \"INDICATION\" as specified in temlate.\n\n6. Include the statement \"Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\"  as mentioned in template.\n\n7. Use double line spacing.",
+    "tags":  [
+                 "ctch",
+                 "ct chest",
+                 "ctchwo"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  1.08,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

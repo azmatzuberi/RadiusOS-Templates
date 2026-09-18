@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69d52d159d77f2470c17ea35"
+            },
+    "name":  "CTA Chest and Abdomen",
+    "type":  "CT",
+    "content":  "EXAM:CTA Chest and Abdomen \n\nTECHNIQUE: CTA of the chest and abdomen  was performed with IV contrast. Oral contrast not administered. CT scan done according to ALARA (As Low As Reasonably  \n \n\nCOMPARISON: None\n\n Contrast: Adminstered.\nGI Contrast: None\n\nFINDINGS:\n\n\n VASCULAR FINDINGS:\n\nNormal aortic arch and take off of the major vessels.\nNo ascending or descending thoracic aneurysm or dissection.\n\n The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.\n  There is normal branch pattern.\n  No abdominal aortic aneurysm or dissection.\n  No aortoiliac disease.\n  Patent common, bilateral iliac, external and internal iliac arteries.\n  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.\n\n\n NONVASCULAR FINDINGS: \n\nAIRWAY: Unremarkable.] \n\nMEDIASTINUM: Unremarkable.] \n\nCHEST WALL: Unremarkable.] \n\nHILUM/AXILLARY: Unremarkable.] \n\nLUNGS: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nBILIARY System: [Unremarkable]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS AND SPINE: [Unremarkable]\n\nVASCULATURE: [Unremarkable.]\n\n\nCONCLUSION:\n\n []",
+    "prompt":  "1. use INIDCATION and not EXAM title\n\n2. Use tempate style and format. Dont make one or two big sentences. \n \n3. Use double spacing\n\n4. Adhere to the template style and format and preserve sections like Liver: Kidneys: etc.  Don\u0027t omit and bunch all sentences together. \n\n5. include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-10T16:19:24.935Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

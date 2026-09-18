@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a03353b196057a2a65145cc"
+            },
+    "content":  "INDICATION:  AAA repair\n\nTECHNIQUE:  Helical axial scans were obtained through the abdomen and pelvis before and during IV contrast infusion, followed by 100 mL saline flush. Coronal reformat images as well as MIP reconstruction were performed. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  \n\n\nCOMPARISON: None\n\n Contrast:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration \nGI Contrast: None\n\n VASCULAR FINDINGS:\n\n The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.\n  There is normal branch pattern.\n  No abdominal aortic aneurysm or dissection.\n  No aortoiliac disease.\n  Patent common, bilateral iliac, external and internal iliac arteries.\n  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.\n\n\n NONVASCULAR FINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n\nIMPRESSION:\n\n []\n[No aortic dissection, aneurysm or critical mesenteric or vascular stenosis. ]",
+    "createdAt":  {
+                      "$date":  "2026-05-12T14:12:11.346Z"
+                  },
+    "isPublic":  false,
+    "name":  "CTA AP (S)",
+    "prompt":  "Use INDICATION and not EXAM: for title. \n\nKeep or add this sentence:\n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

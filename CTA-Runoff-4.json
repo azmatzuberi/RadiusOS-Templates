@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea0c5"
+            },
+    "name":  "CTA Runoff",
+    "type":  "CT",
+    "content":  "EXAM:CTA Abdomen/Pelvis with runoff\n\nTECHNIQUE: CTA of the abdomen and pelvis with bilateral extremity runoff was performed with IV contrast. Oral contrast not administered. CT scan done according to ALARA (As Low As Reasonably  \n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]\n\nCOMPARISON: None\n\n Contrast:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration \nGI Contrast: None\n\n VASCULAR FINDINGS:\n\n The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.\n  There is normal branch pattern.\n  No abdominal aortic aneurysm or dissection.\n  No aortoiliac disease.\n  Patent common, bilateral iliac, external and internal iliac arteries.\n  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.\n\n\n NONVASCULAR FINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n\nIMPRESSION:\n\n []\n\n \n\n",
+    "prompt":  "1. use INIDCATION and not EXAM title\n\n2. Use tempate style and format. Dont make one or two big sentences. \n \n3. Use double spacing\n\n4. Adhere to the template style and format and preserve sections like Liver: Kidneys: etc.  Don\u0027t omit and bunch all sentences together. \n\n5. include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

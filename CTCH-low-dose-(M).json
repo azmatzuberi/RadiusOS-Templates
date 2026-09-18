@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab3a745851246ed0645946"
+            },
+    "name":  "CTCH low dose (M)",
+    "type":  "CT",
+    "content":  "EXAM:  CT OF THE CHEST WITHOUT IV CONTRAST \n\nHISTORY:   High-risk patient\n\n\nCOMPARISON: None\n\nTECHNIQUE: Low dose CT of the chest was performed.  Coronal and sagittal reformats were obtained from the axial data set.\n\nIV Contrast: None\n\nDLP: [] MGY*cm\n\nFINDINGS:\n\nAIRWAY/THYROID: The airway is patent.  No thyromegaly.\n\nAORTA/VASCULAR: No aortic aneurysm.\n\nLUNGS:  No suspicious pulmonary nodules seen.  \n\nMEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. \n\nPLEURA:   No pleural effusion or pneumothorax seen.  \n\nHILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  \n \nAXILLARY: No bulky axillary adenopathy.  \n\nOSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. \n\n\nUPPER ABDOMEN:   Limited by low dose technique.\n \nIMPRESSION:\n\n[]\n\nRecommedations: \n\n[]",
+    "prompt":  "1. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format. \n2. Keep it in outline format and organ based.  Dont write in a single prose paragraph.\n3. Dont include CTDI: \n",
+    "tags":  [
+                 "ctch",
+                 "ctld",
+                 "EXAM:  CT Chest wo Con",
+                 "CT Lung Screen Low Dose"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a7403dcbfb767b13d9a18a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

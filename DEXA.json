@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "686d2444c5bab2a6a40a1a75"
+            },
+    "name":  "DEXA",
+    "type":  "X-Ray",
+    "content":  "PROCEDURE: XR Bone Density - Axial \n\nComparison: None\n\nHISTORY: MENOPAUSAL\n\nTECHNIQUE:  Dual energy x-ray evaluation of the lumbar spine and both hips was performed.\n\nFINDINGS: The T score for the lumbar spine L1-L4 is [-1.6]\nThe T score for the left femoral neck is [-2.1]\nThe T score for the total left hip is [-1.2]\nThe T score for the right femoral neck is [-2.0]\nThe T score for the total right hip is [-1.0]\nThe T score for the total bilateral hips is [-1.1]\n\nNote: The normal T score is equal to or greater than -1 SD.\n         Osteopenia corresponds to a T score between -1 and -2.5 SD.\n         Osteoporosis corresponds to a T score at or below -2.5 SD.\n\nThe 10 year probability of major osteoporotic fracture Frax score is 10.7%\nThe hip fracture Frax score is 1.7%\n\nIMPRESSION: \n \n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "787",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

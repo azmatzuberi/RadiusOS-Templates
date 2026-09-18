@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69c44ca7a97074bc7482e0fd"
+            },
+    "name":  "CTA PAN SCAN",
+    "type":  "CT",
+    "content":  "CTA CHEST/AORTA:\nNo thoracic   Ascending or  descending aortic aneurysm or dissection.\n\nABDOMEN/PLEVIS VASCULAR FINDINGS:\n\n The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.\n  Bilateral renal arteries are patent.\n  There is normal branch pattern.\n  No abdominal aortic aneurysm or dissection.\n  No aortoiliac disease.\n  Patent common, bilateral iliac, external and internal iliac arteries.\n  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.\n\n\n NONVASCULAR FINDINGS: \n\n LUNGS:\nThe lungs are clear. No pulmonary mass. No focal airspace consolidation. \n\nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax. \n\nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion. \n\n\nCHEST WALL:\n The chest wall is unremarkable. \n\nLIVER: [Unremarkable.]\n\nBILIARY System: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL/PELVIC WALL: [Unremarkable.]\n\nBLADDER:  [Unremarkable.]\n\nPLEVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS  AND SPINE: [Unremarkable]\n\n\nCONCLUSION:\n\n []",
+    "prompt":  "",
+    "tags":  [
+                 "cta pan scan",
+                 "CTA whole body"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-10T16:19:39.685Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

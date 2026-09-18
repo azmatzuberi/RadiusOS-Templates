@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "693c258cc7d334acd20731d2"
+            },
+    "name":  "CTA NECK (S)",
+    "type":  "CT",
+    "content":  "INDICATION:\n\n\nTECHNIQUE:  Contiguous axial images were obtained through the abdomen and pelvis with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\nCONTRAST:  [100] mL of Optiray (350 mg/mL) single-use vial was administered IV with [0] mL discarded. \n\nPrior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0\n\n\nNONVASCULAR FINDINGS:\n\nLung Apices: [Negative]\n\nSoft tissue: [Negative]\n\nOsseous Structures: [Negative]\n\nVASCULAR FINDINGS:\n\n[Normal branch pattern of the aorta and great vessels. ]\n\n[No dissection, critical stenosis, or AVM malformation.]\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

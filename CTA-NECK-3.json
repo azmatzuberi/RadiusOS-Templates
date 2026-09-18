@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e13"
+            },
+    "name":  "CTA NECK",
+    "type":  "CT",
+    "content":  "\nEXAM: CTA NECK\n\nCOMPARISON:   None\n\nTECHNIQUE:  CTA of the neck  was performed with coronal and sagittal reformats.\n\n DOSE:\n CTDI (mGy) and DLP (mGy-cm) respectively:  \n\n\nCONTRAST: [Administered]\n\nNONVASCULAR FINDINGS:\n\nLung Apices: [Negative]\n\nSoft tissue: [Negative]\n\nOsseous Structures: [Negative]\n\nVASCULAR FINDINGS:\n\n[Normal branch pattern of the aorta and great vessels. ]\n\n[No dissection, critical stenosis, or AVM malformation.]\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

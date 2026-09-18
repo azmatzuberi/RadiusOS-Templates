@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea0c0"
+            },
+    "name":  "CT NECK",
+    "type":  "CT",
+    "content":  "INDICATION: [Reason for exam]\n\nCOMPARISON:   None.\n\nTECHNIQUE: CT scan of the neck was performed with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)\n\n\nCONTRAST: [None]\n\n\nFINDINGS:\n\nSINUSES: [Unremarkable.]\n\nNASOPHARYNX:  [Unremarkable.]\n\nOROPHARYNX:  [Unremarkable.] \n\nHYPOPHARYNX:  [Unremarkable.]\n\nLARYNX:  [Unremarkable.]\n\nTHYROID:  [Unremarkable.]\n\nSALIVARY/PAROTID GLANDS:   [Unremarkable.]\n\nVASCULATURE:  [Unremarkable.]\n\nLYMPHATICS:  [Unremarkable.]\n\nSUPRACLAVICULAR FOSSA:  [Unremarkable.]\n\nVISUALIZED UPPER CHEST:  [Unremarkable.]\n\nIMPRESSION:\n\n[]\n\n\n",
+    "prompt":  "1. Move impression statement above the findings statement. \n2. Include DLP as DLP (mGy-cm): []\n\n3. Use pertinent negatives and refrain from using \"Not mentioned\"",
+    "tags":  [
+                 "ct neck"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

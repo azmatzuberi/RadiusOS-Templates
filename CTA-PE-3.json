@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e2c"
+            },
+    "name":  "CTA PE",
+    "type":  "CT",
+    "content":  "EXAM:\nCTA Chest with Intravenous Contrast\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial CTA images of the chest with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative reconstruction. \n\nCONTRAST:\nWith;\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nPULMONARY ARTERIES:\nThere is no intraluminal filling defect suspicious for PE.  No right heart strain.\n\nAORTA:\nNo thoracic aortic aneurysm or dissection.\n\nLUNGS:\nThe lungs are clear. No pulmonary mass. No focal airspace consolidation. \n\nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax. \n\nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion. \n\nLYMPH NODES:\nNo lymphadenopathy.\n\nBONES:\nNo focal osseous abnormality or acute fracture.\n\nCHEST WALL AND UPPER ABDOMEN:\nImages through the upper abdomen are unremarkable. The chest wall is unremarkable. \n\nIMPRESSION:\nNo evidence for pulmonary embolism.  No right heart strain.",
+    "prompt":  "1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3. include DLP if given in the input and placed under contrast field.\n\n4.  Add Clinical history if given in input in the History section.\n\n5.  Add COMPARISON study if given in input in the Comparison section.. ",
+    "tags":  [
+                 "CTA",
+                 "PE"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

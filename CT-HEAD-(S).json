@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6942fbcd78e47fffa1d25b56"
+            },
+    "name":  "CT HEAD (S)",
+    "type":  "CT",
+    "content":  "EXAM: CT HEAD \n\nHistory:  []\n\nCOMPARISON: No priors.\n \nTECHNIQUE: Multiple CT images were performed of the head without intravenous contrast material. \n\nCONTRAST: NONE\n \nFINDINGS:\n\nBRAIN: The ventricles, sulci and gyri are within normal limits.    There is no mass effect. There is no midline shift.\n\n\nSINUSES: Visualized sinuses are clear.\n\nSKULL BASE/ CALVARIUM: The skull base, calvarium and surrounding musculature are within normal limits. The mastoid air cells are clear.\n \nIMPRESSION:\n \nNo acute intracranial process by unenhanced technique.  No intracranial bleed. \n\n",
+    "prompt":  " \n\nUse input findings to change the template data and form an impression.\n\ninclude the radiation dose if provided below the impression.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

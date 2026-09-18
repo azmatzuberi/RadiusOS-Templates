@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6aa4362868bc79759b18a485"
+            },
+    "content":  "FINDINGS:\n\nLung nodules: []\n\nNodule assessment, as seen on series [] : [No measurable nodules are identified.]\n\nComorbidities Reporting:\n\nPulmonary: []\n\nEmphysema:  []     \n\nAirway inflammation: []  \n\nBronchiectasis: [] \n\nInterstitial Lung Disease: []  \n\nAdditional positive findings: []  \n\nExtra pulmonary: \n\nCoronary calcification:  []    \n\nHeart size: []  \n\nPulmonary artery: []  \n\nHiatus hernia: []  \n\nBone density: []  \n\nObesity: []  \n\nAdditional positive findings: []\n\nCONCLUSION:\n\n[]",
+    "createdAt":  {
+                      "$date":  "2026-09-11T17:11:04.534Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CT temple",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "ct temple"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-16T20:16:57.697Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

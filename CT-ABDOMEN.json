@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6aa9691768bc79759b18b759"
+            },
+    "content":  "FINDINGS: \n\nLUNGS: [Lung bases are clear.] \n\nLIVER: [Unremarkable.]\n\nBILIARY system: [Unremarkable]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Visualized bowel is unremarkable.] \n\nOSSEOUS  AND SPINE:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\nCONCLUSION:",
+    "createdAt":  {
+                      "$date":  "2026-09-15T15:49:43.048Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "CT ABDOMEN",
+    "prompt":  "",
+    "radial":  "CTAP",
+    "rvu":  0,
+    "tags":  [
+                 "ct abdomen",
+                 "ct abdomen only",
+                 "CT abdomen abdomen"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-15T18:09:41.446Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

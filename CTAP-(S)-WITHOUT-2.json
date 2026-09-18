@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c43"
+            },
+    "name":  "CTAP (S) WITHOUT",
+    "type":  "CT",
+    "content":  "TECHNIQUE:  Contiguous axial images were obtained through the abdomen and pelvis without IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable).\n\n\nCONTRAST: None\n\nFINDINGS:\n\nLung bases:  [Clear.]\n\nLiver:  [No intrahepatic biliary dilatation.]\n\nGallbladder:   [Unremarkable] \n\nCommon bile duct: [ Normal caliber. No calcified stones.]\n\nSpleen:  [Within normal limits.]\n\nPancreas: [  No pancreatic fluid collections.]\n\nAdrenals: [ No masses.]\n\nKidneys:  [ No hydronephrosis.]\n\nLymph nodes:  [No adenopathy.]\n\nStomach, small bowel and colon: [ No bowel wall thickening or obstruction.]\n\nPeritoneal cavity: [ No mesenteric stranding or free fluid.]\n\nOsseous structures:  [No acute fracture or destructive lesion.]\n\nAbdominal aorta: [ No aneurysm.]\n\nPelvic organs:  [Normal.]\n\nBladder:     No stones.]\n\nIMPRESSION: \n\n[Normal CT abdomen and pelvis.]\n",
+    "prompt":  "1.  Adhere to template structure and format in outline fashion. Dont make paragraphs of just the data.  If section not described, state unremarkable. \n\n2.  Add COMPARISON study if given in input in the Comparison section.\n\n3.  Keep double line spacing.\n\n4. Don\u0027t add post surgical findings to the impression. Only pertinent positives or negatives and recommendations. \n\n5. Do not include EXAM:  in generated report\n6. Do not include HISTORY:  in generated report\n \n",
+    "tags":  [
+                 "ctapwo",
+                 "CTAP without",
+                 "CT AP WO",
+                 "CT Abdomen+Pelvis wo IV Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
