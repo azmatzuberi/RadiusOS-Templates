@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "684712413e737c21716fb7ac"
+            },
+    "name":  "ANKLE",
+    "type":  "MRI",
+    "content":  "EXAM: MRI ANKLE\nHISTORY:  []\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [] ankle with intravenous contrast.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nLIGAMENTS:\nANTERIOR TALOFIBULAR:\n[Unremarkable.]\nPOSTERIOR TALOFIBULAR:\n[Unremarkable.]\nANTERIOR TIBIOFIBULAR:\n[Unremarkable.]\nPOSTERIOR TIBIOFIBULAR:\n[Unremarkable.]\nCALCANEOFIBULAR:\n[Unremarkable.]\nDELTOID:\n[Unremarkable.]\nSPRING:\n[Unremarkable.]\nLISFRANC:\n[Unremarkable.]\nTENDONS:\nACHILLES:\n[Unremarkable.]\nPOSTERIOR TIBIAL:\n[Unremarkable.]\nFLEXOR:\n[Unremarkable.]\nEXTENSOR:\n[Unremarkable.]\nPERONEAL:\n[Unremarkable.]\nBONES:\nNo acute fracture or focal osseous lesion.\nMUSCLES:\n[Unremarkable.]\nFLUID:\nNo joint effusion.\nSINUS TARSI:\n[Unremarkable.]\nTARSAL TUNNEL:\n[Unremarkable.]\nPLANTAR FASCIA:\n[Unremarkable.]\nCARTILAGE:\n[Unremarkable.]\nIMPRESSION:\n\n\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

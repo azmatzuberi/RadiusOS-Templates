@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69af24cc5851246ed0646d8b"
+            },
+    "name":  "Abdomen",
+    "type":  "X-Ray",
+    "content":  "PROCEDURE: XR Abdomen AP\n\n HISTORY:  Pain\n\nTECHNIQUE:   Abdominal views performed.\n\nCOMPARISON: None\n\nFINDINGS: \n\nThe bowel gas pattern is unremarkable.  \n\nFair amount of stool is present. \n\nThe renal fossa are obscured by bowel. \n\nNo abnormal calcification seen.\n\nUnderlying osseous structures are intact.\n\nIMPRESSION: \n\n   ",
+    "prompt":  "modify the findings based on the input data.",
+    "tags":  [
+                 "kub",
+                 "cab",
+                 "PROCEDURE: XR Abdomen AP\r\n"
+             ],
+    "numpadCode":  "455",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

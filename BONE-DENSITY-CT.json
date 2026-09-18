@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "686c186a18dfb3b62f5db2d5"
+            },
+    "name":  "BONE DENSITY CT",
+    "type":  "CT",
+    "content":  "\nTECHNIQUE:  CT bone density analysis was performed on a Siemens scanner with analysis of cortical and trabecular density of the L2, L3 and L4 vertebrae. \n\nDOSE:\n CTDI (mGy) and DLP (mGy-cm) respectively: \n\n\nFINDINGS:\n\nTotal cortical bone mineral density measures \n[] mg CA-HA/ml.\n\nTotal trabecular bone density measures [] mg CA-HA/ml. \nT score: []\nZ score: []\n\nNormal = Trabecular BMD \u003e 120 CA-HA/ml\nOsteopenia = Trabecular BMD 80 - 120 CA-HA/ml\nOsteoporosis = Trabecular BMD \u003c80 CA-HA/ml\n\nIMPRESSION:\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

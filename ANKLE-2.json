@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "686d8729c5bab2a6a40a1b38"
+            },
+    "name":  "ANKLE",
+    "type":  "X-Ray",
+    "content":  "\nHISTORY: Pain \n\nTECHNIQUE: Multiple views of the [] ankle performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nAlignment maintained.\n\nThere is no displaced fracture.  \n\n No joint effusion seen.\n\nAnkle mortise is anatomic. \n\nBones appear normally mineralized for age. \n\nSoft tissues are unremarkable. \n\nIMPRESSION:  \n\nNo fracture or dislocation seen. \n",
+    "prompt":  "  Modify the findings with the input data.  Only summarize impression.",
+    "tags":  [
+                 "xa",
+                 "ankle"
+             ],
+    "numpadCode":  "232",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

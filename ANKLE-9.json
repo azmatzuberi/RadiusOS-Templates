@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c56"
+            },
+    "name":  "ANKLE",
+    "type":  "X-Ray",
+    "content":  "EXAM:  Ankle\n\nHISTORY: [Pain ]\n\nTECHNIQUE: Multiple views of the [right] ankle performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nAlignment maintained.\n\nThere is no displaced fracture.  \n\n No joint effusion seen.\n\nAnkle mortise is anatomic. \n\nBones appear normally mineralized for age. \n\nSoft tissues are unremarkable. \n\nIMPRESSION:  \n\nNo fracture or dislocation seen. \n",
+    "prompt":  "",
+    "tags":  [
+                 "xa",
+                 "x-ray ankle",
+                 "XR ankle"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

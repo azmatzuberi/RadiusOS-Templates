@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea08b"
+            },
+    "name":  "ARTERIAL",
+    "type":  "Ultrasound",
+    "content":  "EXAM: Arterial Ultrasound\n\nHISTORY:  Peripheral vascular disease.\n\n\nCOMPARISON:  None\n\nTECHNIQUE:  Real-time images, Color flow Doppler and Doppler spectral analysis performed on the [] lower extremity arteries.\n\nFINDINGS: \n\nThere is no significant flow acceleration. There are biphasic and triphasic waveforms from the common femoral arteries through the dorsalis pedis arteries.\n\nIMPRESSION: \n\nNo signs of occlusive peripheral vascular  \n",
+    "prompt":  "\nWith velocity data from input or OCR, Present in a justified table format for clarity and readability.\n\nAlso convert any values in m/s to cm/s if given in m/s otherwise leave as is.\n\n please include ankle-brachial index from the OCR data if available.\n\n",
+    "tags":  [
+                 "usa",
+                 "arterial"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

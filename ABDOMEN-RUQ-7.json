@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea0b0"
+            },
+    "name":  "ABDOMEN RUQ",
+    "type":  "Ultrasound",
+    "content":  "EXAM:      RIGHT UPPER QUADRANT  ULTRASOUND EXAMINATION\n\nHISTORY:  []  \n\nTECHNIQUE:   Right upper quadrant ultrasound of the abdomen was performed. Color flow Doppler and Doppler spectral analysis performed.\n\n\nCOMPARISON: None\n\n\nFINDINGS:\n\nLIVER:  [Unremarkable.]\n\nCommon bile duct :  [Unremarkable.]\n\nGallbladder:  [Unremarkable.]\n\nPancreas:  [Unremarkable.]\n\nRight kidney:  [Unremarkable.]\n\n\nIMPRESSION:\n \n[]\n\n\n\n\n\n\n\n\n\n",
+    "prompt":  "Use the input data to modify the template.\n\nAdd all measurements for reporting. ",
+    "tags":  [
+                 "right upper quadrant"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

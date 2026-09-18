@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "694430f278e47fffa1d26011"
+            },
+    "name":  "ARTERIAL UE (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:     .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Bilateral upper extremity arterial system ultrasound examination using color Doppler, spectral Doppler and grayscale imaging. \n\nFINDINGS: \n\nRight brachial pressure:     mmHg\nLeft brachial pressure:     mmHg\n\nRight upper extremity:\nSubclavian artery proximal:     cm/sec    \nSubclavian artery mid:     cm/sec     \nSubclavian artery distal:     cm/sec     \nAxillary artery proximal:     cm/sec    \nAxillary artery mid:     cm/sec    \nAxillary artery distal:     cm/sec    \nBrachial artery proximal:     cm/sec    \nBrachial artery mid:     cm/sec    \nBrachial artery distal:     cm/sec    \nRadial artery proximal:     cm/sec     \nUlnar artery proximal:     cm/sec    \n\nLeft Upper Extremity:\nSubclavian artery proximal:     cm/sec    \nSubclavian artery mid:     cm/sec     \nSubclavian artery distal:     cm/sec     \nAxillary artery proximal:     cm/sec    \nAxillary artery mid:     cm/sec    \nAxillary artery distal:     cm/sec    \nBrachial artery proximal:     cm/sec    \nBrachial artery mid:     cm/sec    \nBrachial artery distal:     cm/sec    \nRadial artery proximal:     cm/sec     \nUlnar artery proximal:     cm/sec    \n\nIMPRESSION:  \n\n1. No visible atheromatous plaque.\n\n2. No hemodynamically significant stenosis.\n\n ",
+    "prompt":  "Stick to the template style and don\u0027t alter.  At the top should be indication: not Exan:",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

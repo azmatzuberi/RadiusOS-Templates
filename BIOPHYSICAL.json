@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a160d466642fff2e59f6f6e"
+            },
+    "content":  "PROCEDURE:\nBiophysical Profile (BPP)\n\nREASON FOR EXAM:\nRoutine third-trimester fetal surveillance.\n\nCOMPARISON:\nNone.\n\nTECHNIQUE:\nReal-time ultrasound evaluation of fetal biophysical parameters performed.\n\nFINDINGS:\n\nFetal Breathing Movements:\nPresent. At least one episode of rhythmic breathing lasting ≥30 seconds observed within 30 minutes.\n\nFetal Movement:\nThree or more discrete body or limb movements noted during the examination.\n\nFetal Tone:\nAt least one episode of active extension with return to flexion of fetal limbs or trunk observed.\n\nAmniotic Fluid Volume:\nAdequate. Single deepest vertical pocket measures [] cm. No evidence of oligohydramnios.\n\n\nIMPRESSION:\nNormal biophysical profile. Total score: 8/8 (NST included). No evidence of fetal compromise.",
+    "createdAt":  {
+                      "$date":  "2026-05-26T21:14:46.470Z"
+                  },
+    "isPublic":  false,
+    "name":  "BIOPHYSICAL",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "ultrasound",
+                 "biophysical",
+                 "BPP"
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

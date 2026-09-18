@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "689f9afb0c105939dc77b24a"
+            },
+    "name":  "ABI(S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  [Claudication].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Arterial Dopplers of the lower extremities were performed as well as ankle pressure measurements.\n\nFINDINGS:  \n\nPRESSURES:\n\nRIGHT\nBrachial:  []    mmHg              \nAnkle:  []    mmHg              \nABI:        []                     \n\nLEFT\nBrachial:   []   mmHg              \nAnkle:  []    mmHg              \nABI:     []                     \n   \nSPECTRAL ANALYSIS:  Peak systolic velocities are measured in cm/second. \n\nRIGHT\nProximal common femoral:  [], multiphasic          \nProximal profunda femoris:  [], multiphasic               \nProximal superficial femoral:  [], multiphasic                        \nDistal superficial femoral:  [], multiphasic                     \nProximal popliteal:  [], multiphasic                     \nDistal popliteal:  [], multiphasic                      \nProximal posterior tibial:  [], multiphasic                      \nDistal posterior tibial:  [], multiphasic                      \nDistal peroneal:  [], multiphasic  \nProximal anterior tibial:  [], multiphasic                    \nDistal anterior tibial:  [], multiphasic  \nProximal dorsalis pedis:  [], multiphasic                      \n\nLEFT\nProximal common femoral:  [], multiphasic     \nProximal profunda femoris:  [], multiphasic                                 \nProximal superficial femoral:  [], multiphasic                        \nDistal superficial femoral:  [], multiphasic                     \nProximal popliteal:  [], multiphasic                     \nDistal popliteal:  [], multiphasic                      \nProximal posterior tibial:  [], multiphasic                      \nDistal posterior tibial:  [], multiphasic                      \nDistal peroneal:  [], multiphasic  \nProximal anterior tibial:  [], multiphasic                    \nDistal anterior tibial:  [], multiphasic  \nProximal dorsalis pedis:  [], multiphasic        \n\n[The ankle brachial indices are within normal limits.]\n[ There is no sonographically visible plaque.]\n[ Color-flow appears normal. There are no significant velocity elevations on either side.]\n\nIMPRESSION:\n\n[No sonographic evidence of hemodynamically significant stenosis on either side.]\n[ No sonographically visible plaque.] [Normal ankle brachial indices.]\n\n",
+    "prompt":  "1. Use INDICATION and not EXAM for title. Dont use history. Add to indication.\n\n2. include the peak velocity as phase in a readable format.",
+    "tags":  [
+                 "abi",
+                 "index"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

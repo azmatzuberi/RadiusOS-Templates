@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69e934cad49e6f6b9f12afaf"
+            },
+    "content":  "EXAM: CT ABDOMEN WO\n\nHISTORY: [Unspecified.]\n\nTECHNIQUE:  Axial acquisitions were obtained through the abdomen only. Multiplanar reconstructions were created from the axial data set.  \n\nCOMPARISON: None\n\nIV Contrast: [None]\nGI Contrast: [None]\n\nDOSE:\n DLP (mGy-cm):  []\n\nIMPRESSION:\n\n []\n\n\nFINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL WALL: [Unremarkable.]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]",
+    "createdAt":  {
+                      "$date":  "2026-04-22T20:51:22.249Z"
+                  },
+    "isPublic":  false,
+    "name":  "ABDOMEN",
+    "prompt":  "1. Any input findings, remove the [Unremarkable] for that particular section and replace it with the input findings. \n\n2. Summarize the impression and not copy the input data word for word.\n\n3. include DLP if given in the input and placed under contrast field.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 " CT abdomen",
+                 "ct abdomen without"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

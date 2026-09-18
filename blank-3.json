@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a1477a9218a0f2fdb5f7724"
+            },
+    "content":  "Read below",
+    "createdAt":  {
+                      "$date":  "2026-05-25T16:24:09.222Z"
+                  },
+    "isPublic":  false,
+    "name":  "blank",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

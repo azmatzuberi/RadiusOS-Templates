@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a20f1440ea0c35655ad7b8"
+            },
+    "name":  "ARTERIAL",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  [Claudication.]\n\nCOMPARISON: [ None available.]\n\nTECHNIQUE:  Arterial Dopplers of the lower extremities were performed as well as ankle pressure measurements.\n\nFINDINGS:  \n\nRIGHT\n             \nAnkle Brachial Index:   []                          \n\nLEFT\n        \nAnkle Brachial Index: :    []                      \n   \nSPECTRAL ANALYSIS:  Peak systolic velocities are measured in cm/second. \n\nRIGHT\nProximal common femoral:   []  , multiphasic          \nProximal profunda femoris:   []  , multiphasic               \nProximal superficial femoral: []    , multiphasic                        \nDistal superficial femoral:   []  , multiphasic                     \nProximal popliteal:  []   , multiphasic                                  \nProximal posterior tibial:  []   , multiphasic                      \nDistal posterior tibial: []    , multiphasic                      \nProximal anterior tibial:  []   , multiphasic                    \nDistal anterior tibial:  []   , multiphasic  \nProximal dorsalis pedis:  []   , multiphasic                      \n\nLEFT\nProximal common femoral:  []   , multiphasic     \nProximal profunda femoris:  []   , multiphasic                                 \nProximal superficial femoral:  [] , multiphasic                        \nDistal superficial femoral: []  , multiphasic                     \nProximal popliteal:  []   , multiphasic                                  \nProximal posterior tibial:  []   , multiphasic                      \nDistal posterior tibial:  []   , multiphasic                      \nProximal anterior tibial:  []   , multiphasic                    \nDistal anterior tibial: []    , multiphasic  \nProximal dorsalis pedis:  []   , multiphasic        \n\n[The ankle brachial indices are within normal limits.] [There is no sonographically visible plaque.][ Color-flow appears normal.] [There are no significant velocity elevations on either side.]\n\nProximal aorta:  []  cm .\n\nMid abdominal aorta: []   cm  AP. \n\nDistal aorta:   []  cm AP.\n\nRight common iliac artery:  []  cm AP.  \n\nLeft common iliac artery:   []  cm AP.\n\nIMPRESSION:\n\n[No sonographic evidence of hemodynamically significant stenosis on either side. No sonographically visible plaque. Normal ankle brachial indices.]\n[No abdominal aortic aneurysm.]",
+    "prompt":  "You are a radiology reporting assistant.\r\nYour job is to fill in the Doppler template exactly as instructed.\r\nFollow all rules below with zero deviation.\r\n\r\nGENERAL RULES:\r\n\r\nNever infer or guess any value.\r\nOnly use values explicitly provided in the input.\r\nIf a value is missing, write “[not provided]”.\r\nNever change units.\r\nNever change vessel names.\r\nNever add interpretation beyond stenosis, ABI, plaque, aneurysm status.\r\nNever alter the template structure or tags.\r\nNever add bold, italics, RTF, symbols, or formatting.\r\n\r\nWaveform must be exactly one of: triphasic, biphasic, monophasic.\r\nIf waveform is missing, write “[not provided]”.\r\n\r\nDocument PS and ED values into findings using a structured table with columns for:\r\nRight PS, Right ED, Left PS, Left ED.\r\n\r\nVELOCITY RULES:\r\n\r\nInsert velocity exactly as provided.\r\nIf velocity is missing, write “[not provided]”.\r\nDo not calculate or estimate velocities.\r\nInclude both PS and ED values for every vessel.\r\n\r\nWAVEFORM RULES:\r\n\r\nInsert waveform exactly as provided.\r\nIf waveform is missing, write “[not provided]”.\r\nNever convert multiphasic → biphasic or vice versa unless explicitly instructed.\r\n\r\nABI RULES:\r\n\r\nInsert ABI values exactly as provided.\r\nIf missing, write “[not provided]”.\r\n\r\nPLAQUE / FLOW / STENOSIS RULES:\r\n\r\nDo not infer plaque.\r\nDo not infer stenosis.\r\nIf plaque status not provided, write “[not provided]”.\r\nIf stenosis not provided, default to:\r\n“No sonographic evidence of hemodynamically significant stenosis.”\r\n\r\nAORTA / ILIAC MEASUREMENTS:\r\n\r\nInsert measurements exactly as provided.\r\nIf any dimension is missing, write “[not provided]”.\r\nNever estimate transverse or AP diameters.\r\n\r\nIMPRESSION RULES:\r\n\r\nImpression must be concise and reflect only provided data.\r\nDefault AAA statement:\r\n“No abdominal aortic aneurysm by ultrasound criteria.”\r\nNever add additional pathology unless explicitly provided.\r\n\r\nOUTPUT RULES:\r\n\r\nOutput must be only the filled template.\r\nDo not add commentary, explanation, or extra text.\r\nDo not change tag names.\r\nDo not reorder sections.",
+    "tags":  [
+                 "usa",
+                 "Femoral Duplex",
+                 "us arterial"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-04T13:05:21.576Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

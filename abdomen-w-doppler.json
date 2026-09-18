@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a6a6283823d52578f9ea9cf"
+            },
+    "content":  "PROCEDURE:\nAbdominal Ultrasound with Liver Doppler Evaluation\n\nREASON FOR EXAM:\n[PAIN]\n\nCOMPARISON:\n[NONE]\n\nTECHNIQUE:\nGrayscale and color Doppler ultrasound of the liver, gallbladder, biliary tree, pancreas, spleen, kidneys, aorta, and IVC performed. Spectral Doppler sampling of the hepatic artery, portal vein, hepatic veins, and IVC obtained.\n\nFINDINGS:\n\nLIVER:\nSize: []\nEchotexture: []\n \n\nGALLBLADDER:\nWall thickness: []\nStones/sludge: []\nSonographic Murphy sign: []\n\nCOMMON BILE DUCT:\nDiameter: []\n\nPANCREAS:\n[]\n\nSPLEEN:\nSize: []\n \n\nAORTA:\nCaliber: []\n\nIVC:\n [WNL]\n\nLIVER DOPPLER:\n\n \n\nMAIN PORTAL VEIN:\n \nFlow direction: []\n \n  \nIMPRESSION:\n[]",
+    "createdAt":  {
+                      "$date":  "2026-07-29T20:28:51.288Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "abdomen w/doppler",
+    "prompt":  "You must evaluate liver Doppler values using the strict rules below AND produce a SINGLE unified impression without redundancy or conflicting statements.\r\n\r\nNORMAL RANGES:\r\n\r\nHEPATIC ARTERY:\r\n- PSV 50–100 cm/s\r\n- RI 0.55–0.80\r\n\r\nMAIN PORTAL VEIN:\r\n- Velocity 20–40 cm/s\r\n- Flow direction: hepatopetal\r\n\r\nRIGHT/LEFT PORTAL VEINS:\r\n- Velocity 10–25 cm/s\r\n- Flow direction: hepatopetal\r\n\r\nHEPATIC VEINS:\r\n- Normal waveform: triphasic\r\n- Mildly dampened biphasic may be acceptable\r\n\r\nIVC:\r\n- Normal: respiratory phasicity present\r\n\r\nSTRICT INTERPRETATION RULES:\r\n\r\n1. **Portal hypertension pattern** ONLY when:\r\n   - Portal vein velocity is LOW (\u0026lt;20 cm/s), AND/OR\r\n   - Hepatic vein waveforms are dampened/monophasic, AND/OR\r\n   - IVC shows reduced phasicity.\r\n   You MUST classify this pattern as “suggestive of portal hypertension.”\r\n\r\n2. **Arterial abnormality pattern**:\r\n   - Hepatic artery PSV \u003e100 cm/s OR RI \u003e0.80 → “arterial hyper-resistance pattern.”\r\n   - Hepatic artery PSV \u0026lt;50 cm/s OR RI \u0026lt;0.55 → “arterial low-resistance pattern.”\r\n   These MUST NOT be interpreted as portal hypertension.\r\n\r\n3. **Portal flow abnormality**:\r\n   - Hepatofugal flow MUST be labeled as “abnormal portal flow direction.”\r\n   - Slow hepatopetal flow (\u0026lt;20 cm/s) MUST be labeled as “reduced portal venous velocity.”\r\n\r\n4. **Hepatic vein abnormality**:\r\n   - Biphasic or monophasic waveforms MUST be labeled as “dampened hepatic venous waveform.”\r\n   - You MUST NOT list each vein separately in the impression.\r\n\r\n5. The IMPRESSION MUST:\r\n   - Contain ONE unified statement.\r\n   - State whether portal hypertension pattern is present or absent.\r\n   - Summarize arterial abnormalities in ONE phrase.\r\n   - Summarize venous abnormalities in ONE phrase.\r\n   - NEVER repeat or contradict itself.\r\n   - NEVER list individual segments.\r\n\r\n6. FINDINGS may list each abnormal value individually, but IMPRESSION MUST be concise and unified.\r\n\r\nOUTPUT FORMAT:\r\n\r\nFINDINGS:\r\n- Bullet list of abnormalities with classification.\r\n\r\nIMPRESSION (STRICT FORMAT):\r\n- ONE unified statement summarizing:\r\n  • Presence or absence of portal hypertension pattern.\r\n  • Arterial abnormalities (if present).\r\n  • Venous waveform abnormalities (if present).\r\n  • WITHOUT redundancy or conflicting statements.\r\n\r\nYou MUST follow these rules exactly.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-07-29T20:32:09.164Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    }
+}

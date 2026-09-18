@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e28"
+            },
+    "name":  "Abdomen",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain\n\nTECHNIQUE:   Abdominal views performed.\n\nCOMPARISON: None\n\nFINDINGS: \n\nThe bowel gas pattern is unremarkable.  \n\nFair amount of stool is present. \n\nThe renal fossa are obscured by bowel. \n\nNo abnormal calcification seen.\n\nUnderlying osseous structures are intact.\n\nIMPRESSION: \n\n   ",
+    "prompt":  "modify the findings based on the input data.",
+    "tags":  [
+                 "kub",
+                 "cab"
+             ],
+    "numpadCode":  "455",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

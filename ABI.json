@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "686d9cf7c5bab2a6a40a1b61"
+            },
+    "name":  "ABI",
+    "type":  "Ultrasound",
+    "content":  "Ankle Brachial Index/ Toe Brachial Index Study\nName:\n\n\nExam Date:\n\n\nComparison:\n\n\nIndication:\n\n\nTechnique:\nMultisegmental plethesmography pressure waveform analysis with bi-directional flow of the bilateral lower extremities with ankle brachial indices was performed.\n\n\nFindings:\nRight:\n\nBrachial pressure ____\n\nDorsalis pedis pressure ____\n\nPosterior tibial pressure ____\n\nGreat toe pressure ____\n\nABI is ____\n\nAnkle wave form is ____ (mild, moderate, severely dampened, or, not obtained)\n\nTBI is ____\n\nGreat toe waveform is ____ (mild, moderate, severely dampened, or, not obtained)\n\n\nLeft:\n\nBrachial pressure ____\n\nDorsalis pedis pressure ____\n\nPosterior tibial pressure ____\n\nGreat toe pressure ____\n\nABI is ____\n\nAnkle wave form is ____ (mild, moderate, severely dampened, or, not obtained)\n\nTBI is ____\n\nGreat toe waveform is ____ (mild, moderate, severely dampened, or, not obtained)\n\n\nImpression:\n1. Normal ABI\u0027s (or decreased ABI/s recommend clinical correlation for arterial occlusive disease).\n2. Normal TBI\u0027s (or decreased TBI/s with pressure/s sufficient/ insufficient for wound healing).\n\n\nReference:\n\nKIC\n\n1.00-\n0.91-\n0.41-\n0.00\n\nToe\n= 0.7 = Normal\n= 0.35 = Claudication\n= 0.1 = Ischemia\n\nHealing Pressure\nAnkle\n\u003e 80 mm/Hg\n\u003e 55 mm/Hg\n\nToe\n\u003e 30 mm/Hg\n\nPeak Velocity Ratio\n30 -49 %\n50 - 75 %\n\u003e 75 %\n\nStenosis Criteria Peak Velocity\nRatio\n1.5:1-2:1\n2:1-4:1\n\u003e4:1\n\nABI/ Severity of Disease\nAnkle/Brachial Index\n\u003e 1.3 - Non-compressible\n1.20 - Normal\n0.99 - Borderline\n0.91 - Mild to Moderate\n\u003c 0.40 = Severe/ Ischemia\n\n(Diabetic)\n(Non-Diabetic)\n\n(Diabetic)\n\n150-200 cm/sec\n200-400 cm/sec\n\u003e 400 cm/sec",
+    "prompt":  "  Modify the template data with the input findings.\n\ninclude the peak velocity as phase in a readable format.",
+    "tags":  [
+                 "abi",
+                 " usabi"
+             ],
+    "numpadCode":  "878",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

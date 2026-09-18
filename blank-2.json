@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a133768ddea22c0e981978d"
+            },
+    "content":  "See below",
+    "createdAt":  {
+                      "$date":  "2026-05-24T17:37:44.340Z"
+                  },
+    "isPublic":  false,
+    "name":  "blank",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

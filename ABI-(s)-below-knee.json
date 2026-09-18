@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68d2b6f929b2b4e3e3670182"
+            },
+    "name":  "ABI (s) below knee",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  Claudication.\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Doppler waveform analysis was obtained of the bilateral posterior tibial, dorsalis pedis and popliteal arteries as well as ankle and brachial pressure measurements. Ankle brachial indices were obtained from the distal posterior tibial and dorsalis pedis arteries.\n\nFINDINGS:  \n\nPRESSURES:\nRIGHT\nBrachial:    []  mmHg              \nPosterior tibial:    []  mmHg\nDorsalis pedis:    []  mmHg             \nABI PTA/DPA:       []                      \n\nLEFT\nBrachial:    []  mmHg              \nPosterior tibial:    []  mmHg\nDorsalis pedis:    []  mmHg             \nABI PTA/DPA:    []                         \n   \nDOPPLER WAVEFORMS:   \nRIGHT\nPosterior tibial:   []   cm/s, [multiphasic]\nDorsalis pedis:    []  cm/s, [multiphasic]\nPopliteal:   []   cm/s, [multiphasic]\n \nLEFT\nPosterior tibial:   []   cm/s, [multiphasic]\nDorsalis pedis:    []  cm/s, [multiphasic]\nPopliteal:   []   cm/s, [multiphasic]\n\nIMPRESSION: \n\n[Normal ankle brachial indices.] ]Normal Doppler waveforms]. \n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

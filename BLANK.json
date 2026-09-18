@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a10e5a8ddea22c0e9819438"
+            },
+    "content":  "FINDINGS:\n\nCONCLUSION:",
+    "createdAt":  {
+                      "$date":  "2026-05-22T23:24:24.036Z"
+                  },
+    "isPublic":  false,
+    "name":  "BLANK",
+    "prompt":  "1. Dont add EXAM, technique, history, or comparison to these reports.\n\n2. use double line spacing\n\n3. use the template as our outline and keep the style and format. \n\n4. include pertinent negatives and all the fields from the template data. Do not add to the conclusion. \n\n5. Do not add prior surgeries to conclusion/impression like cholecystectomy, hysterectomy, appendectomy.\n\n6.Dont add recommendations unless specified. \n\n7. If input has language similar to \"No obstructive uropathy or nephrolithiasis.\"  Please add this pertinent negative to the impression/conclusion.",
+    "radial":  "",
+    "rvu":  1.8,
+    "tags":  [
+                 "blank"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-07-28T15:31:25.266Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  true
+}

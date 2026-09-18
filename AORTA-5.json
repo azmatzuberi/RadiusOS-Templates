@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c1b"
+            },
+    "name":  "AORTA",
+    "type":  "Clinical",
+    "content":  "EXAM:  AORTIC ULTRASOUND\n\nHISTORY: High Risk patient.\n\nTECHNIQUE:  Ultrasound evaluation of the aorta was performed transabdominally. Color flow Doppler and Doppler spectral analysis performed.\n\n\n\n\nCOMPARISON: None\n\nIMPRESSION:\n\n[]\n\nFINDINGS:\n\n\n\nPROXIMAL AORTA DIAMETER: []\n\nMID AORTA DIAMETER: []\n\nDISTAL AORTA DIAMETER: []\n\n\n\n\n",
+    "prompt":  " \n\nPresent Ultrasound velocity data from input in a justified table format for clarity and readability.\nAlso convert any values in m/s to cm/s.\n\nIf the abdominal aorta  is measuring less than 3 cm involving the proximal, mid, or distal aorta please add in the impression no evidence for abdominal aortic aneurysm.  If the measurements come close please add instead abdominal aortic ectasia. If greater than 3 cm, then state aneurysm of abdominal aorta. \n\n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

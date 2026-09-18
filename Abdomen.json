@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "691dec4d7c57e63b87f63405"
+            },
+    "name":  "Abdomen",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:    [] .\n\nCOMPARISON: [ None available.]\n\nTECHNIQUE:  Abdomen was scanned with grayscale. Color flow Doppler and Doppler spectral analysis performed.\n\n\nFINDINGS:  \n\nAorta:  [Visualized portions of abdominal aorta are normal in diameter.]\n\nIVC:  [Visualized portions appear patent.]\n\nPancreas: [ Visualized portions of pancreas are unremarkable.]\n\nLiver:  Measures   []  cm in length. Liver shows [normal] echogenicity.[ No liver masses identified.] Hepatopetal flow seen in the main portal vein.\n\nGallbladder:  []    Negative sonographic Murphy\u0027s sign.\n\nCommon bile duct:  Measures []    mm. No intraductal stones identified.\n\nRight kidney:  Measures  []   x  []   x  []   cm. Normal contour.[ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]\n\nLeft kidney:  Measures  []   x []    x  []   cm. Normal contour. [ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]\n\nSpleen:  Measures  []   cm in length. It shows homogeneous echotexture.\n\nAdditional findings:  None of significance.\n\nIMPRESSION:  \n\n[Abdominal ultrasound is within normal limits.]\n",
+    "prompt":  "10. if there is a check box, use the statement next to it, not all the items with boxes. Only those that are checked off. ",
+    "tags":  [
+                 "usab"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

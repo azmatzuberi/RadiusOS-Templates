@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6973c03d675f2f3d4cf8ef21"
+            },
+    "name":  "ABDOMEN WO",
+    "type":  "CT",
+    "content":  "\nTECHNIQUE:  Axial acquisitions were obtained through the abdomen only. Multiplanar reconstructions were created from the axial data set.  \n\nCOMPARISON: None\n\nIV Contrast: None\nGI Contrast: None\n\n\nFINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\nABDOMINAL WALL: [Unremarkable.]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\nIMPRESSION:\n\n []\n",
+    "prompt":  "\n\n1. Do not inlclude EXAM:  in generated report\n2. Do not inlclude HISTORY:  in generated report\n3. Do not inlclude COMPARISON:  in generated report\n\n4.   Summarize the impression and not copy the input data word for word.\n\n\n5. If oral or IV contrast is administered, add administered\n\nIV Contrast: Administered\nGI Contrast:  Administered\n\n\n\n\n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "401",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

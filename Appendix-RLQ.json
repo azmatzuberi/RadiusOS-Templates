@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a15e1bc52a12fefceee4542"
+            },
+    "content":  "EXAM: Right lower quadrant ultrasound. \n\r\nHISTORY:\n\r\n[Right lower quadrant pain, fevers, diarrhea.]\r\n\r\nCOMPARISON:\r\n[None.]\r\n\r\nTECHNIQUE:\r\nReal time sonography was performed with the Philips scanner and the curved array transducer in the right lower quadrant.  \r\n\r\nFINDINGS:\r\n \r\n\r[No dilated blind ending structure seen. No fluid or adenopathy. ]\n\nIMPRESSION:\r\n[Unremarkable right lower quadrant ultrasound.] [No obvious signs  to suggest appendicitis]",
+    "createdAt":  {
+                      "$date":  "2026-05-26T18:09:00.168Z"
+                  },
+    "isPublic":  false,
+    "name":  "Appendix/RLQ",
+    "prompt":  "Do not add data from input text following  the impression unless its a recommendation.  Do not repeat the findings after impression.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

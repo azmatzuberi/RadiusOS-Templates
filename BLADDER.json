@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "67e437583ffdf44b279f1f65"
+            },
+    "name":  "BLADDER",
+    "type":  "Ultrasound",
+    "content":  "EXAM:    BLADDER ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nTECHNIQUE: Bladder ultrasound examination was performed in the usual fashion.  Doppler evaluation was performed.\n\nCOMPARISON: [None]\n\nFINDINGS:\n\nBLADDER:\n\nPrevoid bladder volume: []\n\n  Postvoid bladder volume: []\n\n  Wall thickness: []\n \nIMPRESSION:\n  Unremarkable bladder ultrasound examination.\n\n\n",
+    "prompt":  "",
+    "tags":  [
+                 "usb"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

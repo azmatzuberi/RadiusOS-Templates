@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "69a74ffbcbfb767b13d9a293"
+            },
+    "name":  "Abdomen RUQ",
+    "type":  "Ultrasound",
+    "content":  "PROCEDURE: US Abdomen Limited\n\nHISTORY: [Elevated LFT]\n\nTECHNIQUE:   Right upper quadrant ultrasound of the abdomen was performed in the usual fashion. Color flow Doppler and Doppler spectral analysis performed.\n\n\nCOMPARISON: [None]\n\n\nFINDINGS:\n\nLIVER:  [Unremarkable.]\n\nCommon bile duct :  [Unremarkable.]\n\nGallbladder:  [Unremarkable.]\n\nPancreas:  [Unremarkable.]\n\nRight kidney:  [Unremarkable.]\n\n\nIMPRESSION:\n \n[]\n\n\n\n\n\n\n\n\n\n",
+    "prompt":  " \n1. Adhere to the included template style and format. \n\ntest\n\ntest\n\n",
+    "tags":  [
+                 "uru",
+                 "usru",
+                 "usrq",
+                 " US Abdomen Limited",
+                 "ruq"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a7403dcbfb767b13d9a18a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

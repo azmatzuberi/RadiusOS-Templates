@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "68a634b81a31ebe13a222c9a"
+            },
+    "name":  "ABDOMEN RUQ (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  []  \n\nTECHNIQUE:   Right upper quadrant ultrasound of the abdomen was performed in the usual fashion. Doppler evaluation performed. \n\nCOMPARISON: None\n\n\nFINDINGS:\n\nLIVER:  [Unremarkable.]\n\nCommon bile duct :  [Unremarkable.]\n\nGallbladder:  [Unremarkable.]\n\nPancreas:  [Unremarkable.]\n\nRight kidney:  [Unremarkable.]\n\n\nIMPRESSION:\n \n[]\n\n\n\n\n\n\n\n\n\n",
+    "prompt":  "1. Use INIDCATION and not EXAM for title.\n\n2. Ignore any sonographic murphy sign.\n\n3. Adhere to the template outline and style.  \n\n4. Use spacing similar to template, typically double.\n",
+    "tags":  [
+                 "ruq",
+                 "uruq",
+                 "usar"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

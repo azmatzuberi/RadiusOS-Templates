@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68ac750c77025fec8c48d591"
+            },
+    "name":  "BioPhysical(S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:     .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Biophysical profile scoring was performed utilizing transabdominal technique.  A combination of grayscale, B-Mode, and color Doppler imaging was utilized. \n\nFINDINGS: There is a single intrauterine fetus in     position. Fetal heart rate is     BPM. Placenta is    , grade     maturity. Amniotic fluid index is     cm.  \n\nBIOPHYSICAL PROFILE: \n\nGross body motion:  [2]\nFetal Tone:\t [2]\nAmniotic Fluid:\t [2]\nFetal breathing:\t [2]\nTotal score:\t[8/8]\n\n\nIMPRESSION:   \n\nLiving intrauterine pregnancy with normal biophysical profile score of 8 out of 8. \n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

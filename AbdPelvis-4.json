@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a0daf2c6bbd7046e0dce383"
+            },
+    "content":  "EXAM:  CT OF THE ABDOMEN AND PELVIS  \n\nHISTORY: [Unspecified.]\n\nTECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  \n\nCOMPARISON: None\n\nIV Contrast:  None\nGI Contrast: None\n\nDLP (mGY-cm): []\n\n\n\nFINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\n\nBLADDER:  [Unremarkable.]\n\nPELVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n IMPRESSION:\n\n []",
+    "createdAt":  {
+                      "$date":  "2026-05-20T12:55:08.569Z"
+                  },
+    "isPublic":  false,
+    "name":  "AbdPelvis",
+    "prompt":  "1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3. include DLP if given in the input and placed under contrast field.\n\n4.  Add Clinical history if given in input in the History section.\n\n5.  Add COMPARISON study if given in input in the Comparison section.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "hematuria",
+                 "  CT of the abdomen and pelvis without",
+                 "ctapwo"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

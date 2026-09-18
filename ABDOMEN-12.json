@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c2d"
+            },
+    "name":  "ABDOMEN",
+    "type":  "MRI",
+    "content":  "nullEXAM:\nMR Abdomen [with or without] IV contrast.\nCLINICAL HISTORY:\nTECHNIQUE:\nMultisequence, multiplanar magnetic resonance images of the abdomen [with or without] intravenous contrast.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nLOWER THORAX:\nNo pleural effusion.\nLIVER:\n[Unremarkable.]\nGALLBLADDER AND BILE DUCTS:\nNo stone.\nNo ductal dilation.\nPANCREAS:\n[Unremarkable.]\nNo ductal dilation.\nSPLEEN:\n[Unremarkable.]\nEXAM:\nMR Abdomen [with or without] IV contrast.\nCLINICAL HISTORY:\nTECHNIQUE:\nMultisequence, multiplanar magnetic resonance images of the abdomen [with or without] intravenous contrast.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nLOWER THORAX:\nNo pleural effusion.\nLIVER:\n[Unremarkable.]\nGALLBLADDER AND BILE DUCTS:\nNo stone.\nNo ductal dilation.\nPANCREAS:\n[Unremarkable.]\nNo ductal dilation.\nSPLEEN:\n[Unremarkable.]\n\nIMPRESSION:\n[]\n",
+    "prompt":  "",
+    "tags":  [
+                 "mrab",
+                 "MR Abdomen wo+w Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

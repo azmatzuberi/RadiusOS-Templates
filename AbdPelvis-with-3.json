@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea0c3"
+            },
+    "name":  "AbdPelvis with",
+    "type":  "CT",
+    "content":  "EXAM:  CT OF THE ABDOMEN AND PELVIS  \n\nHISTORY: [Unspecified.]\n\nTECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  \n\nCOMPARISON: None\n\nIV Contrast:  \nGI Contrast: None\n\nFINDINGS: \n\nLUNG BASES: [Unremarkable.] \n\nLIVER: [Unremarkable.]\n\nGALLBLADDER: [Unremarkable.]\n\nSPLEEN: [Unremarkable.] \n\nKIDNEYS: [Unremarkable.]\n\nADRENALS: [Unremarkable.]\n\nPANCREAS: [Unremarkable.]\n\nBOWEL: [Unremarkable.] \n\n\nBLADDER:  [Unremarkable.]\n\nPELVIS/REPRODUCTIVE: [Unremarkable]\n\nFLUID: [Unremarkable.]\n\nOSSEOUS STRUCTURES:  [Unremarkable.]\n\nVASCULATURE: [Unremarkable.]\n\n IMPRESSION:\n\n []",
+    "prompt":  "1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3. include DLP (mGY-cm): [] if given in the input and placed under contrast field.\n\n4.  Add Clinical history if given in input in the History section.\n\n5.  Add COMPARISON study if given in input in the Comparison section.",
+    "tags":  [
+                 "ctapw",
+                 "  CT of the abdomen and pelvis with IV contrast "
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

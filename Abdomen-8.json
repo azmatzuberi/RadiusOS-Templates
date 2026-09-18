@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "699f2d7d0ea965f090d74963"
+            },
+    "name":  "Abdomen",
+    "type":  "Ultrasound",
+    "content":  "HISTORY:    [] .\n\nCOMPARISON: [ None available.]\n\nTECHNIQUE:  Abdomen was scanned with grayscale and color Doppler imaging.\n\nFINDINGS:  \n\nAorta:  [Visualized portions of abdominal aorta are normal in diameter.]\n\nIVC:  [Visualized portions appear patent.]\n\nPancreas: [ Visualized portions of pancreas are unremarkable.]\n\nLiver:  Measures   []  cm in length. Liver shows [normal] echogenicity.[ No liver masses identified.] Hepatopetal flow seen in the main portal vein.\n\nGallbladder:  [No stones, sludge, or polyps]    Negative sonographic Murphy\u0027s sign.\n\nCommon bile duct:  Measures []    mm. No intraductal stones identified.\n\nRight kidney:  Measures  []   x  []   x  []   cm. Normal contour.[ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]\n\nLeft kidney:  Measures  []   x []    x  []   cm. Normal contour. [ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]\n\nSpleen:  Measures  []   cm in length. It shows homogeneous echotexture.\n \nIMPRESSION:\n\n[]",
+    "prompt":  "1Use INIDCATION and not EXAM for title. \n\n2.Check the checkboxes if crossed or marked. Only use that statement accompanying check boxes if so, otherwise do not. \n\n3. Ignore positive sonographic murphy sign \n\n4. Use spacing according to template.\n\n5. A \"-\" means negative on OCR or screenshot",
+    "tags":  [
+                 "uab",
+                 "abdominal ultrasound",
+                 "ultrasound of the abdomen",
+                 "elevated LFT",
+                 "ABDOMEN ULTRASOUND"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-15T18:04:43.115Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

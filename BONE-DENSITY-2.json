@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e3f"
+            },
+    "name":  "BONE DENSITY",
+    "type":  "CT",
+    "content":  "EXAM: CT BONE DENSITY\n\nHISTORY: [] \n\nTECHNIQUE: CT Bone density performed in the usual fashion.\n\nCOMPARISON: [None]\n\nFINDINGS: []\n\nIMPRESSION: []",
+    "prompt":  "for reference:\n\nNormal = Trabecular BMD \u003e 120 CA-HA/ml\nOsteopenia = Trabecular BMD 80 - 120 CA-HA/ml\nOsteoporosis = Trabecular BMD \u003c80 CA-HA/ml",
+    "tags":  [
+                 "ct",
+                 "density",
+                 "ctb"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

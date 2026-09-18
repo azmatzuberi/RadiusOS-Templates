@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6973f8c7675f2f3d4cf8f277"
+            },
+    "name":  "AORTA (S)",
+    "type":  "Ultrasound",
+    "content":  "COMPARISON:  None available.\n\nTECHNIQUE:  Transverse and longitudinal B-mode and color Doppler sonography of the abdominal aorta was performed. \n\nFINDINGS:\n\nProximal aorta:  []    cm transverse x  []   cm AP.\n\nMid abdominal aorta: []     cm transverse x  []   cm AP. \n\nDistal aorta:   []   cm transverse x []    cm AP.\n\nRight common iliac artery:  []    cm transverse x  []   cm AP.  \n\nLeft common iliac artery:   []   cm transverse x  []   cm AP.\n\n[There is no significant aortic atherosclerotic plaque noted.]\n\nIMPRESSION: \n\n1.[ No evidence of aortic aneurysm.]\n\n2. [No significant abdominal aortic atherosclerotic changes.]\n",
+    "prompt":  "\n1. If the abdominal aorta  is measuring less than 3 cm involving the proximal, mid, or distal aorta please add in the impression no evidence for abdominal aortic aneurysm.  If the measurements come close please add instead abdominal aortic ectasia. If greater than 3 cm, then state aneurysm of abdominal aorta. \n\n2. Do not include EXAM:  in generated report\n3. Do not include HISTORY:  in generated report\n4. Do not include COMPARISON:  in generated report unless comparison study provided in data. \n\n",
+    "tags":  [
+                 "ultrasound",
+                 "AAA",
+                 "aneurysm",
+                 "aorta"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
