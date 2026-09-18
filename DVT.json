@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "690d01dececf1133460b5fbc"
+            },
+    "name":  "DVT",
+    "type":  "Ultrasound",
+    "content":  "EXAM: DVT Study\n\nHISTORY:     [Swelling/Pain.]\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Duplex scanning of the   [SIDE]  lower extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. \n\nFINDINGS:  The deep veins of the [SIDE]  lower extremity were evaluated from the level of the common femoral vein proximally, through the level of the posterior tibial vein distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis.  The greater saphenous vein at the saphenofemoral junction is patent.  \n\nOther findings:  None.\n\nIMPRESSION:  \n\nNo evidence of deep vein thrombosis in the   [SIDEleft ]  lower extremity.",
+    "prompt":  "1. Enter LEFT, RIGHT, or BILATERAL in [SIDE] section when specified in the input. \n\n\n2.  If there is a large lymph node add this recommendation after impression:\n\nRECOMMEDATION: Follow-up if growth or worsening symptomology of enlarged lymph node likely reactive.",
+    "tags":  [
+                 "usd",
+                 "dvt"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-07-31T20:31:33.998Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

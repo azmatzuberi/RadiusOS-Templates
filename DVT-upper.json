@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68701be7c5bab2a6a40a1c57"
+            },
+    "name":  "DVT upper",
+    "type":  "Ultrasound",
+    "content":  "  HISTORY:  Edema\n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the BILATERAL upper extremity.\n\nCOMPARISON: None\n\nIMPRESSION:\nThere is no sonographic evidence of deep venous thrombosis. \n\nFINDINGS: \n\nThe deep veins of the  upper extremity  in question are fully compressible with no intraluminal thrombus. \n\nThere is normal augmentation of signal in the veins.\n\nNo focal collection seen.\n\nSubcutaneous edema present.\n\n\n",
+    "prompt":  " modify the template with the findings input data.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

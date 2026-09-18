@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a0776a0ea965f090d75334"
+            },
+    "name":  "Hand",
+    "type":  "Nuclear",
+    "content":  "HISTORY:   [Pain]  \n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    [Multiple]  views of the  [side]  hand were obtained. \n\nFINDINGS:  \n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: []  \n\nIMPRESSION:  \n\n[]",
+    "prompt":  "Add pertinent negatives from template.",
+    "tags":  [
+                 "hand"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0.17,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-11T18:10:12.819Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

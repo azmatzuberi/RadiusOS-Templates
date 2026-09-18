@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c3f"
+            },
+    "name":  "KNEE(M)",
+    "type":  "X-Ray",
+    "content":  "TECHNIQUE:  Imaging of the []  knee were performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nOverall alignment is anatomic.\n\nThere is no fracture or dislocation. \n\nNo joint effusion. \n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically. ",
+    "prompt":  "1. Do not inlclude EXAM:  in generated report\n2. Do not inlclude HISTORY:  in generated report",
+    "tags":  [
+                 "xrk",
+                 "xk"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6aa9b7cc68bc79759b18c20e"
+            },
+    "content":  "HISTORY:     [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    [Multiple] views of the  [SIDE]  humerus were performed.\n\nFINDINGS:\n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: []\n\nIMPRESSION:\n\n[]",
+    "createdAt":  {
+                      "$date":  "2026-09-15T21:25:32.703Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "humerus",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "humerus xray",
+                 "humerus x-ray"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-09-15T21:25:32.703Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    }
+}

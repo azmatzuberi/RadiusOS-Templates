@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "699f4ad70ea965f090d74b65"
+            },
+    "name":  "KNEE",
+    "type":  "X-Ray",
+    "content":  "INDICATION:    [Pain]\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:     [side]  knee views were obtained.\n\n\nFINDINGS:  \n\nFINDINGS:\n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: [] \n\n\nIMPRESSION:  \n\nUnremarkable radiographic series of the [side] knee.",
+    "prompt":  "Use INDICATION and not EXAM for report title.\n\nDont add recommendation unless specified in the input\n\nfill \"Side\" based on input data if right, left, or bilateral",
+    "tags":  [
+                 "knee"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0.18,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-15T21:49:44.546Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

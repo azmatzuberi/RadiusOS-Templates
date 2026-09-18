@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c2f"
+            },
+    "name":  "DVT",
+    "type":  "Ultrasound",
+    "content":  "  HISTORY: [EDEMA.]\n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the deep veins of the [BILATERAL]  lower extremity.\n\nCOMPARISON: None\n\nFINDINGS: \n\nThe deep veins of the lower extremity from the level of the groin and common femoral veins to the level of the popliteal vein are fully compressible with no intraluminal thrombus. \n\nThere is normal augmentation of signal in the veins within the calf is compressed. \n\nNo Baker\u0027s cyst identified.\n\nIMPRESSION:\n\nThere is no sonographic evidence of deep venous thrombosis . \n",
+    "prompt":  " \n\nUse input findings to change the template data and form an impression.\n ",
+    "tags":  [
+                 "dvt",
+                 "usd",
+                 "usdvt",
+                 "US Vasc Dplx Ven "
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

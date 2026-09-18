@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c5e"
+            },
+    "name":  "FOOT",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain.\n\nTECHNIQUE:  Imaging of the []  foot performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nOverall alignment is anatomic.\n\nThere is no fracture or dislocation. \n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically. ",
+    "prompt":  "",
+    "tags":  [
+                 "xrf",
+                 "xr foot",
+                 "x-ray foot",
+                 "foot"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

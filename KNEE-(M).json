@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c12"
+            },
+    "name":  "KNEE (M)",
+    "type":  "MRI",
+    "content":  "EXAM: MRI KNEE\n\nHISTORY: [ ]\n\nCOMPARISON: [None]\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the [] knee was performed.  No IV contrast.\n\nFINDINGS: \n\nMenisci: [The medial and lateral menisci are intact without evidence of tear.]\nCruciate Ligaments: [The anterior and posterior cruciate ligaments are intact.]\nCollateral Ligaments: [The medial and the lateral collateral ligament are intact.] \nPatellar Retinaculum: [The medial and lateral patellar retinaculum are intact.]\nPatellar/Quadriceps Tendon: [The patellar tendon and the quadriceps tendon are unremarkable.]\nBone Marrow Signal: [No evidence of fracture, bone contusion, bone marrow edema, or AVN.]\nCartilage/Articular Surfaces: [No intra-articular loose bodies.]\nExtra-articular Tendons: ][The medial and lateral heads of the gastrocnemius muscle, semimembranous, semitendinosus, and pes anserinus tendons are unremarkable.]\n\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "1. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format. \n2. Keep it in outline format and organ based.  Dont write in a single prose paragraph.\n",
+    "tags":  [
+                 "mrk",
+                 "mri knee",
+                 "mr knee",
+                 "EXAM: MR Lower Extrem Joint"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

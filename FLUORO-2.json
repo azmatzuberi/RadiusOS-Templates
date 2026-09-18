@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "696fce39e6a30cefd3761513"
+            },
+    "name":  "FLUORO",
+    "type":  "X-Ray",
+    "content":  " PROCEDURE: []\n\nHISTORY: [Fluroscopic intervention]\n\n\nA total of [] images were obtained. These images are non-diagnostic fluorscopic images for procedure guidance only.\n\n FINDINGS/IMPRESSION:\n\nNon-diagnostic imaging provided for guidance only. Please correlate with intraoperative report.\n\nRadiation Dose Metrics:\nTotal Exposure Time: [] s.\nTotal Air Kerma: [] mGy.",
+    "prompt":  " ",
+    "tags":  [
+                 "fluoro",
+                 "orif",
+                 "xf",
+                 "intra op fluro"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6993723b3e2e1ce6d29e95a9"
+            },
+    "name":  "HEAD5",
+    "type":  "Clinical",
+    "content":  "Head 5",
+    "prompt":  "hello",
+    "tags":  [
+
+             ],
+    "numpadCode":  "889",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "699369443e2e1ce6d29e9438"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

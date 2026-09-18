@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69b4918227f0949f089b5717"
+            },
+    "name":  "HUMERUS",
+    "type":  "X-Ray",
+    "content":  "EXAM:  XR Humerus, 2+ views, [side]\n\nHISTORY:    Pain\n\n COMPARISON: None\n\nFINDINGS:\n\nAlignment is maintained. \n\nNo fracture or dislocation seen. \n\nVisualized lung is clear. \n\nMineralization is appropriate for age. \n\nIMPRESSION:\n\nNo fracture or dislocation seen.",
+    "prompt":  "",
+    "tags":  [
+                 "XR Humerus",
+                 "x humerus",
+                 "xhum"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

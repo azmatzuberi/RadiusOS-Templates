@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68937d0c420ab8f00479fd6d"
+            },
+    "name":  "GENERAL EXTREMITY",
+    "type":  "X-Ray",
+    "content":  "EXAM:\nXR [_laterality_] [_body part_], [] View.\n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable.\n\nIMPRESSION:\n1. No acute osseous abnormality.",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

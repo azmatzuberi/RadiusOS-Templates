@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "68b9a31dacd9f25d7dc154c1"
+            },
+    "name":  "FLUORO",
+    "type":  "X-Ray",
+    "content":  "Fluoroscopic imaging was performed during ORIF.\n\n A total of [123] images were acquired, with [13] images saved for diagnostic documentation.\n\nRadiation Dose Metrics:\nTotal Exposure Time: [4 minutes 15 seconds]\nLongest Single Exposure: [6 seconds]\nDose Area Product (DAP): [63.3440 cGy·cm²]\nTotal Air Kerma: [3.7705 mGy]",
+    "prompt":  "",
+    "tags":  [
+                 "exposure",
+                 "time",
+                 "fluoro",
+                 "orif"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69e7a423d49e6f6b9f12a552"
+                    },
+    "rvu":  0,
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

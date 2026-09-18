@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "685c5aad59f7e2adef2b11aa"
+            },
+    "name":  "HIP",
+    "type":  "X-Ray",
+    "content":  "  HISTORY:  Pain\n\nTECHNIQUE:  Imaging of the []  hip were performed.\n\nCOMPARISON: None\n\n\nFINDINGS:   \n\nThere is no displaced fracture.  \n\nAlignment and joint  spaces are maintained.  \n\nThere are no destructive or erosive changes. \n\nSoft tissues are unremarkable. \n\nBones appear normally mineralized for age.\n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically.\n",
+    "prompt":  "  Update the findings section in the included template with the input data.  Remove any brackets after making a report.\n\n  \nOnly summarize the impression with pertinent positives and remove any pertinent negatives.",
+    "tags":  [
+                 "xh",
+                 "xhip",
+                 "hip",
+                 "xray hip"
+             ],
+    "numpadCode":  "454",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

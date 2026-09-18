@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a10b8acddea22c0e9819290"
+            },
+    "content":  "REASON FOR EXAM:\r\n[Regurgitation of undigested food.]\r\n\r\nCOMPARISON:\r\n[None.]\r\n\r\nTECHNIQUE:\r\nThe patient was given [] mCi of Technetium 99m labeled Choletec intravenously and sequential imaging of the abdomen performed.\r\n\r\nFINDINGS:\r\nThe images demonstrate excellent uptake of activity by the hepatic parenchyma.  There is rapid excretion into the biliary ductal system with prompt appearance in the gallbladder.  There is excellent excretion of contrast through the biliary ductal system into the small bowel.  The calculated gallbladder ejection fraction is [ ] percent.\r\n\r\nIMPRESSION:\r\nNormal hepatobiliary scan excluding the diagnoses of acute cholecystitis and common bile duct obstruction.\r\n\r\nNormal ejection fraction of [ ].",
+    "createdAt":  {
+                      "$date":  "2026-05-22T20:12:28.780Z"
+                  },
+    "isPublic":  false,
+    "name":  "Gastric Empty",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "Nuclear",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "680f99dad9c4ad58fac0f049"
+            },
+    "name":  "KNEE",
+    "type":  "MRI",
+    "content":  "EXAM: MRI KNEE\n\nHISTORY: [ ]\n\nCOMPARISON: [None]\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the [] knee was performed.  No IV contrast.\n\nFINDINGS: \n\nMenisci: [The medial and lateral menisci are intact without evidence of tear.]\nCruciate Ligaments: [The anterior and posterior cruciate ligaments are intact.]\nCollateral Ligaments: [The medial and the lateral collateral ligament are intact.] \nPatellar Retinaculum: [The medial and lateral patellar retinaculum are intact.]\nPatellar/Quadriceps Tendon: [The patellar tendon and the quadriceps tendon are unremarkable.]\nBone Marrow Signal: [No evidence of fracture, bone contusion, bone marrow edema, or AVN.]\nCartilage/Articular Surfaces: [No intra-articular loose bodies.]\nExtra-articular Tendons: ][The medial and lateral heads of the gastrocnemius muscle, semimembranous, semitendinosus, and pes anserinus tendons are unremarkable.]\n\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "  Please modify the template  findings section with  input and summarized the impression with pertinent findings only.",
+    "tags":  [
+                 "mrk"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

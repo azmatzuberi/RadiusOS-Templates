@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "6764693a503e739f068ba0df"
+            },
+    "name":  "HIPS",
+    "type":  "MRI",
+    "content":  "EXAM: MR Lower Extremity, Hip.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] hip [without or with] intravenous contrast.\n\nCONTRAST:\n[Without or with]\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nTENDONS:\nFLEXORS:\n[Unremarkable.].\nEXTENSORS/HAMSTRING:\n[Unremarkable.].\n\nABDUCTORS:\n[Unremarkable.].\n\nADDUCTORS:\n[Unremarkable.]\n\nROTATORS:\n[Unremarkable.]\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nMUSCLES:\n[Unremarkable.]\n\nFLUID:\nNo significant hip effusion.\n\nLABRUM:\n[Unremarkable.]\n\nCARTILAGE:\n[Unremarkable.]\n\nIMPRESSION:\n[]\n\n",
+    "prompt":  " \n\nUse input findings to change the template data and form an impression.\n ",
+    "tags":  [
+                 "mrh",
+                 "mr hips"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

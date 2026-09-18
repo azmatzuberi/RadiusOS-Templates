@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "684713423e737c21716fb7af"
+            },
+    "name":  "hand",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  Pain/injury.\n\nTECHNIQUE:  Imaging of the []  hand performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nOverall alignment is anatomic.\n\nThere is no fracture or dislocation. \n\nNo radiopaque foreign body.\n\nIMPRESSION:  \n\nNo acute process seen radiographically.",
+    "prompt":  "update the findings section in the included  template report with the input data and remove any brackets.\n\n\n  Only summarize the impression with pertinent findings.  Do not include pertinent negatives.",
+    "tags":  [
+                 "hand",
+                 "hand xray"
+             ],
+    "numpadCode":  "555",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

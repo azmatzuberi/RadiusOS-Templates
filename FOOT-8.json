@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69b99255fca7fee16f79a994"
+            },
+    "name":  "FOOT",
+    "type":  "IR",
+    "content":  "FOOT123",
+    "prompt":  "FOOT Template Prompt",
+    "tags":  [
+
+             ],
+    "numpadCode":  "059",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68c1f80164d1f570dfbcbe2f"
+            },
+    "name":  "FOREARM",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  PAIN\n\nTECHNIQUE:  Multiple views of the []  forearm were performed.\n\nCOMPARISON: None\n\nFINDINGS: \n\nThere is no displaced fracture. \n\nBones appear normally mineralized for age. \n\nSoft tissues are unremarkable.\n\nNo radiopaque foreign body.\n\n\nIMPRESSION:  \n\nNo fracture or dislocation seen. \n\n\n\n\n",
+    "prompt":  "",
+    "tags":  [
+                 "forearm"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "6852ec9654beb9a3f60a9359"
+            },
+    "name":  "EXTREMITY",
+    "type":  "MRI",
+    "content":  "EXAM:\nMR [_laterality_] Lower Extremity [with or without} Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] lower extremity [with or without] intravenous contrast.\n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nSOFT TISSUES:\nThe soft tissues are unremarkable.\n\nJOINTS:\nUnremarkable. No dislocation or significant effusion. \n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nIMPRESSION:\n1. Normal [_laterality_] lower extremity and surrounding soft tissues.",
+    "prompt":  "Please use the input data to fill in brackets  in the template.\n\n  Only at pertinent positives in the impression.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

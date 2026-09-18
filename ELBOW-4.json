@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69a718b340ea0c35655aee1e"
+            },
+    "name":  "ELBOW",
+    "type":  "MRI",
+    "content":  "nullEXAM:\nMR [_laterality_] Upper Extremity [With or without] Intravenous Contrast, Elbow.\nCLINICAL HISTORY:\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] elbow [with or without] intravenous contrast.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nLIGAMENTS:\nMEDIAL COLLATERAL:\n[Unremarkable.]\nLATERAL COLLATERAL:\n[Unremarkable.]\nANNULAR:\n[Unremarkable.]\nTENDONS:\nBICEPS:\n[Unremarkable.]\nBRACHIALIS:\n[Unremarkable.]\nTRICEPS:\n[Unremarkable.]\nNo tear.\nCOMMON FLEXOR:\n[Unremarkable.]\nCOMMON EXTENSOR:\n[Unremarkable.]\nBONES:\nNo acute fracture or focal osseous lesion.\nMUSCLES:\n[Unremarkable.]\nFLUID:\nNo joint effusion.\nCARTILAGE:\n[Unremarkable.]\nIMPRESSION:\nNormal [_laterality_] elbow.\n\nEXAM:\nMR [_laterality_] Upper Extremity [With or without] Intravenous Contrast, Elbow.\nCLINICAL HISTORY:\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] elbow [with or without] intravenous contrast.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nLIGAMENTS:\nMEDIAL COLLATERAL:\n[Unremarkable.]\nLATERAL COLLATERAL:\n[Unremarkable.]\nANNULAR:\n[Unremarkable.]\nTENDONS:\nBICEPS:\n[Unremarkable.]\nBRACHIALIS:\n[Unremarkable.]\nTRICEPS:\n[Unremarkable.]\nNo tear.\nCOMMON FLEXOR:\n[Unremarkable.]\nCOMMON EXTENSOR:\n[Unremarkable.]\nBONES:\nNo acute fracture or focal osseous lesion.\nMUSCLES:\n[Unremarkable.]\nFLUID:\nNo joint effusion.\nCARTILAGE:\n[Unremarkable.]\nIMPRESSION:\nNormal [_laterality_] elbow.",
+    "prompt":  "",
+    "tags":  [
+                 "mr elbow",
+                 "mri elbow"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
