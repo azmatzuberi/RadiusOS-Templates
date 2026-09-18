@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c5d"
+            },
+    "name":  "THORACIC",
+    "type":  "CT",
+    "content":  "EXAM: CT THORACIC WO\n\nHISTORY: [Pain.]\n\nCOMPARISON: [None]\n\nTECHNIQUE:  Axial images through the thoracic spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.\n\nCONTRAST: None\n\n\nFINDINGS: \n\nALIGNMENT: [Unremarkable]\n\nOSSEOUS: [Unremarkable]\n\nSOFT TISSUE: [Unremarkable]\n\nVISUALIZED LUNGS: [Unremarkable]\n\n\n\n\nIMPRESSION:\n\n[No acute osseous traumatic process identified within the thoracic spine.]\n\n\n",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

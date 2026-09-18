@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "68dbee4cdfff68f7a4be29d3"
+            },
+    "name":  "US OB \u003c20 (M)",
+    "type":  "Ultrasound",
+    "content":  "TECHNIQUE:  Standard obstetric ultrasound was performed.  \n\n\nFINDINGS:\n\n[Single] intrauterine pregnancy.\n\n CRL    []\n Gestational Age [] \n Heart Rate [] bpm  \n\nFetal movement [observed. ] Amniotic fluid [subjectively normal.]\n\nIMPRESSION:",
+    "prompt":  "\n1. Do not inlclude EXAM:  in generated report\n2. Do not inlclude HISTORY:  in generated report\n3. Do not inlclude COMPARISON:  in generated report\n ",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

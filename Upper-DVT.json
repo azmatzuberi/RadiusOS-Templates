@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "690b988ececf1133460b5903"
+            },
+    "name":  "Upper DVT",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:   []  .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Duplex scanning of the  []   upper extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. \n\nFINDINGS:  \n\nThe deep veins of the   []  upper extremity are normally patent, including the internal jugular, subclavian, axillary, and brachial veins. The     cephalic vein is patent as well.\n\nOther findings: None.\n\nIMPRESSION: \n\nNo evidence of deep vein thrombosis in the     upper extremity.\n",
+    "prompt":  "Use INDICATION for title and not EXAM:",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "69f231c5d4c9f235943caa16"
+            },
+    "content":  "FINDINGS:\n\nLUNGS: [Visualized lower lungs are clear.]\n\n\n\nHEART: [Heart is normal in size without pericardial effusion.]\n\n\n\nLIVER: [Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]\n\n\n\nBILIA[Gallbladder normal without gallbladder wall thickening or pericholecystic fluid.  No calcified stones within the gallbladder.]\n\n\n\n[Spleen is normal in size, contour, and attenuation.]\n\n\n\n[Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]\n\n\n\n[No adrenal masses.]\n\n\n\n[Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] \n\n\n\n[No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]\n\n\n\n[Abdominal aorta and arborizing branches are normal in course and caliber.]\n\n\n\n[No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]\n\n\n\n[Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]\n\nCONCLUSION:\n[]",
+    "createdAt":  {
+                      "$date":  "2026-04-29T16:28:53.141Z"
+                  },
+    "isPublic":  false,
+    "name":  "UROGRAM",
+    "prompt":  "1. Dont add EXAM, technique, history, or comparison to these reports.\n\n2. use double line spacing\n\n3. use the template as our outline and keep the style and format. \n\n4. include pertinent negatives and all the fields from the template data.\n\n5. Do not add prior surgeries to conclusion/impression like cholecystectomy, hysterectomy, appendectomy.\n\n6. Add recommendations as a sperate line to conclusion/impresson ONLY if recommendations is  made as\n\nRECOMMENDATIONS: []",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "[CT Urogram w/wo Contrast]",
+                 "CT urogram",
+                 "CTURO"
+             ],
+    "type":  "CT",
+    "updatedAt":  {
+                      "$date":  "2026-09-10T16:26:26.941Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  true
+}

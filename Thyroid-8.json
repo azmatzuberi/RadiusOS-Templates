@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6a4d306c16ccb0a15b5b2a21"
+            },
+    "content":  "INDICATION:   []  \n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Grayscale and color Doppler imaging of the thyroid was performed.\n\nFINDINGS: \n\nRight Lobe:  [ ]x [] x [] cm. Homogeneous. Normal Doppler flow. \n\nIsthmus:  [] mm.\n\nLeft lobe:  [] x [] x [] cm. Homogeneous. Normal Doppler flow. \n\nNodules:      \n\n \nLymphadenopathy:  [None.]\n\nIMPRESSION:\n\n[]\n   \n\nTI-RADS follow up recommendations:\n\nTR5: FNA if nodule at least 10 mm; follow yearly for 5 years if at least 5 mm. (At least 7 points)\nTR4: FNA biopsy if nodule at least 15 mm; follow at 1,2, 3 and 5 years if at least 10 mm. (4-6 points) \nTR3: FNA biopsy if nodule at least 25 mm; follow at 1, 3 and 5 years if at least 15 mm. (3 points) \nTR2: No follow-up required. (2 points) \nTR1: No follow-up required. (0 points)",
+    "createdAt":  {
+                      "$date":  "2026-07-07T16:59:24.191Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "Thyroid",
+    "prompt":  "use  the template style and format for the intended site.\n\nDo not add exam title or recommendations unless in template or specified in input.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "ust",
+                 "ultrasound thyroid"
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-07-27T17:39:00.694Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    }
+}

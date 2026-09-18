@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c26"
+            },
+    "name":  "thoracic (m)",
+    "type":  "X-Ray",
+    "content":  "EXAM:  Thoracic\n\nHISTORY:  [Pain]\n\n\nTECHNIQUE:  Thoracic spine views were obtained.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nAlignment and vertebral body height are maintained. \n\nNo compression fracture or subluxation.\n\nPosterior elements are intact.\n\n Bones appear normal for age. \n\nNo abnormal soft tissue calcification.\n\n\nIMPRESSION:   \n\nNo fracture or subluxation seen within the thoracic spine.  \n",
+    "prompt":  "",
+    "tags":  [
+                 "xt",
+                 "x-ray thoracic",
+                 "XR Thoracolumbar 2 Views"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69b02dea5851246ed0647373"
+            },
+    "name":  "WRIST",
+    "type":  "X-Ray",
+    "content":  "  EXAM:  Wrist\n\nHISTORY:  [Pain]\n\nTECHNIQUE:  Imaging of the [right]  wrist performed.\n\nCOMPARISON: None\n\nFINDINGS:   \n\nThere is no displaced fracture. \n\nBones appear normally mineralized for age.  \n\nThe carpals are well aligned.   \n\nSoft tissues are unremarkable.\n\nNo radiopaque foreign body or subcutaneous gas.\n \n\nIMPRESSION: \n\nNo acute process seen radiographically.\n\n\n\n",
+    "prompt":  "Stick to the template style and add pertinent negatives",
+    "tags":  [
+                 "xw",
+                 "x-ray wrist",
+                 "xrw"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

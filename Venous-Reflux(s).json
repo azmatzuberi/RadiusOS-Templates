@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "690ccb93cecf1133460b5e1b"
+            },
+    "name":  "Venous Reflux(s)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  Venous insufficiency. Varicose veins.\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Duplex scanning of the   [Side]  lower extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. Venous insufficiency exam was then performed in the standing position.\n\nFINDINGS:  The deep veins of the lower extremities were evaluated from the level of the common femoral veins proximally, through the level of the posterior tibial veins distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis. Great saphenous vein is patent.  \n\n    GSV:\n\nEvidence of reflux standing: [No]\n\nDiameter:\nZone 1:  []   mm\nZone 2:  []   mm\nZone 3:   []  mm\nZone 4:   []  mm\nZone 5:   []  mm\n\n    LSV:\n\nDiameter:\nZone A:   []  mm\nZone B:  []   mm\n                                                                                       \nIMPRESSION:  \n\nNo evidence of deep vein thrombosis in the lower extremity. No significant venous stasis.",
+    "prompt":  "Use INDICATION and not EXAM in title",
+    "tags":  [
+                 "venous",
+                 " reflux"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "67be508543cfc3f7ba77f327"
+            },
+    "name":  "Wrist",
+    "type":  "X-Ray",
+    "content":  "EXAM: WRIST\n\nTECHNIQUE:  Imaging of the [] wrist was performed.\n\n\n HISTORY: []\n\nCOMPARISON:\n[None provided.]\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nJOINTS:\nNo dislocation.\n\nThe joint spaces are normal.\n\nSOFT TISSUES:\n\nThe soft tissues are unremarkable.\n\nIMPRESSION:\n\n[Unremarkable.]",
+    "prompt":  "",
+    "tags":  [
+                 "xray",
+                 "wrist"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

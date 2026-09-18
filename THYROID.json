@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "67bd0833156884ba1289fd9f"
+            },
+    "name":  "THYROID",
+    "type":  "Ultrasound",
+    "content":  "EXAMINATION: THYROID ULTRASOUND\n\nCOMPARISON: [None]\n\nHISTORY: \n\nTECHNIQUE:  Ultrasound of the thyroid was performed in the usual fashion.\n\nIMPRESSION:\n\n[]\n\nFINDINGS:\n\nRight thyroid gland:  [Unremarkable.]\nLeft thyroid gland:  [Unremarkable.]\nIsthmus: [Unremarkable.]\n\nRight thyroid nodules: [None]\nLeft thyroid nodules: [None]\nIsthmus nodules: [None]\n\n\n \nAmerican College of Radiology TI-RADS Categories and Recommendations (2017):\nTR1: 0 points, Benign, No FNA\nTR2: 2 points, Not suspicious, No FNA\nTR3: 3 points, Mildly suspicious, FNA if 2.5 cm+, Follow if 1.5 cm+\nTR4: 4-6 points, Moderately Suspicious, FNA if 1.5 cm+, Follow if 1 cm+\nTR5: 7+ points, Highly Suspicious, FNA if 1 cm+, Follow if 0.5 cm+\nFollow-up ultrasound guidelines:\nTR5: yearly for 5 years, if no growth or change in TI-RADS level\nTR4: at 1, 2, 3 and 5 years, if no growth or change in TI-RADS level\nTR3: at 1, 3 and 5 years, if no growth or change in TI-RADS level\nIf change but below threshold for FNA, repeat in one year.\nSource:  ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the\nACR TI-RADS Committee.  Tesler et al., J Am Coll Radiol 2017;14:587-595.]\n\n[Composition (Choose 1)*\nCystic or almost completely cystic 0 points\n Spongiform 0 points\n Mixed cystic and solid 1 point\n Solid or almost completely solid 2 points\nEchogenicity (Choose 1)*\n Anechoic 0 points\n Hyperechoic or isoechoic 1 point\n Hypoechoic 2 points\n Very hypoechoic 3 points\nShape (Choose 1)*\n Wider-than-tall 0 points\n Taller-than-wide 3 points\nMargin (Choose 1)*\n Smooth 0 points\n Ill-defined 0 points\n Lobulated or irregular 2 points\n Extra-thyroidal extension 3 points\nEchogenic Foci (Choose All That Apply)*\n None or large comet-tail artifacts 0 points\n Macrocalcifications 1 point\n Peripheral (rim) calcifications 2 points\n Punctate echogenic foci 3 points]\nEXAMINATION: THYROID ULTRASOUND\n\nCOMPARISON: [None]\n\nHISTORY: [Goiter]\n\nFINDINGS:\n\nRight thyroid gland:  [Unremarkable.]\nLeft thyroid gland:  [Unremarkable.]\nIsthmus: [Unremarkable.]\n\nRight thyroid nodules: [None]\nLeft thyroid nodules: [None]\nIsthmus and nodules: [None]\n\nIMPRESSION:\n\n\n \nAmerican College of Radiology TI-RADS Categories and Recommendations (2017):\nTR1: 0 points, Benign, No FNA\nTR2: 2 points, Not suspicious, No FNA\nTR3: 3 points, Mildly suspicious, FNA if 2.5 cm+, Follow if 1.5 cm+\nTR4: 4-6 points, Moderately Suspicious, FNA if 1.5 cm+, Follow if 1 cm+\nTR5: 7+ points, Highly Suspicious, FNA if 1 cm+, Follow if 0.5 cm+\nFollow-up ultrasound guidelines:\nTR5: yearly for 5 years, if no growth or change in TI-RADS level\nTR4: at 1, 2, 3 and 5 years, if no growth or change in TI-RADS level\nTR3: at 1, 3 and 5 years, if no growth or change in TI-RADS level\nIf change but below threshold for FNA, repeat in one year.\nSource:  ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the\nACR TI-RADS Committee.  Tesler et al., J Am Coll Radiol 2017;14:587-595.]\n\n[Composition (Choose 1)*\nCystic or almost completely cystic 0 points\n Spongiform 0 points\n Mixed cystic and solid 1 point\n Solid or almost completely solid 2 points\nEchogenicity (Choose 1)*\n Anechoic 0 points\n Hyperechoic or isoechoic 1 point\n Hypoechoic 2 points\n Very hypoechoic 3 points\nShape (Choose 1)*\n Wider-than-tall 0 points\n Taller-than-wide 3 points\nMargin (Choose 1)*\n Smooth 0 points\n Ill-defined 0 points\n Lobulated or irregular 2 points\n Extra-thyroidal extension 3 points\nEchogenic Foci (Choose All That Apply)*\n None or large comet-tail artifacts 0 points\n Macrocalcifications 1 point\n Peripheral (rim) calcifications 2 points\n Punctate echogenic foci 3 points]\n",
+    "prompt":  "Do not add goiter to history  \n\ninclude each thyroid lobe size \ninclude isthmus width\n\n  Give all nodule measurements in mm and convert from cm.\n\nInclude:  \n\n\n\n\nRecommendation:  \nAmerican College of Radiology TI-RADS Categories and Recommendations (2017): \nTR1: 0 points, Benign, No FNA\nTR2: 2 points, Not suspicious, No FNA\nTR3: 3 points, Mildly suspicious, FNA if 2.5 cm+, Follow if 1.5 cm+\nTR4: 4-6 points, Moderately Suspicious, FNA if 1.5 cm+, Follow if 1 cm+\nTR5: 7+ points, Highly Suspicious, FNA if 1 cm+, Follow if 0.5 cm+\nFollow-up ultrasound guidelines:\nTR5: yearly for 5 years, if no growth or change in TI-RADS level\nTR4: at 1, 2, 3 and 5 years, if no growth or change in TI-RADS level\nTR3: at 1, 3 and 5 years, if no growth or change in TI-RADS level\nIf change but below threshold for FNA, repeat in one year.\nSource: ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the\nACR TI-RADS Committee. Tesler et al., J Am Coll Radiol 2017;14:587-595.\n\n\nin every report \n\n",
+    "tags":  [
+                 "ust",
+                 " us thyroid",
+                 "thyroid"
+             ],
+    "numpadCode":  "421",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

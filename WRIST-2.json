@@ -1,0 +1,22 @@
+{
+    "_id":  {
+                "$oid":  "682c9058e9b2623b22808010"
+            },
+    "name":  "WRIST",
+    "type":  "MRI",
+    "content":  "EXAM:\nMR [_laterality_] Upper Extremity [with or without]  Intravenous Contrast, Wrist.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] wrist [with or without]  intravenous contrast.\n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLIGAMENTS:\n\nScapholunate:\nUnremarkable.\n\nLunotriquetral:\nUnremarkable.\n\nTENDONS:\n\nFlexor compartments:\nUnremarkable.\n\nExtensor compartments:\nUnremarkable.\n\nNERVES:\n\nMedian:\nUnremarkable.",
+    "prompt":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

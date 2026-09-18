@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "686c327118dfb3b62f5db2fd"
+            },
+    "name":  "TMJ",
+    "type":  "X-Ray",
+    "content":  "History: Jaw Pain\n\nTechnique:   TMJ imaging was obtained.  No priors for comparison.\n\n  Findings:\n\n  Impression:",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "113",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

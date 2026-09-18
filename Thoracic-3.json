@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "685c134c59f7e2adef2b1145"
+            },
+    "name":  "Thoracic",
+    "type":  "X-Ray",
+    "content":  "HISTORY:    Thoracic pain\n\nTECHNIQUE:  Thoracic spine views were obtained.\n\nCOMPARISON: None\n\nFINDINGS:   \n\n[Alignment and vertebral body height are maintained. ]\n\n[No compression fracture or subluxation.]\n\n[Posterior elements are intact.]\n\n[ Bones appear normal for age. ]\n\n[No abnormal soft tissue calcification.]\n\n\nIMPRESSION:   \n\n[No fracture or subluxation seen within the thoracic spine.  ]\n",
+    "prompt":  "Change the template fields in bracket with the input data. If there is no change, remove the brackets.\n\nUpdate the impression section with the findings and only summarize pertinent findings",
+    "tags":  [
+                 "thoracic"
+             ],
+    "numpadCode":  "345",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

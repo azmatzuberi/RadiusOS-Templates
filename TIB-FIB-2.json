@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6a085f30a61e6fb902d833d0"
+            },
+    "content":  "INDICATION:    [Pain] .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  AP and lateral views of the  [side]   tibia and fibula were performed.\n\nFINDINGS:  No fracture, dislocation or bone lesion is seen. Soft tissue and bone density are normal.    \n\nIMPRESSION:   \n\nUnremarkable radiographic series of the tibia and fibula.",
+    "createdAt":  {
+                      "$date":  "2026-05-16T12:12:32.139Z"
+                  },
+    "isPublic":  false,
+    "name":  "TIB-FIB",
+    "prompt":  "Use INDICATION and not EXAM for title.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "tib",
+                 "fib"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

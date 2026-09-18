@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a075b2bfab2e18bc01b4f3f"
+            },
+    "content":  "INDICATION:   [Pain]  \n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:   [Multiple]  views of the  [side]  wrist were obtained. \n\nFINDINGS:  The distal radius and ulna appear intact. Osseous structures of the proximal and distal carpal rows appear preserved. The proximal metacarpals are intact. No fractures are identified.\n\nThe articulations of the wrist are preserved and normally aligned.  \n\nThe surrounding soft tissues are normal.  \n\nIMPRESSION:  \n\nUnremarkable radiographic series of the wrist.",
+    "createdAt":  {
+                      "$date":  "2026-05-15T17:43:07.263Z"
+                  },
+    "isPublic":  false,
+    "name":  "WRIST",
+    "prompt":  "Use INDICATION and not EXAM for title.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "xray wrist",
+                 "wrist xray",
+                 "wrist"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

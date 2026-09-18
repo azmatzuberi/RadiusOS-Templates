@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "697781434d6ff92f66a86e7f"
+            },
+    "name":  "THORACIC",
+    "type":  "MRI",
+    "content":  "EXAM: MRI THORACIC SPINE\n\nHISTORY: [Back pain]\n\nCOMPARISON: [None]\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the thoracic spine was performed. No IV contrast was administered. \n\nFINDINGS: \n[The cervicothoracic and thoracolumbar junctions are intact.] \n[The vertebral bodies and intervertebral disc heights are maintained.]\n[The thoracic cord is in anatomic location without abnormal signal.]\n[No abnormal extra-axial mass is present.]\n[The prevertebral and paravertebral soft tissues are within normal limits.] \nLevel by level findings are as follows:\nC7-L1: [No disc herniation.] [No spinal canal stenosis.] [No foraminal narrowing.]\n\nIMPRESSION:\n\n [No abnormal signal seen within the cord.]  [No significant degenerative changes seen.]\n\n",
+    "prompt":  "",
+    "tags":  [
+                 "mrt",
+                 "mr thor",
+                 "mri thoracic",
+                 "[MR] [] [MR Thoracic Spine w/o Contrast]"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
