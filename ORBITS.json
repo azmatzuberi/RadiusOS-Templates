@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6830c53da969c4ef1130d0f2"
+            },
+    "name":  "ORBITS",
+    "type":  "CT",
+    "content":  "EXAM:\nCT Orbits [with or without] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial computed tomography images of the orbits [with or without]  intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative reconstruction. \n\nCONTRAST:\n[With and without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nORBITS:\nUnremarkable. No retrobulbar hematoma. No post-septal fat stranding or fluid \n\nBONES:\nNo acute fracture or focal osseous lesion. No periosteal reaction. \n\nSINUSES:\nNo sinus air-fluid level as visualized.\n\nSOFT TISSUES:\nNo soft tissue gas. No radiopaque foreign body. \n\nIMPRESSION:\n1. No acute orbital abnormalities.",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

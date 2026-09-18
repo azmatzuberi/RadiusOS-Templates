@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699f2b990ea965f090d74917"
+            },
+    "name":  "NECK ST",
+    "type":  "Ultrasound",
+    "content":  "EXAM:    NECK ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nCOMPARISON: None\n\nTECHNIQUE: Ultrasound examination of the neck was performed.\n\nFINDINGS:\n\nNeck: [Unremarkable.]\n\nAdenopathy: [Unremarkable.]\n\n IMPRESSION: \n\n[]\n\n",
+    "prompt":  "2. Ignore sonographic murphy sign unless clearly circled as positive. \n",
+    "tags":  [
+                 "usn",
+                 "ultrasound neck",
+                 "US Soft Tissue Neck"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

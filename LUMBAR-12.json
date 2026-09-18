@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e34"
+            },
+    "name":  "LUMBAR",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  Back pain\n\nTECHNIQUE:  Lumbar spine views obtained. \n\nCOMPARISON: None\n\nFINDINGS: \n\nAlignment is maintained.\n\n Vertebral body height and disc spaces show degenerative changes, mild. \n\nFacet joints demonstrate hypertrophy particularly in the lower lumbar spine. \n\nThere is likely neural foraminal narrowing in the lower lumbar spine . \n\n Paraspinal tissues are unremarkable.  Bones appear normally mineralized for age.  \n\nIMPRESSION:   \n\nDegenerative changes as described. No fracture or subluxation seen. \n",
+    "prompt":  "Please update the template with the  input findings and summarize the impression.",
+    "tags":  [
+                 "xls",
+                 "ls",
+                 "lumbar",
+                 "lumbar spine"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

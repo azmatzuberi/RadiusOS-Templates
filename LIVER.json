@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "67e58b5176159a13fbd3d974"
+            },
+    "name":  "LIVER",
+    "type":  "Ultrasound",
+    "content":  "EXAM:  LIVER ULTRASOUND EXAMINATION\n\nHISTORY:  []  \n\nTECHNIQUE: Ultrasound of the liver was performed in the usual fashion. Doppler evaluation performed. \n\nCOMPARISON: None\n\nIMPRESSION:\n \n[]\n\nFINDINGS:\n\nLIVER:  [Unremarkable.]\n\nCommon bile duct :  [Unremarkable.]\n\nGallbladder:  [Unremarkable.]\n \nFluid:  [Unremarkable.]\n",
+    "prompt":  "",
+    "tags":  [
+                 "US",
+                 "sono",
+                 "liver",
+                 "  Biliary"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

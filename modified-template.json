@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69936b9e3e2e1ce6d29e94b0"
+            },
+    "name":  "modified-template",
+    "type":  "Ultrasound",
+    "content":  "This is the text for the test template",
+    "prompt":  "Try the best you can, but be short and concise.",
+    "tags":  [
+                 "modified",
+                 "existing"
+             ],
+    "numpadCode":  "002",
+    "radial":  "CTAP",
+    "rvu":  1,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "699369443e2e1ce6d29e9438"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

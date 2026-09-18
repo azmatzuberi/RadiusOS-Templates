@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68965e05420ab8f0047a04b8"
+            },
+    "name":  "NECK",
+    "type":  "X-Ray",
+    "content":  "Procedure: Soft tissue neck X-ray, AP and lateral views\n\nHistory: [Clinical indication]\n\nFindings:\nThe airway is widely patent with normal epiglottis and aryepiglottic folds. The prevertebral soft tissues are within normal limits. No radiopaque foreign body, mass effect, or abnormal calcifications are identified. The cervical spine alignment is maintained. Visualized osseous structures are unremarkable.\n\nImpression:\n[]",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

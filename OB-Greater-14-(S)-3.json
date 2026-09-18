@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699e1aad0ea965f090d743ed"
+            },
+    "name":  "OB Greater 14  (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:    [] \n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Transabdominal scanning was performed with gray scale, B-mode and color Doppler imaging.\n\nFINDINGS:  FINDINGS:  There is a [single] intrauterine fetus in  []   position. Fetal heart rate is  [] BPM. Placenta is []   , grade     maturity. Amniotic fluid assessment:  []   Cervical length is [] cm.\n\nBPD:   []   cm =    []\nHC:   []   cm =    []\nAC:   []   cm =   [] \nFL:  [] cm = []\n\nEGA by this ultrasound:  []\nEDC by this ultrasound:    [] \nEDC by prior ultrasound:  N/A\nEstimated fetal weight:  []    grams\nWeight percentile:    %[]\n\nFetal anatomy:  The fetal head, lateral ventricles, cerebellum, stomach, kidneys, spine, bladder, cord insertion, three vessel cord, extremities, facial profile, nose and lips, fetal diaphragm, ventricular outflow tracts, and four-chamber heart were visualized and demonstrated no abnormalities. \n\nCervical length is   []  cm.  \nAmniotic fluid index is   []  cm.  \n\nOvaries: Not identified.\n   \n\nIMPRESSION:   \n\nIMPRESSION:   \n\nLiving intrauterine pregnancy with estimated gestational age of  []    and EDC by current ultrasound of  []  . \n\n",
+    "prompt":  "1. Please use fetal data and make readable table and summarize the input data and findings in the impression. \n\n\n2. Dont use EXAM title. Use INDICATION as specified in template. \n\n3. Dont add BPP data",
+    "tags":  [
+                 "Ultrasound",
+                 "greater",
+                 "US Preg =\u003e14 Wks"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

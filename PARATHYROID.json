@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69b422dc94bde32279b21f35"
+            },
+    "name":  "PARATHYROID",
+    "type":  "Nuclear",
+    "content":  "PROCEDURE: NM Parathyroid Planar\n\nCLINICAL HISTORY:\nEvaluation for suspected hyperparathyroidism.\n\n\nTECHNIQUE:\nTc-99m sestamibi was administered intravenously. Early and delayed planar images of the neck and upper chest were obtained. SPECT was performed for anatomic localization.\n\nFINDINGS:\nEarly images show physiologic tracer uptake in salivary glands, thyroid gland, and myocardium. Delayed images show expected washout from the thyroid gland. No focal area of persistent radiotracer uptake is seen. No additional abnormal uptake in the neck or mediastinum.\n\n\n\nIMPRESSION:\n[]\n",
+    "prompt":  "",
+    "tags":  [
+                 "NM Parathyroid Planar"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

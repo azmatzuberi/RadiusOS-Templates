@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c11"
+            },
+    "name":  "LUMBAR (M)",
+    "type":  "MRI",
+    "content":  "EXAM: MRI  LUMBAR\n\nHISTORY:  Back pain\n\nCOMPARISON: None\n\nTECHNIQUE: Multiplanar multisequence MRI imaging of the lumbar spine was performed.\n\nCONTRAST:  No IV contrast was administered. \n\nFINDINGS: \n\nALIGNMENT: [Unremarkable.]\n\nBONE MARROW: [Unremarkable.]\n\nSOFT TISSUE: [Unremarkable.]\n\nFor counting purposes: There is the assumption that there are 5 non-rib-bearing lumbar vertebral bodies.\n\nLevel by Level:\n\nL1-L2 level:  [Unremarkable.]\n\nL2-L3 level:  [Unremarkable.]\n\nL3-L4 level: [Unremarkable.]\n\nL4-L5 level:  [Unremarkable.]\n\nL5-S1 level: [Unremarkable.]\n\nIMPRESSION:\n\n\n\n",
+    "prompt":  "Put spine level by level details in order and do not include bullets or - in front.\n\n",
+    "tags":  [
+                 "mrl",
+                 "mrls",
+                 "MR L Spine wo Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

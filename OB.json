@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "6866a68418dfb3b62f5db0d0"
+            },
+    "name":  "OB",
+    "type":  "Ultrasound",
+    "content":  "PROCEDURE:  OB ultrasound\n\nComparison: None.\n\nHISTORY: Pregnancy.\n\nFINDINGS:\n\n[Single] intrauterine pregnancy.\n\n CRL    []\n Gestational Age [] \n Heart Rate [] bpm  \n\nFetal movement [observed. ] Amniotic fluid [subjectively normal.]\n\nIMPRESSION:\n",
+    "prompt":  "Please use fetal data and make readable table and summarize the input data and findings in the impression. \n\n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "224",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

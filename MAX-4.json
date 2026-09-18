@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c31"
+            },
+    "name":  "MAX",
+    "type":  "CT",
+    "content":  "EXAM: CT MAXILLOFACIAL \n\nTECHNIQUE: CT maxillofacial was performed in usual fashion.  Coronal and sagittal reformats were obtained from the axial data set.  \n\n\nCONTRAST: [None.]\n\nCOMPARISON: None.\n\nDLP in mGy-cm: []\n\n\nFINDINGS: \n\nSINUSES: [Unremarkable]\n\nOSTEOMEATAL COMPLEX:  [Unremarkable]\n\nCRIBRIFORM PLATE:  [Unremarkable]\n\nSEPTUM: [Unremarkable]\n\nMASTOID: [Unremarkable]\n\nORBITS: [Unremarkable]\n\nOSSEOUS STRUCTURES: [Unremarkable]\n\nSOFT TISSUE: [Unremarkable]\n\n\n\nIMPRESSION: \n\n[Unremarkable]\n",
+    "prompt":  " \n1. Include comparison date in the  COMPARISON: [] field if given.  \n2.  Keep pertinent negatives. \n3. Add DLP",
+    "tags":  [
+                 "ct max",
+                 "max",
+                 "CT Maxillofacial wo Con"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

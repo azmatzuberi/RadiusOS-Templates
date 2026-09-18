@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c0e"
+            },
+    "name":  "PELVIS(M)",
+    "type":  "Ultrasound",
+    "content":  " EXAM:    PEVIS ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the pelvis was performed.\n\nCOMPARISON:  None\n\nFINDINGS: \n\nUTERUS: [Unremarkable.]\n\nENDOMETRIAL STRIPE:  [Unremarkable.] \n\nOVARIES:   [Unremarkable.]\n\nFLUID:   [Unremarkable.]\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea0bd"
+            },
+    "name":  "MR TMJ",
+    "type":  "MRI",
+    "content":  "MRI TMJ (Simplified Template)\n\nIndication: [ ]\nTechnique: Standard TMJ MRI with open/closed mouth imaging.\n\nFINDINGS\nBones\n\nRight condyle: [ ]\n\nLeft condyle: [ ]\n\nMarrow signal: [ ]\n\nArticular eminence/glenoid fossa: [ ]\n\nDisc – Closed Mouth\n\nRight disc position: [ ]\n\nLeft disc position: [ ]\n\nDisc morphology: [ ]\n\nDisc – Open Mouth\n\nRight reduction: [ ]\n\nLeft reduction: [ ]\n\nCondylar translation (R/L): [ ]\n\nEffusion\n\nRight: [ ]\n\nLeft: [ ]\n\nSoft Tissue\n\nRetrodiscal tissue: [ ]\n\nMuscles (masseter/pterygoids): [ ]\n\nOther: [ ]\n\nIMPRESSION\n\nRight TMJ: [ ]\n\nLeft TMJ: [ ]\n\nAdditional findings: [ ]",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

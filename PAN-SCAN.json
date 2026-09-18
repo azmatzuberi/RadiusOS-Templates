@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "67be1bbde9a26563bda44281"
+            },
+    "name":  "PAN SCAN",
+    "type":  "CT",
+    "content":  "EXAM: CT CHEST, ABDOMEN, and PELVIS\n\nCOMPARISON: None\n\nTECHNIQUE: CT of the chest, abdomen and pelvis was performed.  Coronal and sagittal reformats were obtained from the axial data set.\n\nIV Contrast: [None]\n\nOral contrast: [None]\n\nCHEST  FINDINGS:\n\nAIRWAY: [Unremarkable.]\n\nAORTA:  [Unremarkable.]\n\nLUNGS:   [Unremarkable.]\n\nMEDIASTINUM:   [Unremarkable.]\n\nPLEURA:    [Unremarkable.]\n\nHILAR STRUCTURES:  [Unremarkable.]\n‘\nAXILLARY:  [Unremarkable.]\n\nOSSEOUS STRUCTURES:   [Unremarkable.]\n\n\nABDOMEN/PELVIS  FINDINGS:\n\n\nLIVER:  [Unremarkable.]\n\nGALLBLADDER:  [Unremarkable.]\n\nSPLEEN:  [Unremarkable.] \n\nPANCREAS:  [Unremarkable.]\n\nAdrenal Glands:  [Unremarkable.]\n\nKidneys/Bladder:  [Unremarkable.]\n\nPELVIC structure:  [Unremarkable.]\n\nBOWEL:  [Unremarkable.]\n\nABDOMINAL WALL/MESENTERY:  [Unremarkable.]\n\nAORTA and VASCULARITY:  [Unremarkable.]\n\nOSSEOUS:  [Unremarkable.]\n \nIMPRESSION CHEST, ABDOMEN, and PELVIS:\n\n [Unremarkable.]\n\nEXAM: CT CHEST, ABDOMEN, and PELVIS\n\nCOMPARISON: None\n\nTECHNIQUE: CT of the chest, abdomen and pelvis was performed.  Coronal and sagittal reformats were obtained from the axial data set.\n\nIV Contrast: [None]\n\nOral contrast: [None]\n\nCHEST  FINDINGS:\n\nAIRWAY: [Unremarkable.]\n\nAORTA:  [Unremarkable.]\n\nLUNGS:   [Unremarkable.]\n\nMEDIASTINUM:   [Unremarkable.]\n\nPLEURA:    [Unremarkable.]\n\nHILAR STRUCTURES:  [Unremarkable.]\n‘\nAXILLARY:  [Unremarkable.]\n\nOSSEOUS STRUCTURES:   [Unremarkable.]\n\n\nABDOMEN/PELVIS  FINDINGS:\n\n\nLIVER:  [Unremarkable.]\n\nGALLBLADDER:  [Unremarkable.]\n\nSPLEEN:  [Unremarkable.] \n\nPANCREAS:  [Unremarkable.]\n\nAdrenal Glands:  [Unremarkable.]\n\nKidneys/Bladder:  [Unremarkable.]\n\nPELVIC structure:  [Unremarkable.]\n\nBOWEL:  [Unremarkable.]\n\nABDOMINAL WALL/MESENTERY:  [Unremarkable.]\n\nAORTA and VASCULARITY:  [Unremarkable.]\n\nOSSEOUS:  [Unremarkable.]\n \nIMPRESSION CHEST, ABDOMEN, and PELVIS:\n\n [Unremarkable.]\n\n",
+    "prompt":  " USE THE INCLUDED TEMPLATE ONLY.\n\n\nput the input in the appropriate findings sections in the included template marked by []\n\nAny measurements in the findings section only.\n\n Summarize the impression   With only pertinent positives and pertinent negatives without adding measurements on findings.\n\ninclude DLP if given in the input and placed under contrast field.",
+    "tags":  [
+                 "ctpan",
+                 "pan",
+                 "panscan"
+             ],
+    "numpadCode":  "999",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

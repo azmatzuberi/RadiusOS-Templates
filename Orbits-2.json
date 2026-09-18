@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6917a1ed655b637779833815"
+            },
+    "name":  "Orbits",
+    "type":  "X-Ray",
+    "content":  "Indication: Rule out intraorbital metallic foreign body prior to MRI.\nViews: [ ] (Typically: 2 views – Water’s and Caldwell / PA and lateral)\n\nFINDINGS\n\nRight orbit: [No radiopaque foreign body / Suspicious opacity / Other]\n\nLeft orbit: [No radiopaque foreign body / Suspicious opacity / Other]\n\nGlobes: [ ]\n\nOrbital rims/walls: [ ]\n\nParanasal sinuses (if visualized): [ ]\n\nAdditional findings: [ ]\n\nIMPRESSION\n\nNo radiopaque intraorbital foreign body identified. Safe for MRI: [Yes / No]\n\nAdditional notes: [ ]",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

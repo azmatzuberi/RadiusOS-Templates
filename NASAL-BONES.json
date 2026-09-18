@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6973fc6f675f2f3d4cf8f2c8"
+            },
+    "name":  "NASAL BONES",
+    "type":  "X-Ray",
+    "content":  "INDICATION:    [Trauma] .\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  [Three] views of the nasal bones were performed.\n\nFINDINGS:  There are no air-fluid levels in the visualized paranasal sinuses. The nasal septum is midline. The nasal maxillary spine is intact. The nasal bones appear radiographically intact    \n\nIMPRESSION:   \n\nUnremarkable radiographic series of the nasal bones. No evidence of nasal bone fracture.",
+    "prompt":  "Use INDICATION and not EXAM for title. ",
+    "tags":  [
+                 "nasal"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

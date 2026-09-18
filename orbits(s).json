@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "691b34ecc9bd85ec921fb2f5"
+            },
+    "name":  "orbits(s)",
+    "type":  "X-Ray",
+    "content":  "INDICATION:     [].\n\nCOMPARISON:  None available.\n\nTECHNIQUE:    []  views of the bilateral orbits were obtained. \n\nFINDINGS:  The bony orbits appear intact bilaterally. No radiopaque foreign body is identified. No soft tissues abnormalities are noted.\n\nIMPRESSION:  \n\n[]\n",
+    "prompt":  "Use INDICATION and not EXAM for title\n",
+    "tags":  [
+                 "orbits"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

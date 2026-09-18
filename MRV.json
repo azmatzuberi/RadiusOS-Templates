@@ -1,0 +1,25 @@
+{
+    "_id":  {
+                "$oid":  "68377e602ab2d76d0bae31e7"
+            },
+    "name":  "MRV",
+    "type":  "MRI",
+    "content":  "EXAM: MRV\n\nHISTORY :\n\nTECHNIQUE: The brain was screened with the help of 5 mm thick T1 Weighted sagittal images and T2 Weighted axial images.\n\nMRV was performed using a 2D TOF technique.\n\nOBSERVATION :\n\nThere is no focal area of altered signal intensity within the brain parenchyma.\n\nBoth the lateral, third and the fourth ventricles are normal. The basal cisternal spaces are unremarkable. There is no shift of the midline structures.\n\nINTRACRANIAL MRV :\n\nOn the MRV the visualized dural and deep venous sinuses show normal flow characteristics. No obvious venous thrombosis is evident on this scan.\n\nIMPRESSION :\n\nNo significant abnormality detected on the Intracranial MR Venogram.",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69b094a15851246ed06479b3"
+            },
+    "name":  "Lumbar 6+ views",
+    "type":  "X-Ray",
+    "content":  "PROCEDURE: XR L Spine 6+ Views w Bending\n\nHISTORY: []\n\nFINDINGS: \n\nThere is normal alignment.\nNo fracture or dislocation seen.\nVertebral body heights and intervertebral disc spaces appear preserved.\nParaspinal soft tissue are unremarkable by plain film imaging.  \nNo subluxation on flexion or extension views.\nNo foraminal narrowing on oblique imaging. \n\nIMPRESSION:\n\nNo acute process identified.  No significant signs of degenerative changes.\n \n",
+    "prompt":  " ",
+    "tags":  [
+                 "XR L Spine 6+ Views w Bending",
+                 "XR L Spine 4-5 Views"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

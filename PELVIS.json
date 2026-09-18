@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6973f0de675f2f3d4cf8f1f0"
+            },
+    "name":  "PELVIS",
+    "type":  "X-Ray",
+    "content":  "TECHNIQUE:  Single view of the pelvis was performed..\n\nCOMPARISON: None\n\n\nFINDINGS:   \n\nThere is no displaced fracture.  \n\nAlignment and joint  spaces are maintained.  \n\nThere are no destructive or erosive changes. \n\nSoft tissues are unremarkable. \n\nBones appear normally mineralized for age.\n\nNo radiopaque foreign body.\n\nBowel obscures the sacrum.\n\nIMPRESSION:  \n\n[No acute process seen radiographically.]",
+    "prompt":  "1. Do not include EXAM:  in generated report\n2. Do not include HISTORY:  in generated report\n3. Do not include COMPARISON:  in generated report unless a prior report date is given in data.",
+    "tags":  [
+                 "xp",
+                 "xpl",
+                 "x pelvis"
+             ],
+    "numpadCode":  "346",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

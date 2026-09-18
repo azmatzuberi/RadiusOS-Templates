@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ea95e1d49e6f6b9f12b7ef"
+            },
+    "content":  "EXAM:  KUB\n\nHISTORY:  Pain\n\nTECHNIQUE:  KUB performed.\n\nCOMPARISON: None\n\nFINDINGS: \n\nThe bowel gas pattern is unremarkable.  \n\nFair amount of stool is present. \n\nThe renal fossa are obscured by bowel. \n\nNo abnormal calcification seen.\n\nUnderlying osseous structures are intact.\n\nIMPRESSION: \n\nNo obvious abnormal calcification seen to suggest renal stones. \n\nRenal fossa are obscured by stool.",
+    "createdAt":  {
+                      "$date":  "2026-04-23T21:57:53.088Z"
+                  },
+    "isPublic":  false,
+    "name":  "KUB",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "kub",
+                 " renal stone"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68f66b6d21330c1b03668960"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

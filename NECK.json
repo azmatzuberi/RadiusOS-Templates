@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "67e41e04966faa5e0b8a6f53"
+            },
+    "name":  "NECK",
+    "type":  "Ultrasound",
+    "content":  "EXAM:    NECK ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nCOMPARISON: None\n\nTECHNIQUE: Ultrasound examination of the neck was performed.\n\nFINDINGS:\n\nNeck: [Unremarkable.]\n\nAdenopathy: [Unremarkable.]\n\n IMPRESSION: \n\n[]",
+    "prompt":  "testing",
+    "tags":  [
+                 "usn",
+                 "us neck",
+                 " ultrasound of the neck"
+             ],
+    "numpadCode":  "111",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69e7a423d49e6f6b9f12a552"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

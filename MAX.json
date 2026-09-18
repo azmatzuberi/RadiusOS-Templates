@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68799b492e0a0c8bddefd867"
+            },
+    "name":  "MAX",
+    "type":  "CT",
+    "content":  "EXAM: CT MAXILLOFACIAL \n\nTECHNIQUE: CT maxillofacial was performed in usual fashion.  Coronal and sagittal reformats were obtained from the axial data set.  \n\n\nCONTRAST: [None.]\n\nCOMPARISON: None.\n\n\nFINDINGS: \n\nSINUSES: [Unremarkable]\n\nOSTEOMEATAL COMPLEX:  [Unremarkable]\n\nCRIBRIFORM PLATE:  [Unremarkable]\n\nSEPTUM: [Unremarkable]\n\nMASTOID: [Unremarkable]\n\nORBITS: [Unremarkable]\n\nOSSEOUS STRUCTURES: [Unremarkable]\n\nSOFT TISSUE: [Unremarkable]\n\n\n\nIMPRESSION: \n\n[Unremarkable]\n",
+    "prompt":  "1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.\n\n2.  Summarize the impression without adding measurements on findings. Don\u0027t duplicate findings word for word. \n\n3.include DLP if given in the input and placed under contrast field.\n\n4.  Add Clinical history if given in input in the History section.\n\n5.  Add COMPARISON study if given in input in the Comparison section.",
+    "tags":  [
+                 "ct max",
+                 "max"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

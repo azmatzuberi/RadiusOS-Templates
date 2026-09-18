@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68361c5843ee698c23a29627"
+            },
+    "name":  "LUMBAR",
+    "type":  "CT",
+    "content":  " EXAM: CT LUMBAR WO\n\nHISTORY: [Pain.]\n\nCOMPARISON: [None]\n\nTECHNIQUE: Axial images through the lumbar spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.\n\nCOMPARISON:  None\n\n\nFINDINGS: \n\nALIGNMENT: [Unremarkable.]\n\nOSSEOUS: [Unremarkable.]\n\nSOFT TISSUE: [Unremarkable.]\n\nLevel by Level:\n\nL1-L2 level: [Unremarkable.]\n\nL2-L3 level: [Unremarkable.]\n\nL3-L4 level: [Unremarkable.]\n\nL4-L5 level: [Unremarkable.]\n\nL5-S1 level: [Unremarkable.]\n\n\nIMPRESSION:\n\n\n \n\n",
+    "prompt":  "put each sentences in the appropriate level in the template. Dont make a large paragraph. \n\n  Please use the input field into the template fields and remove brackets. \n\n\n Impression should summarized above without repeating the same thing.  Summarized above findings in 1-2 sentences  \n\ninclude DLP if given in the input and placed under contrast field.",
+    "tags":  [
+                 "ctls",
+                 "ct lumbar"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a43bc600d84feed8edf3962"
+            },
+    "content":  "EXAM:\nMR Neck [with or without] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the neck [with or without] intravenous contrast.\n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nNASOPHARYNX:\nUnremarkable.\n\nOROPHARYNX:\nUnremarkable.\n\nHYPOPHARYNX:\nUnremarkable.\n\nLARYNX:\nUnremarkable. Normal epiglottis. \n\nRETROPHARYNGEAL SPACE:\nUnremarkable.\n\nSALIVARY GLANDS:\nThe parotid and submandibular glands are unremarkable.\n\nLYMPH NODES:\nNo lymphadenopathy.\n\nTHYROID:\nUnremarkable. No nodule. \n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nIMPRESSION:\n1. No acute findings within the soft tissues of the neck.",
+    "createdAt":  {
+                      "$date":  "2026-06-30T12:53:52.226Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "NECK ST",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "MRI",
+    "updatedAt":  {
+                      "$date":  "2026-06-30T12:53:52.226Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69e7a423d49e6f6b9f12a552"
+                    }
+}

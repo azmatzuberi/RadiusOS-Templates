@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "68a31e16a5ba74d741b273cb"
+            },
+    "name":  "PELVIS (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:    [] .\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Transvaginal scanning was performed with grayscale and color Doppler imaging.\n\nFINDINGS:  \n\nUterus:  Measures  []   x  []   x   []  cm. No uterine masses are identified.\n\nEndometrium:  Measures  []   mm. No endometrial masses or abnormal fluid collections.\n\nRight ovary measures   []  x  []   x  []   cm. No right ovarian or adnexal masses are identified. The right ovary shows normal flow.\n\nLeft ovary measures  []   x  []   x  []   cm. No left ovarian or adnexal masses are identified. The left ovary shows normal flow.\n\nFree fluid:  [None.]\n\nOther findings:  [None of significance.]\n\nIMPRESSION:  \n\n[Ultrasound of the pelvis is within normal limits.]\n",
+    "prompt":  "1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!\n\n2. if there is a check box, use the statement next to it, not all the items with boxes. Only those that are checked off. \n\n3. If for fertility, add the follciles count and size.\n\n4. use INDICATION: and not EXAM: for title. \n\n5. Do not include venous flow or ovarian volume in report. Include arterial flow.\n\n6. Ignore sonographic murphy sign.",
+    "tags":  [
+                 "usp",
+                 "upl"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0.65,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea09d"
+            },
+    "name":  "OB2",
+    "type":  "Ultrasound",
+    "content":  "FINDINGS:\nThere is a single live intrauterine gestation in cephalic Presentation. Placenta is  []  . There is no evidence of placenta previa. Amniotic fluid volume    . Cervix is long and closed, measuring  []   cm. Fetal heart rate measures   []  beats per minute. \n\nFetal anatomy: [Fetal brain, spine, stomach, bladder, four-chamber heart, kidneys, three-vessel cord and extremities were well seen. No definite anomalies are identified.]\n\nEstimated fetal age is  []  . Patient\u0027s had concordant measurements of the head, abdomen, and femurs. Estimated date of delivery is     based on today\u0027s measurements. Estimated fetal weight is  []   grams. LMP percentile =  [] . There has been appropriate interval growth compared to  []  .\n\n  \n",
+    "prompt":  " filling the brackets with the input data to make an OB ultrasound report and summarize the impression only.",
+    "tags":  [
+                 "usob",
+                 "ob"
+             ],
+    "numpadCode":  "868",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

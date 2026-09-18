@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68a770ab43e07de84cc416b2"
+            },
+    "name":  "OB \u003c 14 Weeks (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION: [ Supervision of normal pregnancy first trimester, Z34.81.]\n\nCOMPARISON:   [None available.]\n\nTECHNIQUE:  Transabdominal scanning was performed with grayscale, B-mode and color Doppler imaging. \n\nFINDINGS:  \n\nGestational Sac: [] Single. Shape: [Normal.]\n\nCRL:  []    cm =   []    \n\nYolk Sac:  [Not seen.]\n\nFHR:    []  BPM\n\nEGA by ultrasound:      []\n\nEDC by ultrasound:  []   \n\nUterus:  Measures  []   cm. No masses identified. No evidence of subchorionic hemorrhage.\n\nRight ovary:  Measures []    cm. No right ovarian or adnexal masses identified.\n\nLeft ovary:  Measures  []   cm. No left ovarian or adnexal masses identified.\n\nFree fluid:  [None.]\n\nIMPRESSION:    \n\nLiving first trimester intrauterine pregnancy with estimated gestational age of  []   and EDC of  [] .\n\n",
+    "prompt":  "\nDon\u0027t use EXAM title. Use INDICATION as specified in template.  Adhere to template for style and format. \n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69091979cecf1133460b509e"
+            },
+    "name":  "Lumbar MRI (P)",
+    "type":  "MRI",
+    "content":  "FINDINGS: \n\nALIGNMENT: [Unremarkable.]\n\nBONE MARROW: [Unremarkable.]\n\nSOFT TISSUE: [Unremarkable.]\n\nFor counting purposes: There is the assumption that there are 5 non-rib-bearing lumbar vertebral bodies.\n\nLevel by Level:\n\nL1-L2 level:  [Unremarkable.]\n\nL2-L3 level:  [Unremarkable.]\n\nL3-L4 level: [Unremarkable.]\n\nL4-L5 level:  [Unremarkable.]\n\nL5-S1 level: [Unremarkable.]\n\nIMPRESSION:\n\n\n\n\n",
+    "prompt":  "Do not add titles \"EXAM:, technique:, history:, or comparison: \" to  these reports.  ",
+    "tags":  [
+                 "mrls",
+                 "[MR] [] [MR Lumbar Spine w/o Contrast]",
+                 "mr lumbar",
+                 "mri lumbar"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

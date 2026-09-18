@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68a31c39ccded095013aa340"
+            },
+    "name":  "OB (S)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:    [] \n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Transvaginal scanning was performed with gray scale, B-mode and color Doppler imaging.\n\nFINDINGS:  FINDINGS:  There is a [single] intrauterine fetus in  []   position. Fetal heart rate is  [] BPM. Placenta is []   , grade     maturity. Amniotic fluid assessment:  []   Cervical length is [] cm.\n\nBPD:   []   cm =    []\nHC:   []   cm =    []\nAC:   []   cm =   [] \nFL:  [] cm = []\n\nEGA by this ultrasound:  []\nEDC by this ultrasound:    [] \nEDC by prior ultrasound:  N/A\nEstimated fetal weight:  []    grams\nWeight percentile:    %[]\n\nIMPRESSION:   \n\n  []  . \n",
+    "prompt":  "1. Use the input data to fill in the [] of the included template. \n\n2. Do not add gender\n\n3. Do not make up your own history if none provided. \n\n",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

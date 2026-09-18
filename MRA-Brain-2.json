@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69ebb016d49e6f6b9f12bd86"
+            },
+    "content":  "EXAM: MR Angiography Head \nHISTORY:\nTECHNIQUE:  Magnetic resonance angiography images of the head [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\nCONTRAST:\n[With or without];\nCOMPARISON:\nNone provided.\nFINDINGS:\nINTERNAL CAROTID ARTERIES:\nNo significant stenosis.\nNo aneurysm or AVM.\nANTERIOR CEREBRAL ARTERIES:\nNo significant stenosis.\nNo aneurysm or AVM.\nMIDDLE CEREBRAL ARTERIES:\nNo significant stenosis.\nNo aneurysm or AVM.\nPOSTERIOR CEREBRAL ARTERIES:\nNo significant stenosis.\nNo aneurysm or AVM.\nBASILAR ARTERY:\nNo significant stenosis.\nNo aneurysm or AVM.\nVERTEBRAL ARTERIES:\nNo significant stenosis.\nNo aneurysm or AVM.\nIMPRESSION:\nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head.",
+    "createdAt":  {
+                      "$date":  "2026-04-24T18:01:58.674Z"
+                  },
+    "isPublic":  false,
+    "name":  "MRA Brain",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "MRA Brain"
+             ],
+    "type":  "MRI",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

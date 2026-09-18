@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "689dd6213fc7ccd93eb9afe5"
+            },
+    "name":  "LS Simon",
+    "type":  "X-Ray",
+    "content":  "INDICATION:  Nonacute low back pain.\n\nCOMPARISON:  None available.\n\nTECHNIQUE:      views of the lumbar spine were obtained.\n\nFINDINGS:  Alignment is maintained. Disc spaces are well preserved. No fracture or subluxation noted. No bony destructive process is noted. No posterior element or facet joint abnormality is detected. Sacrum and SI joints are intact. Soft tissues are unremarkable. \n\nIMPRESSION:   \n\nUnremarkable radiographic series of the lumbosacral spine.\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

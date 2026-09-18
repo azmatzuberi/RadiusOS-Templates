@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "6900c068c0e9671afec3c303"
+            },
+    "name":  "Pelvis(s)",
+    "type":  "X-Ray",
+    "content":  "INDICATION:    [Pain].\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  Single AP view of the pelvis was obtained. \n\nFINDINGS:  [The sacroiliac and both hip joints appear normal. ] [No fracture or dislocation is seen. ][Bone density is within normal limits.  ]  [Bowel obscures the sacrum.]\n\nIMPRESSION:  \n\n[Unremarkable radiographic series of the pelvis.]",
+    "prompt":  "Use INDICATION and not EXAM for title.",
+    "tags":  [
+                 "Pelvis"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

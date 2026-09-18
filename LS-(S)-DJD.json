@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "68b20030acd9f25d7dc14a9b"
+            },
+    "name":  "LS (S) DJD",
+    "type":  "X-Ray",
+    "content":  "INDICATION:  Nonacute low back pain.\n\nCOMPARISON:  None available.\n\nTECHNIQUE:  4 views of the lumbar spine were obtained.\n\nFINDINGS:  \n\nThe straightening of the normal alignment. Multilevel endplate degenerative changes present with diffuse disc space loss. Worse level at L4/L5 and L5-S1 with accompanying facet arthropathy and likely bilateral foraminal narrowing with probable canal stenosis. No compression fracture or subluxation seen. There are moderate stool within the colon. Bilateral SI joint arthropathy present. Bowel obscures the sacrum.\n\nIMPRESSION:   \n\nMultilevel endplate degenerative changes with likely foraminal narrowing at L4-L5 and L5-S1 with probable canal stenosis. Recommend further evaluation with MRI is more sensitive and specific exam for further evaluation and to help confirm plain film findings.",
+    "prompt":  "Use \"INDICATION\" instead of \"EXAM\" for study title. ",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
