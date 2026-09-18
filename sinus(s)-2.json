@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e49"
+            },
+    "name":  "sinus(s)",
+    "type":  "X-Ray",
+    "content":  "INDICATION:   [[Sinusitis] \n\nCOMPARISON:  None available.\n\nTECHNIQUE:  [3] views of the paranasal sinuses were obtained.\n\nFINDINGS:  The paranasal sinuses appear to be fairly well aerated. Mastoid air cells appear clear. There are no fluid levels or areas of significant mucosal thickening identified. There are no bony abnormalities identified. Visualized cranial and facial structures are unremarkable.    \n\nIMPRESSION:  \n\nUnremarkable radiographic series of the sinuses.",
+    "prompt":  "Use INDICATION: and not EXAM: for title.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

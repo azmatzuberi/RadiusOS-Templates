@@ -1,0 +1,32 @@
+{
+    "_id":  {
+                "$oid":  "69e7a4a1d49e6f6b9f12a578"
+            },
+    "content":  "Reason For Exam\n(DX Small Bowel Follow Through) Iron deficiency, abd pain, abnormal MRE\nRad Report\nAccession #: 00000DX260282078 Exam Date: 04/14/2026\nDX Small Bowel Follow Through\nCLINICAL INDICATION: Iron deficiency, abd pain, abnormal MRE\nCOMPARISON:  NONE\nIMAGES: 14\nRADIATION DOSE: 11.50 mGy\nFINDINGS:\nScout image demonstrates dilated gas-filled loop of small bowel in the right upper quadrant measuring approximately 4.3\ncm diameter.\nSerial images of the small bowel were obtained following ingestion of barium suspension oral contrast.\nTransit time to the cecum was between 3:15 and 4:00 hours.\nThe small bowel positioning and mucosal pattern appear normal. Spot films of the terminal ileum are unremarkable.\nIMPRESSION:\n* Relatively slow small bowel transit, with contrast reaching the cecum between 3 hours 15 minutes and 4 hours. No\nevidence of bowel obstruction or high-grade stricture.\n* Dilated loop of jejunum in the right upper quadrant, nonspecific could represent enteritis.\n* Otherwise unremarkable examination.",
+    "createdAt":  {
+                      "$date":  "2026-04-21T16:24:01.402Z"
+                  },
+    "isPublic":  false,
+    "name":  "SBFT",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "exposure",
+                 "time",
+                 "fluoro",
+                 "orif"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69e7a423d49e6f6b9f12a552"
+                    },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

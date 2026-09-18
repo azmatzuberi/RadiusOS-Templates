@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "686eb683c5bab2a6a40a1bd0"
+            },
+    "name":  "Shoulder",
+    "type":  "X-Ray",
+    "content":  "\nHISTORY:    Pain\n\nTECHNIQUE:  Imaging of the [] shoulder performed.\n\nCOMPARISON: None\n\nFINDINGS:\n\nAlignment is maintained. \n\nNo fracture or dislocation seen. \n\nVisualized lung is clear. \n\nMineralization is appropriate for age. \n\nIMPRESSION:\n\nNo fracture or dislocation seen.  ",
+    "prompt":  "1. Use INIDCATION and not EXAM for title.\n\n2. Ignore any sonographic murphy sign.\n\n3. Adhere to the template outline and style.  \n\n4. Use spacing similar to template, typically double.\n",
+    "tags":  [
+                 "shoulder",
+                 "xs"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

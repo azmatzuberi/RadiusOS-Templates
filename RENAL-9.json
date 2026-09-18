@@ -1,0 +1,31 @@
+{
+    "_id":  {
+                "$oid":  "6a67cba382cf847fe91a7326"
+            },
+    "content":  "EXAM:    RENAL ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nTECHNIQUE: Retroperitoneal renal ultrasound examination was performed in the usual fashion.  Doppler evaluation was performed.\n\nCOMPARISON: None\n\nFINDINGS:\nRIGHT KIDNEY:\n[  Unremarkable.]\nLEFT KIDNEY:\n[ unremarkable\n\nBLADDER:\n \nPre-void (ml): []\nPost-void (ml): []\n\n\r\nIMPRESSION:\r\n[ unremarkable]",
+    "createdAt":  {
+                      "$date":  "2026-07-27T21:20:35.736Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "RENAL",
+    "prompt":  "1. tabulate velocity data in a readable format  from input data in convert all measurements if given in meters to cm/sec.  \n\n2. Only add pertinent positives in the impression. Do not include these in the impression section. \n  \n\n3. Give renal measurements  size in cm and stones in mm.  \n\n\n4.  Do not add bladder details unless specified in the input data, remove wording of pre and post void in the template and report.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "usr",
+                 "renal ultrasound",
+                 "kidney ultrasound"
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-08-05T17:28:42.821Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    }
+}

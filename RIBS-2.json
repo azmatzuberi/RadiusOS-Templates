@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a1d83e40ea0c35655ad50e"
+            },
+    "name":  "RIBS",
+    "type":  "X-Ray",
+    "content":  "HISTORY:     [Pain/Trauma].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    Multiple views of the  [side] ribs.\n\nFINDINGS:\n\nBONES: [The ribs appear intact bilaterally. ] [There are no acute fractures or destructive changes identified.]\n\nSOFT TISSUES: [No obvious hematoma.]\n\nCHEST: [No pneumothorax.]\n\n\n\nIMPRESSION:\n\n[No rib lesions or fractures identified. Follow-up study examination symptoms persist with BB marker placed in maximum pain to assess for occult injury.]",
+    "prompt":  "Use INDICATION and not EXAM for title.",
+    "tags":  [
+                 "rib series",
+                 "rib xray",
+                 "rib x-ray"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-15T21:29:16.483Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

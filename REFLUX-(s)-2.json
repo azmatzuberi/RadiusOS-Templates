@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "68c3016064d1f570dfbcc157"
+            },
+    "name":  "REFLUX (s)",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:  Venous insufficiency. Varicose veins.\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Duplex scanning of the lower extremities was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. Venous insufficiency exam was then performed in the standing position.\n\nFINDINGS:  The deep veins of the lower extremities were evaluated from the level of the common femoral veins proximally, through the level of the posterior tibial veins distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis. Greater saphenous veins are patent.  \n\nRight GSV:       \n          \nEvidence of reflux standing:  Yes\n\nDiameter:   \n                                                                                              \nZone 1:   [] mm                                                                                 \nZone 2:   [] mm                                                                                     \nZone 3:   [] mm                                                                                     \nZone 4:   [] mm                                                                                       \nZone 5:   [] mm\n\nLeft GSV:       \n          \nEvidence of reflux standing:  Yes\n\nDiameter:   \n                                                                                              \nZone 1:   [] mm                                                                                 \nZone 2:   [] mm                                                                                     \nZone 3:   [] mm                                                                                       \nZone 4:   [] mm                                                                                      \nZone 5:   [] mm  \n                                                                                     \nRight LSV:                                               \n\nDiameter:                                                                                                    \n\nZone A:  [] mm                                                                                        \nZone B:  [] mm                                                                                        \n\nLeft LSV:                                               \n\nDiameter:                                                                                                    \n\nZZone A:  [] mm                                                                                        \nZone B:  [] mm  \n                                                                                       \nIMPRESSION:  \n\n\n1. [No evidence of  deep vein thrombosis in the lower extremities. ]\n\n2. [Reflux as described.  ]",
+    "prompt":  "stick to the template format and style. Dont add exam or history. Use INDICATION as shown in template. ",
+    "tags":  [
+                 "reflux",
+                 "varicose"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

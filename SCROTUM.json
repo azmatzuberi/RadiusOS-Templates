@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69712a47e5998dcd0336fc9f"
+            },
+    "name":  "SCROTUM",
+    "type":  "Ultrasound",
+    "content":  "PROCEDURE: US Scrotum w Vasc Dplx Ltd\n\nHISTORY: []\n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the scrotum performed. \n\nCOMPARISON: [None provided.]\n\nFINDINGS:\n\nRIGHT TESTICLE:  [No mass.] [Normal Doppler flow.]\n\nLEFT TESTICLE: [No mass.] [Normal Doppler flow.]\n\nEPIDIDYMIDES: [Unremarkable.]\n\nSCROTUM: [Unremarkable.]\n\nIMPRESSION:\n []",
+    "prompt":  "\nIn OCR data convert any Abnormal thickness given in cm  to mm.\n\n testicularsizes should be in cms.\n\nthis ultrasound does not have velocity data to report.\n\nDo not calculate volumes of testicles. ",
+    "tags":  [
+                 "USTT",
+                 "USSC",
+                 "US Scrotum"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb15862"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

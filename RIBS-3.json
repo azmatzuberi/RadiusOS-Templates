@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e24"
+            },
+    "name":  "RIBS",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain\n\nTECHNIQUE:  Multiple views of the []  were performed.\n\nCOMPARISON: None\n\nFINDINGS:  \n\nNo displaced rib fracture seen.  \n\nVisualized lung is clear with no pneumothorax. \n\nMineralization is appropriate for age.\n\nIMPRESSION: \n\nNo displaced rib fractures seen radiographically.  \n\nAn occult rib fracture may be missed during initial radiograph following insult.  \n\nIf pain continues recommend repeat study examination with BB markers placed where there is maximum pain.\n ",
+    "prompt":  " change the template findings with a input data and remove any brackets.\n\n  Only at pertinent positives to the impression not pertinent negatives.",
+    "tags":  [
+                 "ribs",
+                 "xribs"
+             ],
+    "numpadCode":  "033",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

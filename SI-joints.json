@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "687a939c2e0a0c8bddefd8f0"
+            },
+    "name":  "SI joints",
+    "type":  "X-Ray",
+    "content":  "HISTORY:  Back pain\n\nTECHNIQUE:  SI joint  views obtained. \n\nCOMPARISON: None\n\nFINDINGS: \n\nAlignment is maintained.\n\n no significant degenerative changes present.\n\n  No erosive changes to suggest sacroiliitis.\n\n  Bowel obscures the sacrum.  \n\nIMPRESSION:   \n\nDegenerative changes as described. No fracture or subluxation seen. \n",
+    "prompt":  "Please update the template with the  input findings and summarize the impression.",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "699f5b2c0ea965f090d74d16"
+            },
+    "name":  "PELVIS",
+    "type":  "CT",
+    "content":  "FINDINGS:\n\nVascular:  [No aneurysm.]\n\nBowel:  [No  bowel wall thickening or obstruction. ]\n\nPeritoneal cavity:  [No ascites.]\n\nPelvis:  [No significant findings.] [Bladder without stones.]\n\nAbdominal wall:  [No masses or hernias.]\n\nOsseous and spine:  [No significant findings.]\n\nCONCLUSION:  \n\n[]",
+    "prompt":  "1. Use INDICATION for title and not EXAM:\n\n2. Adhere to the style and format.  Dont just make one paragraph. Use the  organ based outline format.",
+    "tags":  [
+                 "ctp",
+                 "ct pelvis",
+                 "CT Pelvis"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-09-15T18:09:01.250Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

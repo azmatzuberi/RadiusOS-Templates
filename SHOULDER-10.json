@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c5f"
+            },
+    "name":  "SHOULDER",
+    "type":  "X-Ray",
+    "content":  "EXAM:  Shoulder\n\nHISTORY:    Pain\n\nTECHNIQUE:  Imaging of the [right] shoulder performed.\n\nCOMPARISON: None\n\nFINDINGS:\n\nAlignment is maintained. \n\nNo fracture or dislocation seen. \n\nVisualized lung is clear. \n\nMineralization is appropriate for age. \n\nIMPRESSION:\n\nNo fracture or dislocation seen.  ",
+    "prompt":  "\n ",
+    "tags":  [
+                 "xs",
+                 "shoulder"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

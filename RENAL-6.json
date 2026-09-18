@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "699f5d6f0ea965f090d74d4c"
+            },
+    "name":  "RENAL",
+    "type":  "Ultrasound",
+    "content":  "[Kidneys are symmetric in size with normal corticomedullary differentiation.]\n\n\n\nRight kidney measures []cm, and the left kidney measures []cm in length. \n\n\n\n[No duplication or malrotation.]\n\n\n\n[Renal cortices are normal.]  [No solid or cystic renal mass.]  [No calculi, hydroureteronephrosis, or perinephric fluid collections are seen.]\n\n\n\n[No urinary bladder wall thickening or intraluminal abnormalities are identified. Bilateral ureteral jets are noted.]\n\n\n\n[Pre-void volume measures []cc. Post-void residual measures []cc.]\n",
+    "prompt":  "Create findings and impression reports only without technique or history. ",
+    "tags":  [
+                 "usr"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69090965cecf1133460b4f9e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

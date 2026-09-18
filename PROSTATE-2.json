@@ -1,0 +1,27 @@
+{
+    "_id":  {
+                "$oid":  "69a9bf525851246ed0644fb4"
+            },
+    "name":  "PROSTATE",
+    "type":  "Ultrasound",
+    "content":  "EXAM: PROSTATE ULTRASOUND\n\nHISTORY:  [] \n\nTECHNIQUE:  [Transabdominal] sonographic evaluation of the prostate gland.\n\nCOMPARISON: None\n\n\nIMPRESSION:\n[]\n\nFINDINGS: \n\nProstrate: [Unremarkable.]\n\nSeminal Vessicles:  [Unremarkable.]\n\n\nDisclaimer: Transabdominal ultrasound of the prostate is not an adequate exam to exclude prostate cancer.  Evaluation could include: PSA values, serial PSA values, digital rectal exam and endorectal ultrasound of the prostate with biopsy in the appropriate clinical setting. \n\n\n\n\n\n\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

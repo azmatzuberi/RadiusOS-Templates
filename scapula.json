@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "6aa9b6b168bc79759b18c199"
+            },
+    "content":  "HISTORY:     [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:    [Multiple] views of the  [SIDE]  scapula were performed.\n\nFINDINGS:  \n\nBONES: []\n\nJOINTS: []\n\nSOFT TISSUES: []  \n\nIMPRESSION:  \n\n[]",
+    "createdAt":  {
+                      "$date":  "2026-09-15T21:20:49.559Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "scapula",
+    "prompt":  "",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+                 "scapula x-ray",
+                 " scapula xray"
+             ],
+    "type":  "X-Ray",
+    "updatedAt":  {
+                      "$date":  "2026-09-15T21:21:58.702Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    }
+}

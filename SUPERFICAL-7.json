@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea07f"
+            },
+    "name":  "SUPERFICAL",
+    "type":  "Ultrasound",
+    "content":  "EXAM: Superficial ultrasound\n\nCOMPARISON: None\n\n​HISTORY:  [Unspecified]\n\n\n\n\nTECHNIQUE: Limited ultrasound examination of the region of question was performed.\n\nFINDINGS:  []\n\n\nIMPRESSION:\n\n[ ]\n\n",
+    "prompt":  "Please summarize the findings in the impression filed and do not include sizes and measurements. Only include these in the findings section. \n\nand do not duplicate or copy for findings into impression   Verbatim.\n\n do not include velocity data",
+    "tags":  [
+                 "superficial",
+                 "inguinal",
+                 "uss",
+                 "us soft tissue"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

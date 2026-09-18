@@ -1,0 +1,25 @@
+{
+    "_id":  {
+                "$oid":  "682b895ef46ee7bbe8553a95"
+            },
+    "name":  "SACRUM",
+    "type":  "mri",
+    "content":  "EXAM: MR SACRUM\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the sacrum was performed.   \n\nCONTRAST:\n[Without or with]\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nMUSCLES:\n[Unremarkable.]\n\nFLUID:\nNo significant hip effusion.\n\nIMPRESSION:\n[]\n\n",
+    "prompt":  "",
+    "tags":  [
+
+             ],
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

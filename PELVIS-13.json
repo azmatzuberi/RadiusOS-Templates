@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c3a"
+            },
+    "name":  "PELVIS",
+    "type":  "Ultrasound",
+    "content":  "PROCEDURE: US Pelvic Non OB\n\nHISTORY: []\n\nTECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the pelvis was performed.\n\nProbe:  [Transabdominal/Transvaginal].\n\n\nCOMPARISON:  None\n\nFINDINGS: \n\nUTERUS: [Unremarkable.]\n\nENDOMETRIAL STRIPE:  [Unremarkable.] \n\nOVARIES:   [Unremarkable.]\n\nFLUID:   [Unremarkable.]\n\nIMPRESSION: \n[]\n\n[]\n",
+    "prompt":  "1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!\n\n2. Adhere to the template included. Dont add EXAM title.\n\n 3. Do not mentioned IUD unless specified in the input.\n\n4. Do not calculate ovarian volume, but give ovarian sizes. If no size given state which ovary was not seen in the findings and impression. ",
+    "tags":  [
+                 "usp",
+                 "upl",
+                 "ultrasound pelvis",
+                 "US Pelvic"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

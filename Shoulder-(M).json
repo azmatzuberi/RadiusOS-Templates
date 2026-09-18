@@ -1,0 +1,26 @@
+{
+    "_id":  {
+                "$oid":  "69ab57185851246ed0645c18"
+            },
+    "name":  "Shoulder (M)",
+    "type":  "MRI",
+    "content":  "EXAM: MRI SHOULDER\n\nHISTORY: [Pain.]\n\nCOMPARISON: [None]\n\nTECHNIQUE: [Multiplanar multisequence MRI imaging of the [RIGHT] shoulder was performed. ]\n\nFINDINGS: \n\nRotator cuff: [The subscapularis and infraspinatus tendons are intact.]\n[No full-thickness tears are noted.] \n\nLabrum: [No labral tears are noted.] [No evidence of SLAP lesion.]\n\nAcromioclavicular joint: [No arthropathy is present.]\n\nBiceps and intrinsic ligaments: [The biceps tendon is well seated within the bicipital groove.] [The biceps tendon anchors are intact.]\n\n[The superior and middle glenohumeral ligaments are intact.]\n\nBones: [Marrow signal is normal.] [No evidence of fractures or dislocation.]\n\n[No evidence of AVN.] [No joint effusion is present.]\n\n[The surrounding musculature including the deltoid is intact.] \n\n\nIMPRESSION: \n\n []\n",
+    "prompt":  "",
+    "tags":  [
+                 "mrs",
+                 "mr shoulder"
+             ],
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69ab57185851246ed0645c0a"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

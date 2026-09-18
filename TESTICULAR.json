@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a5ff8140ea0c35655ae8a7"
+            },
+    "name":  "TESTICULAR",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:   [].\n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  The scrotum was scanned in transverse and longitudinal planes. A combination of grayscale, B-mode and color Doppler imaging was utilized. Duplex color and spectral Doppler waveform images were obtained to evaluate testicular arterial inflow and venous outflow.\n\nFINDINGS:\n\nRight testicle:  Measures []\nEchotexture is [homogeneous.] [There is no right testicular cyst or mass identified.][ Spectral and color flow imaging of the right testicle shows normal arterial and venous waveforms.]\n\nLeft testicle:  Measures [] Echotexture is [homogeneous]. [There is no left testicular cyst or mass identified.] [Spectral and color flow imaging of the left testicle shows normal arterial and venous waveforms.]\n\nRight epididymis:  Measures   []  mm in length. [No cyst or mass noted. ]\n\nLeft epididymis:  Measures  []   mm in length. [No cyst or mass noted.]\n\nHydroceles:  [None.]\n\nVaricoceles:  [None.]\n\nIMPRESSION: \n\n[Bilateral testicular ultrasound is within normal limits.]\n",
+    "prompt":  "Use INIDICATION. Dont use HISTORY as the tern.",
+    "tags":  [
+                 "ustest",
+                 "usscrot",
+                 "testicular"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

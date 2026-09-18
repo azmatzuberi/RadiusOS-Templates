@@ -1,0 +1,28 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea08d"
+            },
+    "name":  "PELVIS",
+    "type":  "CT",
+    "content":  "EXAM: CT Pelvis  \n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial images were acquired through the pelvis. Reformatted images were reviewed.  \n\n DOSE:\n CTDI (mGy) and DLP (mGy-cm) respectively:  []\n\nCONTRAST:\n[With or Without;]\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable.\n\nIMPRESSION:\n[]",
+    "prompt":  "include DLP if given in the input and placed under contrast field.",
+    "tags":  [
+                 "ctp",
+                 "ct pelvis"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

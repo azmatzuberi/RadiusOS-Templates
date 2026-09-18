@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "6a6a5a92823d52578f9ea80c"
+            },
+    "content":  "PROCEDURE:\nRenal Ultrasound with Renal Artery Doppler Evaluation\n\nREASON FOR EXAM:\n[]\n\nCOMPARISON:\n[]\n\nTECHNIQUE:\nGrayscale and color Doppler ultrasound of the kidneys and bladder performed. Spectral Doppler sampling of the main renal arteries and segmental arteries obtained bilaterally.\n\nFINDINGS:\n\nRIGHT KIDNEY:\nSize: []\nCortical thickness: []\n\n\nLEFT KIDNEY:\nSize: []\nCortical thickness: []\n\n\nBLADDER:\nPre‑void volume: []\nPost‑void residual: []\nUreteral jets: []\n\nRENAL ARTERY DOPPLER:\n\nAORTA:\nPSV: []\n\nMAIN RENAL ARTERIES:\nRight Renal Artery:\n- Proximal: PSV [], EDV [], RI []\n- Mid: PSV [], EDV [], RI []\n- Distal: PSV [], EDV [], RI []\n\nLeft Renal Artery:\n- Proximal: PSV [], EDV [], RI []\n- Mid: PSV [], EDV [], RI []\n- Distal: PSV [], EDV [], RI []\n\nRENAL SEGMENTAL ARTERIES:\nRight:\n- Upper: PSV [], EDV [], RI []\n- Mid: PSV [], EDV [], RI []\n- Lower: PSV [], EDV [], RI []\n\nLeft:\n- Upper: PSV [], EDV [], RI []\n- Mid: PSV [], EDV [], RI []\n- Lower: PSV [], EDV [], RI []\n\nRENAL ARTERY RATIOS (RAR):\nRight:\n RAR []\n \n\nLeft:\n  RAR []\n \n\nIMPRESSION:\n[]",
+    "createdAt":  {
+                      "$date":  "2026-07-29T19:54:58.101Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false,
+    "isPublic":  false,
+    "name":  "Renal w/Doppler",
+    "prompt":  "You must evaluate renal artery Doppler values using the strict rules below AND produce a SINGLE unified impression without redundancy or conflicting statements. Also include the non-vascular impression. \n\nNORMAL RANGES:\n[Same ranges as before — keep unchanged]\n\nSTRICT INTERPRETATION RULES:\n1. “Hemodynamically significant renal artery stenosis” MUST ONLY be suggested when BOTH:\n   - PSV is markedly elevated (\u003e150 cm/s), AND\n   - RAR is elevated (≥3.0).\n   If BOTH criteria are NOT met, you MUST state clearly that there is NO Doppler evidence of hemodynamically significant stenosis.\n\n2. If PSV is elevated but RAR is normal:\n   - You MUST classify this as a “non-stenotic velocity abnormality.”\n   - You MUST NOT list this as a separate bullet point in the impression.\n   - You MUST merge it into the unified impression.\n\n3. Elevated RI (\u003e0.70), globally low PSV/EDV, or low PSV with normal RAR:\n   - MUST be classified as “parenchymal-pattern abnormality.”\n   - You MUST NOT list each segment separately in the impression.\n   - You MUST summarize this pattern in ONE sentence in the unified impression.\n\n4. The IMPRESSION MUST:\n   - Contain ONE paragraph or ONE bullet list.\n   - State clearly whether stenosis is present or absent.\n   - Summarize velocity abnormalities and parenchymal-pattern abnormalities WITHOUT repeating “no stenosis” multiple times.\n   - NEVER produce contradictory or redundant statements.\n\n5. The FINDINGS section may list each abnormal value individually, but the IMPRESSION MUST be concise and unified.\n\nOUTPUT REQUIREMENTS:\n\nFINDINGS:\n- List each abnormal value with its classification (stenosis-pattern, non-stenotic velocity abnormality, or parenchymal-pattern abnormality).\n\nIMPRESSION (STRICT FORMAT):\n- ONE unified statement that:\n  • States whether stenosis is present or absent.\n  • Summarizes velocity abnormalities in ONE phrase.\n  • Summarizes parenchymal-pattern abnormalities in ONE phrase.\n  • Does NOT repeat or contradict itself.\n  • Does NOT list individual segments.\n\nYou MUST follow these rules exactly.\n\nIMPRESSION:\n- Clear statement of stenosis vs no stenosis.\n- Clear statement of parenchymal-pattern abnormalities if present.\n-summarize the renal findings as well not just the velocity data in the impression.\n\nYou MUST follow these rules exactly.\n\n7. Do not include measurements in impression/conclusion.\n\n9. Only add recommendations if included in the findings.\n\n10. Update the history if provided.\n\n11. Update side/laterality if provided.\n\n12. Remove all brackets after generating a report.\n\n4. CRITICAL THRESHOLD RULES: - If a measurement value is less than 1.0 cm, automatically convert it to millimeters (mm) [e.g., 0.8 cm becomes 8 mm]. - If a measurement value is equal to or greater than 10.0 mm (or 1.0 cm), automatically convert it to centimeters (cm) [e.g., 12 mm becomes 1.2 cm].\n\n5. THREE-DIMENSIONAL VOLUMES: - Check all three axes (Length x Width x Thickness) individually against the threshold rules. Do not mix units within a single lesion\u0027s measurement string (e.g., do not write \"1.2 cm x 8 mm\"). - If ANY single axis of a lesion or organ is ≥ 1.0 cm (10 mm), convert the ENTIRE measurement string for that specific organ/lesion into centimeters (cm). - If ALL three axes of a lesion are \u0026lt; 1.0 cm (10 mm), convert the ENTIRE measurement string for that specific lesion into millimeters (mm).\n\n6. REPORTING FORMAT: - Maintain the original medical context, locations, and descriptions. - Format dimensions clearly as: [Value] x [Value] x [Value] [Unit] (e.g., 4.5 x 3.2 x 2.1 cm or 8 x 6 x 4 mm). - Do not alter the clinical findings, just standardize the unit formatting.\n\n7. If no comparison write none.\n8. Double check 0,6 and 9 digits.",
+    "radial":  "",
+    "rvu":  0,
+    "tags":  [
+
+             ],
+    "type":  "Ultrasound",
+    "updatedAt":  {
+                      "$date":  "2026-09-16T16:14:42.086Z"
+                  },
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    }
+}

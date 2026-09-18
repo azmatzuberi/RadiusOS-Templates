@@ -1,0 +1,30 @@
+{
+    "_id":  {
+                "$oid":  "69a99e0d5851246ed0644eb4"
+            },
+    "name":  "Superficial",
+    "type":  "Ultrasound",
+    "content":  "INDICATION:    [] \n\nCOMPARISON:  [None available.]\n\nTECHNIQUE:  Multiple transverse and longitudinal sonographic images of the     were performed.\n\nFINDINGS:     []\n\nIMPRESSION: []\n\n   ",
+    "prompt":  "Use INDICATION and not EXAM for title.  Dont add a seperate history label or section.  Add any other history data to indication. ",
+    "tags":  [
+                 "uss",
+                 "us sup",
+                 "Ultrasound superficial",
+                 "US soft tissue"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585e"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

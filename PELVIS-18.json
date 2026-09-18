@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69cd5911f57479f216cea09f"
+            },
+    "name":  "PELVIS",
+    "type":  "X-Ray",
+    "content":  " HISTORY:  Pain\n\nTECHNIQUE:  Single view of the pelvis was performed..\n\nCOMPARISON: None\n\n\nFINDINGS:   \n\nThere is no displaced fracture.  \n\nAlignment and joint  spaces are maintained.  \n\nThere are no destructive or erosive changes. \n\nSoft tissues are unremarkable. \n\nBones appear normally mineralized for age.\n\nNo radiopaque foreign body.\n\nBowel obscures the sacrum.\n\nIMPRESSION:  \n\nNo acute process seen radiographically.\n",
+    "prompt":  "",
+    "tags":  [
+                 "pelvis",
+                 "xp",
+                 "xpl"
+             ],
+    "numpadCode":  "346",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69cd5911f57479f216cea06d"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

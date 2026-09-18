@@ -1,0 +1,29 @@
+{
+    "_id":  {
+                "$oid":  "69a994595851246ed0644e22"
+            },
+    "name":  "PELVIS",
+    "type":  "MRI",
+    "content":  "EXAM:\nMR Pelvis [with or without] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMultiplanar magnetic resonance images of the pelvis [with or without] intravenous contrast. . \n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBOWEL:\nGrossly unremarkable. No obstruction. \n\nBLADDER:\nUnremarkable. No stone. \n\nREPRODUCTIVE:\nUnremarkable as visualized.\n\nLYMPH NODES:\nNo lymphadenopathy.\n\nBONES:\nNo acute fracture or focal osseous lesion.\n\nIMPRESSION:\n1. Unremarkable MRI of the pelvis.",
+    "prompt":  "",
+    "tags":  [
+                 "mr",
+                 "mrp",
+                 "mr pelvis"
+             ],
+    "numpadCode":  "",
+    "radial":  "",
+    "rvu":  0,
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "69a994595851246ed0644df7"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}

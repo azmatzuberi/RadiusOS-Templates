@@ -1,0 +1,23 @@
+{
+    "_id":  {
+                "$oid":  "67f40b83308b0ffff4c04d95"
+            },
+    "name":  "PELVIS TV",
+    "type":  "Ultrasound",
+    "content":  " EXAM:    PEVIS ULTRASOUND EXAMINATION\n\nHISTORY:  [] \n\nTECHNIQUE: : Sonographic evaluation of the pelvis was performed in the  transvaginal  approach with Doppler evaluation of the ovaries.\n\nCOMPARISON:  None\n\nFINDINGS: \n\nUTERUS: [Unremarkable.]\n\nENDOMETRIAL STRIPE:  [Unremarkable.] \n\nOVARIES:   [Unremarkable.]\n\nFLUID:   [Unremarkable.]\n\nIMPRESSION: \n\n[]\n",
+    "prompt":  "1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!\n\n2. if there is mention of \"foci\",  please make statement benign calcification in the respective anatomical section either ovaries or uterus where foci were found .\n\n3. Only add pertinent positive to the impression and summarize the findings section only.  \n\n4. Adhere to the template included \n\n5. provide ovarian measurements\n\n6.  If there are \"foci\"  in the  uterus or calcifications state \"  Scattered benign-appearing myometrial calcifications, most consistent with dystrophic change from prior fibroids or age-related atrophy.\"\n\n7.   If ovaries are not seen,  please state which ovaries and if both  state bilateral ovaries not seen in the impression.\n\n8. Do not mentioned IUD unless specified in the input.",
+    "numpadCode":  "010",
+    "radial":  "",
+    "isPublic":  false,
+    "user_id":  {
+                    "$oid":  "67fda7e9c54b53ae4ae8352c"
+                },
+    "workplaceId":  {
+                        "$oid":  "68d5c01fbe01d07f4bb1585f"
+                    },
+    "updatedAt":  {
+                      "$date":  "2026-06-13T19:01:41.341Z"
+                  },
+    "isDefault":  true,
+    "isMarkedForDeletion":  false
+}
