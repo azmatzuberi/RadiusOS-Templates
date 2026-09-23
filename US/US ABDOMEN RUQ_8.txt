@@ -1,0 +1,38 @@
+﻿Content
+EXAM:      RIGHT UPPER QUADRANT  ULTRASOUND EXAMINATION
+
+HISTORY:  []  
+
+TECHNIQUE:   Right upper quadrant ultrasound of the abdomen was performed. Color flow Doppler and Doppler spectral analysis performed.
+
+
+COMPARISON: None
+
+
+FINDINGS:
+
+LIVER:  [Unremarkable.]
+
+Common bile duct :  [Unremarkable.]
+
+Gallbladder:  [Unremarkable.]
+
+Pancreas:  [Unremarkable.]
+
+Right kidney:  [Unremarkable.]
+
+Aorta: [No aneurysm.]
+
+
+IMPRESSION:
+ 
+[]
+
+Prompt
+1. Use the input data to modify the template.
+
+2. Add all measurements for reporting.
+
+3. Adhere to template style and format.
+
+4.  Convert any findings with size under 1 cm to mm and any findings with size above 10 mm to cm.

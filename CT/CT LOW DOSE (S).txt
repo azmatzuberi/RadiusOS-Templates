@@ -1,0 +1,49 @@
+﻿Content
+INDICATION:  Pulmonary nodule.
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Scans were obtained through the thorax without IV contrast, to include contiguous axial images with bone and soft tissue algorithm. Thin slice axial reformat and coronal reformat images were included. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+
+IV Contrast: [None]
+
+FINDINGS:
+
+Lungs and pleura:  [Lungs clear. No effusions.]
+
+Mediastinum and pulmonary hila:  [No mass or adenopathy.]
+
+Heart:  [No cardiomegaly.  No significant pericardial effusion.  No significant coronary artery calcifications.]
+
+Great vessels:  [No aortic aneurysm. The pulmonary arteries are of normal caliber.]
+
+Skeletal structures and chest wall:  [Unremarkable.]
+
+Upper abdomen: [ No significant findings.]
+
+IMPRESSION: 
+
+[Noncontrast CT of the chest is within normal limits.]
+
+
+DISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist's interpretation to assess the clinical significance of any detected findings.
+ 
+IMPRESSION:
+
+[]
+
+Recommedations: 
+
+[]
+
+Prompt
+1. Adhere to the template style and format without altering and and replace [] with findings from input. 
+
+2. Use INDICATION not EXAM for title. Dont add a separate history section. 
+
+3.  Include the statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0"  as mentioned in template.
+
+4. Dont relist any pulmonary nodules in impression.  Make a general statement. 

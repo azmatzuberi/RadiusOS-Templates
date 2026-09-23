@@ -1,0 +1,32 @@
+﻿Content
+INDICATION:  Venous insufficiency. Varicose veins.
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Duplex scanning of the   [Side]  lower extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. Venous insufficiency exam was then performed in the standing position.
+
+FINDINGS:  The deep veins of the lower extremities were evaluated from the level of the common femoral veins proximally, through the level of the posterior tibial veins distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis. Great saphenous vein is patent.  
+
+    GSV:
+
+Evidence of reflux standing: [No]
+
+Diameter:
+Zone 1:  []   mm
+Zone 2:  []   mm
+Zone 3:   []  mm
+Zone 4:   []  mm
+Zone 5:   []  mm
+
+    LSV:
+
+Diameter:
+Zone A:   []  mm
+Zone B:  []   mm
+                                                                                       
+IMPRESSION:  
+
+No evidence of deep vein thrombosis in the lower extremity. No significant venous stasis.
+
+Prompt
+Use INDICATION and not EXAM in title

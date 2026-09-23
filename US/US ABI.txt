@@ -1,0 +1,116 @@
+﻿Content
+Ankle Brachial Index/ Toe Brachial Index Study
+Name:
+
+
+Exam Date:
+
+
+Comparison:
+
+
+Indication:
+
+
+Technique:
+Multisegmental plethesmography pressure waveform analysis with bi-directional flow of the bilateral lower extremities with ankle brachial indices was performed.
+
+
+Findings:
+Right:
+
+Brachial pressure ____
+
+Dorsalis pedis pressure ____
+
+Posterior tibial pressure ____
+
+Great toe pressure ____
+
+ABI is ____
+
+Ankle wave form is ____ (mild, moderate, severely dampened, or, not obtained)
+
+TBI is ____
+
+Great toe waveform is ____ (mild, moderate, severely dampened, or, not obtained)
+
+
+Left:
+
+Brachial pressure ____
+
+Dorsalis pedis pressure ____
+
+Posterior tibial pressure ____
+
+Great toe pressure ____
+
+ABI is ____
+
+Ankle wave form is ____ (mild, moderate, severely dampened, or, not obtained)
+
+TBI is ____
+
+Great toe waveform is ____ (mild, moderate, severely dampened, or, not obtained)
+
+
+Impression:
+1. Normal ABI's (or decreased ABI/s recommend clinical correlation for arterial occlusive disease).
+2. Normal TBI's (or decreased TBI/s with pressure/s sufficient/ insufficient for wound healing).
+
+
+Reference:
+
+KIC
+
+1.00-
+0.91-
+0.41-
+0.00
+
+Toe
+= 0.7 = Normal
+= 0.35 = Claudication
+= 0.1 = Ischemia
+
+Healing Pressure
+Ankle
+> 80 mm/Hg
+> 55 mm/Hg
+
+Toe
+> 30 mm/Hg
+
+Peak Velocity Ratio
+30 -49 %
+50 - 75 %
+> 75 %
+
+Stenosis Criteria Peak Velocity
+Ratio
+1.5:1-2:1
+2:1-4:1
+>4:1
+
+ABI/ Severity of Disease
+Ankle/Brachial Index
+> 1.3 - Non-compressible
+1.20 - Normal
+0.99 - Borderline
+0.91 - Mild to Moderate
+< 0.40 = Severe/ Ischemia
+
+(Diabetic)
+(Non-Diabetic)
+
+(Diabetic)
+
+150-200 cm/sec
+200-400 cm/sec
+> 400 cm/sec
+
+Prompt
+  Modify the template data with the input findings.
+
+include the peak velocity as phase in a readable format.

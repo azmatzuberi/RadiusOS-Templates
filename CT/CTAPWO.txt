@@ -1,0 +1,37 @@
+﻿Content
+FINDINGS: 
+
+LUNGS: [Lung bases are clear.] 
+
+LIVER: [Unremarkable.]
+
+BILIARY system: [Unremarkable]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+PELVIS: [Unremarkable]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+CONCLUSION:
+
+[]
+
+Prompt
+1. Do not add titles such as  "EXAM:, TECHNIQUE:, HISTORY:, COMPARISON:" to these reports but formulate the impression/conclusion in an numbered format. 
+
+2. Add pertinent negatives like: No obstructive uropathy or nephrolithiasis if mentioned in the findings/input.
+
+3. Make sure to summarize findings in the conclusion/impression and add recommendations below conclusion/impression if included in the findings/input data.
+
+5. Do not leave any brackets, []

@@ -1,0 +1,24 @@
+﻿Content
+HISTORY:   []
+
+COMPARISON: [ None available.]
+
+TECHNIQUE:  Single views of the chest.
+
+FINDINGS: 
+
+LUNGS: [Clear of consolidation.]
+ 
+HEART: [Normal heart size.]
+
+PLEURA: [No pleural effusions.] [No pneumothorax.]
+
+OSSEOUS: [No skeletal abnormalities of significance.]
+
+IMPRESSION: 
+
+[]
+
+Prompt
+Keep template style and format. 
+include all pertinent negatives in report. Do not truncate.

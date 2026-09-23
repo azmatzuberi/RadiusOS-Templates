@@ -1,0 +1,40 @@
+﻿Content
+EXAM:
+MR [_laterality_] Upper Extremity [with or without]  Intravenous Contrast, Wrist.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Multiplanar magnetic resonance images of the [_laterality_] wrist [with or without]  intravenous contrast.
+
+CONTRAST:
+[With or without];
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+LIGAMENTS:
+
+Scapholunate:
+Unremarkable.
+
+Lunotriquetral:
+Unremarkable.
+
+TENDONS:
+
+Flexor compartments:
+Unremarkable.
+
+Extensor compartments:
+Unremarkable.
+
+NERVES:
+
+Median:
+Unremarkable.
+
+Prompt
+

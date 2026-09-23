@@ -1,0 +1,27 @@
+﻿Content
+INDICATION: XRAY CHEST
+
+HISTORY:   {Cough}
+
+COMPARISON: [ None available.]
+
+TECHNIQUE:   Frontal and lateral views of the chest.
+
+FINDINGS: 
+
+LUNGS: [Clear of consolidation.]
+ 
+HEART: [Normal heart size.]
+
+PLEURA: [No pleural effusions.] [No pneumothorax.]
+
+OSSEOUS AND SPINE: [No skeletal abnormalities of significance.]
+
+IMPRESSION: 
+
+[]
+
+Prompt
+Keep template style and format. 
+include all pertinent negatives in report. Do not truncate.
+Update the history if provided.

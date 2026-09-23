@@ -1,0 +1,17 @@
+﻿Content
+INDICATION:     [].
+
+COMPARISON:  None available.
+
+TECHNIQUE:    []  views of the bilateral orbits were obtained. 
+
+FINDINGS:  The bony orbits appear intact bilaterally. No radiopaque foreign body is identified. No soft tissues abnormalities are noted.
+
+IMPRESSION:  
+
+[]
+
+
+Prompt
+Use INDICATION and not EXAM for title
+

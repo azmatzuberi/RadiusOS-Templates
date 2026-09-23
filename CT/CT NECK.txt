@@ -1,0 +1,47 @@
+﻿Content
+INDICATION: [Reason for exam]
+
+COMPARISON:   None.
+
+TECHNIQUE: CT scan of the neck was performed with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)
+
+
+CONTRAST: [None]
+
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+NASOPHARYNX:  [Unremarkable.]
+
+OROPHARYNX:  [Unremarkable.] 
+
+HYPOPHARYNX:  [Unremarkable.]
+
+LARYNX:  [Unremarkable.]
+
+THYROID:  [Unremarkable.]
+
+SALIVARY/PAROTID GLANDS:   [Unremarkable.]
+
+VASCULATURE:  [Unremarkable.]
+
+LYMPHATICS:  [Unremarkable.]
+
+SUPRACLAVICULAR FOSSA:  [Unremarkable.]
+
+VISUALIZED UPPER CHEST:  [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+
+
+
+Prompt
+1. Move impression statement above the findings statement. 
+2. Include DLP as DLP (mGy-cm): []
+
+3. Use pertinent negatives and refrain from using "Not mentioned"

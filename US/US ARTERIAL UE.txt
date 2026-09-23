@@ -1,0 +1,46 @@
+﻿Content
+INDICATION:     .
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Bilateral upper extremity arterial system ultrasound examination using color Doppler, spectral Doppler and grayscale imaging. 
+
+FINDINGS: 
+
+Right brachial pressure:     mmHg
+Left brachial pressure:     mmHg
+
+Right upper extremity:
+Subclavian artery proximal:     cm/sec    
+Subclavian artery mid:     cm/sec     
+Subclavian artery distal:     cm/sec     
+Axillary artery proximal:     cm/sec    
+Axillary artery mid:     cm/sec    
+Axillary artery distal:     cm/sec    
+Brachial artery proximal:     cm/sec    
+Brachial artery mid:     cm/sec    
+Brachial artery distal:     cm/sec    
+Radial artery proximal:     cm/sec     
+Ulnar artery proximal:     cm/sec    
+
+Left Upper Extremity:
+Subclavian artery proximal:     cm/sec    
+Subclavian artery mid:     cm/sec     
+Subclavian artery distal:     cm/sec     
+Axillary artery proximal:     cm/sec    
+Axillary artery mid:     cm/sec    
+Axillary artery distal:     cm/sec    
+Brachial artery proximal:     cm/sec    
+Brachial artery mid:     cm/sec    
+Brachial artery distal:     cm/sec    
+Radial artery proximal:     cm/sec     
+Ulnar artery proximal:     cm/sec    
+
+IMPRESSION:  
+
+1. No visible atheromatous plaque.
+
+2. No hemodynamically significant stenosis.
+
+Prompt
+Stick to the template style and don't alter.  At the top should be indication: not Exan:

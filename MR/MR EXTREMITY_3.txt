@@ -1,0 +1,33 @@
+﻿Content
+EXAM:
+MR [_laterality_] Lower Extremity [with or without} Intravenous Contrast.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Multiplanar magnetic resonance images of the [_laterality_] lower extremity [with or without] intravenous contrast.
+
+CONTRAST:
+[With or without];
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+SOFT TISSUES:
+The soft tissues are unremarkable.
+
+JOINTS:
+Unremarkable. No dislocation or significant effusion. 
+
+BONES:
+No acute fracture or focal osseous lesion.
+
+IMPRESSION:
+1. Normal [_laterality_] lower extremity and surrounding soft tissues.
+
+Prompt
+Please use the input data to fill in brackets  in the template.
+
+  Only at pertinent positives in the impression.

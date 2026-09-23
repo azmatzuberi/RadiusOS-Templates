@@ -1,0 +1,73 @@
+﻿Content
+
+FINDINGS:
+
+LUNGS: [Visualized lower lungs are clear.]
+
+HEART: [Heart is normal in size without pericardial effusion.]
+
+LIVER: [Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]
+
+BILIARY: [Gallbladder normal without gallbladder wall thickening or pericholecystic fluid. No calcified stones within the gallbladder.]
+
+[Spleen is normal in size, contour, and attenuation.]
+
+[Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]
+
+[No adrenal masses.]
+
+[Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding. Urinary bladder is normal.]
+
+[No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]
+
+[Abdominal aorta and arborizing branches are normal in course and caliber.]
+
+[No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]
+
+[Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+CONCLUSION:
+
+[]
+
+----- P-SITE STYLE (findings/conclusion layout): lines found only in this site's version — delete this block if not needed -----
+
+BILIARY: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]
+
+SPLEEN: [Spleen is normal in size, contour, and attenuation.]
+
+PANCREAS: [Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]
+
+ADRENAL GLANDS: [No adrenal masses.]
+
+KIDNEYS: [Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding. Urinary bladder is normal.]
+
+BOWEL: [No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]
+
+VASCULAR: [Abdominal aorta and arborizing branches are normal in course and caliber.]
+
+PELVIS: [No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]
+
+OSSEOUS: [Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+Prompt
+
+1. Don't add EXAM, technique, history, or comparison to these reports.
+
+2. Use double line spacing.
+
+3. use the template as our outline and keep the style and format.
+
+4. include pertinent negatives and all the fields from the template data.
+
+5. Do not add prior surgeries to conclusion/impression like cholecystectomy, hysterectomy, appendectomy.
+
+6. Add recommendations as a separate line to conclusion/impression ONLY if recommendations is  made as
+
+7. RECOMMENDATIONS: []
+
+8. Do not include brackets [] in the final rendering.
+
+9. Combine hernias into one sentence in impression/conclusion.
+
+10. Combine atherosclerotic disease and coronary atherosclerotic disease into one sentence in impression/conclusion.

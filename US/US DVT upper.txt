@@ -1,0 +1,25 @@
+﻿Content
+  HISTORY:  Edema
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the BILATERAL upper extremity.
+
+COMPARISON: None
+
+IMPRESSION:
+There is no sonographic evidence of deep venous thrombosis. 
+
+FINDINGS: 
+
+The deep veins of the  upper extremity  in question are fully compressible with no intraluminal thrombus. 
+
+There is normal augmentation of signal in the veins.
+
+No focal collection seen.
+
+Subcutaneous edema present.
+
+
+
+
+Prompt
+ modify the template with the findings input data.

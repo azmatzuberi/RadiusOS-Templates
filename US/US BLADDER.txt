@@ -1,0 +1,27 @@
+﻿Content
+EXAM:    BLADDER ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+TECHNIQUE: Bladder ultrasound examination was performed in the usual fashion.  Doppler evaluation was performed.
+
+COMPARISON: [None]
+
+FINDINGS:
+
+BLADDER:
+
+Prevoid bladder volume: []
+
+  Postvoid bladder volume: []
+
+  Wall thickness: []
+ 
+IMPRESSION:
+  Unremarkable bladder ultrasound examination.
+
+
+
+
+Prompt
+

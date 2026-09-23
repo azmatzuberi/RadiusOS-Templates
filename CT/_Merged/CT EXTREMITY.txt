@@ -1,0 +1,37 @@
+﻿Content
+
+EXAM: CT EXTREMITY [with/without] contrast
+
+HISTORY: [Pain].
+
+TECHNIQUE: CT of the []  was performed. Coronal sagittal reformats were obtained from the axial data set.
+
+COMPARISON: [None]
+
+CONTRAST: [none]
+
+FINDINGS:
+
+BONES: [Unremarkable.]
+
+ALIGNMENT: [Unremarkable.]
+
+SUBCUTANEOUS TISSUE: [Unremarkable.]
+
+IMPRESSION:
+
+[No acute process visualized.]
+
+Prompt
+
+1. Make sure to include radiation dose.
+
+2. modify the template with the input data.
+
+3. Do not at to history section unless specified.
+
+4. include DLP in mGy-cm if given in the input and placed under contrast field like DLP (mGy-cm): []
+
+5. Place IMPRESSION statement above the FINDINGS statement.
+
+6. include DLP if given in the input and placed under contrast field.

@@ -1,0 +1,25 @@
+﻿Content
+INDICATION:     .
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Biophysical profile scoring was performed utilizing transabdominal technique.  A combination of grayscale, B-Mode, and color Doppler imaging was utilized. 
+
+FINDINGS: There is a single intrauterine fetus in     position. Fetal heart rate is     BPM. Placenta is    , grade     maturity. Amniotic fluid index is     cm.  
+
+BIOPHYSICAL PROFILE: 
+
+Gross body motion:  [2]
+Fetal Tone:	 [2]
+Amniotic Fluid:	 [2]
+Fetal breathing:	 [2]
+Total score:	[8/8]
+
+
+IMPRESSION:   
+
+Living intrauterine pregnancy with normal biophysical profile score of 8 out of 8. 
+
+
+Prompt
+

@@ -1,0 +1,31 @@
+﻿Content
+TECHNIQUE:  Abdomen was scanned with grayscale. Color flow Doppler and Doppler spectral analysis performed.
+
+FINDINGS:  
+
+Aorta:  [Visualized portions of abdominal aorta are normal in diameter.]
+
+IVC:  [Visualized portions appear patent.]
+
+Pancreas: [ Visualized portions of pancreas are unremarkable.]
+
+Liver:  Measures   []  cm in length. Liver shows [normal] echogenicity.[ No liver masses identified.] Hepatopetal flow seen in the main portal vein.
+
+Gallbladder:  []    Negative sonographic Murphy's sign.
+
+Common bile duct:  Measures []    mm. No intraductal stones identified.
+
+Right kidney:  Measures  []   x  []   x  []   cm. Normal contour.[ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Left kidney:  Measures  []   x []    x  []   cm. Normal contour. [ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Spleen:  Measures  []   cm in length. It shows homogeneous echotexture.
+
+Additional findings:  None of significance.
+
+IMPRESSION:  
+
+[Abdominal ultrasound is within normal limits.]
+
+Prompt
+1. If liver size greater than 16cm add hepatomegaly to the report.

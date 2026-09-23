@@ -1,0 +1,29 @@
+﻿Content
+INDICATION:     .
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Standard bone survey to include AP and lateral views of the skull and spinal column, AP rib cage, AP pelvis, and AP long bones.
+
+FINDINGS:
+
+AP and lateral skull:  Within normal limits. No abnormally lucent or sclerotic lesions.
+
+AP and lateral C-spine:  Within normal limits. No abnormally lucent or sclerotic lesions.
+
+AP and lateral T-spine:  Normal alignment. No compression fractures. No abnormally lucent or sclerotic lesions.
+
+AP and lateral L-spine:   Normal alignment. No compression fractures. No abnormally lucent or sclerotic lesions.
+
+Sacrum and pelvis:  Within normal limits. No abnormally lucent or sclerotic lesions.
+
+Rib cage:  Within normal limits. No abnormally lucent or sclerotic lesions
+
+Bilateral humeri and femurs:  Within normal limits. No abnormally lucent or sclerotic long bone lesions.
+
+IMPRESSION: 
+
+Unremarkable radiographic skeletal survey.
+
+Prompt
+Use Indication and not EXAM for title. 

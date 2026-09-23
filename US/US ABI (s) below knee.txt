@@ -1,0 +1,40 @@
+﻿Content
+INDICATION:  Claudication.
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Doppler waveform analysis was obtained of the bilateral posterior tibial, dorsalis pedis and popliteal arteries as well as ankle and brachial pressure measurements. Ankle brachial indices were obtained from the distal posterior tibial and dorsalis pedis arteries.
+
+FINDINGS:  
+
+PRESSURES:
+RIGHT
+Brachial:    []  mmHg              
+Posterior tibial:    []  mmHg
+Dorsalis pedis:    []  mmHg             
+ABI PTA/DPA:       []                      
+
+LEFT
+Brachial:    []  mmHg              
+Posterior tibial:    []  mmHg
+Dorsalis pedis:    []  mmHg             
+ABI PTA/DPA:    []                         
+   
+DOPPLER WAVEFORMS:   
+RIGHT
+Posterior tibial:   []   cm/s, [multiphasic]
+Dorsalis pedis:    []  cm/s, [multiphasic]
+Popliteal:   []   cm/s, [multiphasic]
+ 
+LEFT
+Posterior tibial:   []   cm/s, [multiphasic]
+Dorsalis pedis:    []  cm/s, [multiphasic]
+Popliteal:   []   cm/s, [multiphasic]
+
+IMPRESSION: 
+
+[Normal ankle brachial indices.] ]Normal Doppler waveforms]. 
+
+
+Prompt
+

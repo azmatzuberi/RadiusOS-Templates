@@ -1,0 +1,97 @@
+﻿Content
+
+EXAM: CTA ABDOMEN PELVIS
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.
+
+ALT: TECHNIQUE:  Axial acquisitions were obtained utilizing CTA protocol for the abdomen. Multiplanar reconstructions were created from the axial data set including 3D and MIP reconstructions.
+
+COMPARISON: None
+
+IV CONTRAST: Administered
+
+GI CONTRAST: None
+
+VASCULAR FINDINGS:
+
+[The celiac, superior mesenteric artery, inferior mesenteric artery are patent.]
+
+[Bilateral renal arteries are patent.]
+
+[There is normal branch pattern.]
+
+[No abdominal aortic aneurysm or dissection.]
+
+[No aortoiliac disease.]
+
+[Patent common, bilateral iliac, external and internal iliac arteries.]
+
+[Patent bilateral common femoral arteries and proximal superficial femoral and profunda femoris arteries.]
+
+NONVASCULAR FINDINGS:
+
+LUNGS: [Unremarkable.]
+
+LIVER: [Unremarkable.]
+
+BILIARY: [Unremarkable.]
+
+SPLEEN: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+PELVIS: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+----- S-SITE STYLE: lines found only in this site's version — delete this block if not needed -----
+
+INDICATION:  AAA repair
+
+TECHNIQUE:  Helical axial scans were obtained through the abdomen and pelvis before and during IV contrast infusion, followed by 100 mL saline flush. Coronal reformat images as well as MIP reconstruction were performed. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+CONTRAST:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration
+
+----- P-SITE STYLE (findings/conclusion layout): lines found only in this site's version — delete this block if not needed -----
+
+VASCULAR:
+
+LUNG: [Lung bases are unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+CONCLUSION:
+
+Prompt
+
+1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.
+
+2. Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+3. include DLP if given in the input and placed under contrast field.
+
+4. Add Clinical history if given in input in the History section.
+
+5. Add COMPARISON study if given in input in the Comparison section.
+
+6. Use INDICATION and not EXAM: for title.
+
+7. Keep or add this sentence:
+
+8. Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+9. Use the template and adhere to style and format.

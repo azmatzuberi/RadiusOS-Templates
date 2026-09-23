@@ -1,0 +1,27 @@
+﻿Content
+EXAM: PROCEDURE:  US Vasc Dplx Ven Low Ext [Side]
+
+ HISTORY: [EDEMA.]
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the deep veins of the [BILATERAL]  lower extremity.
+
+COMPARISON: None
+
+FINDINGS: 
+
+The deep veins of the lower extremity from the level of the groin and common femoral veins to the level of the popliteal vein are fully compressible with no intraluminal thrombus. 
+
+There is normal augmentation of signal in the veins within the calf is compressed. 
+
+No Baker's cyst identified.
+
+IMPRESSION:
+
+There is no sonographic evidence of deep venous thrombosis . 
+
+
+Prompt
+ 
+
+Use input findings to change the template data and form an impression.
+ 

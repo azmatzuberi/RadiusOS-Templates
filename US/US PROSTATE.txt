@@ -1,0 +1,31 @@
+﻿Content
+EXAM: PROSTATE ULTRASOUND
+
+HISTORY:  [] 
+
+TECHNIQUE:  [Transabdominal] sonographic evaluation of the prostate gland.
+
+COMPARISON: None
+
+
+IMPRESSION:
+[]
+
+FINDINGS: 
+
+Prostrate: [Unremarkable.]
+
+Seminal Vessicles:  [Unremarkable.]
+
+
+Disclaimer: Transabdominal ultrasound of the prostate is not an adequate exam to exclude prostate cancer.  Evaluation could include: PSA values, serial PSA values, digital rectal exam and endorectal ultrasound of the prostate with biopsy in the appropriate clinical setting. 
+
+
+
+
+
+
+
+
+Prompt
+

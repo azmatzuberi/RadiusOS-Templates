@@ -1,0 +1,15 @@
+﻿Content
+INDICATION:    [] 
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Multiple transverse and longitudinal sonographic images of the     were performed.
+
+FINDINGS:     []
+
+IMPRESSION: []
+
+   
+
+Prompt
+Use INDICATION and not EXAM for title.  Dont add a seperate history label or section.  Add any other history data to indication. 

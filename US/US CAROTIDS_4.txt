@@ -1,0 +1,41 @@
+﻿Content
+ EXAM: CAROTID US
+ 
+HISTORY:  high-risk patient.
+
+COMPARISON:   None.
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the carotid arteries  performed. 
+
+FINDINGS:
+
+Right and left internal carotid artery to common carotid arterial ratio is [] and [] respectively.
+
+IMPRESSION:
+
+[]
+
+ 
+Reference: Society of Radiologists in Ultrasound Consensus Conference Radiology 2003; 229 (2) 340-34Occlusion and stenosis of unspecified carotid artery
+
+  
+
+
+
+
+
+ 
+
+Prompt
+Make sure to include internal ICA/CCA radios of right and left in findings. Not impression. 
+
+Include right and left PSV/EDV
+
+ Please tabulated velocity data in a more readable table and convert to cm/sec.
+
+
+
+ 
+
+
+

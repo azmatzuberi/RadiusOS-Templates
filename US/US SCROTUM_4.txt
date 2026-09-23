@@ -1,0 +1,29 @@
+﻿Content
+PROCEDURE: US Scrotum w Vasc Dplx Ltd
+
+HISTORY: []
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the scrotum performed. 
+
+COMPARISON: [None provided.]
+
+FINDINGS:
+
+RIGHT TESTICLE:  [No mass.] [Normal Doppler flow.]
+
+LEFT TESTICLE: [No mass.] [Normal Doppler flow.]
+
+EPIDIDYMIDES: [Unremarkable.]
+
+SCROTUM: [Unremarkable.]
+
+IMPRESSION:
+ []
+
+Prompt
+
+In OCR data convert any Abnormal thickness given in cm  to mm.
+
+ testicularsizes should be in cms.
+
+this ultrasound does not have velocity data to report.

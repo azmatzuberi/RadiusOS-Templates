@@ -1,0 +1,54 @@
+﻿Content
+REFERRING PHYSICIAN []
+REASON FOR CONSULTATION []
+HISTORY OF PRESENT ILLNESS []
+PAST MEDICAL HISTORY []
+SOCIAL HISTORY []
+FAMILY HISTORY []
+SURGICAL HISTORY []
+MEDICATIONS []
+ALLERGIES []
+
+REVIEW OF SYSTEMS:
+
+GENERAL/CONSTITUTIONAL: []
+HEAD, EYES, EARS, NOSE AND THROAT: [] CARDIOVASCULAR: []
+RESPIRATORY: []
+GASTROINTESTINAL: []
+GENITOURINARY: []
+MUSCULOSKELETAL: []
+SKIN: []
+NEUROLOGIC: []
+PSYCHIATRIC: []
+ENDOCRINE: []
+HEMATOLOGIC/LYMPHATIC: []
+
+PHYSICAL EXAM GENERAL:  []. 
+VITAL SIGNS:  Temperature [], blood pressure [], heart rate [], respiratory rate []. 
+SKIN: [] 
+HEENT: [] 
+Eyes: [] Nares 
+[] Mouth: [] 
+Ears: [] 
+Nose: [] 
+Throat: [] 
+NECK:  [] 
+LUNGS: [] 
+HEART: [] 
+ABDOMEN: [] 
+EXTREMITIES: [] 
+NEUROLOGICAL: []
+
+LABS 
+[]
+
+IMPRESSION 
+[]
+PLAN [
+
+]
+
+
+Prompt
+Please use input data to modify the template 
+

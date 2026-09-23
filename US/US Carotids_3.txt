@@ -1,0 +1,64 @@
+﻿Content
+HISTORY:   [High risk patient].
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Standard duplex imaging of the carotid system was performed.  
+
+FINDINGS:  Grayscale imaging shows no significant luminal diameter narrowing in the right or left carotid system. 
+
+Spectral analysis was performed. No abnormal increased velocity, spectral broadening, turbulence or color flow aliasing is noted.  
+
+The peak/end velocities in cm/sec are as follows: 
+
+RIGHT              
+CCA, proximal:  []    /     []                    
+CCA, distal:   []   /   []              
+ICA, proximal:  []    /     []               
+ICA, mid:     [] /[]                    
+ICA, distal:     [] /  []              
+ECA, proximal:     []              
+Vertebral: []  , antegrade            
+                 
+ICA/CCA ratio:   []                 
+
+LEFT
+CCA, proximal:   []   / []                
+CCA, distal:    []  / []                    
+ICA, proximal:     [] /   []           
+ICA, mid:   []   /    []               
+ICA, distal:    []  / []                 
+ECA, proximal:     []         
+Vertebral:   [] , antegrade                
+           
+ICA/CCA ratio:  []                  
+
+The degree of stenosis is calculated in accordance with the NASCET Index.
+
+IMPRESSION:
+
+[1. No hemodynamically significant stenosis bilaterally.]
+[2. Atherosclerotic plaquing particularly along the carotid bulbs bilaterally.]
+
+Prompt
+1. Make sure to include internal ICA/CCA radios of right and left.
+
+2. Include right and left PSV/EDV if provided. Remove EDV if not provided. 
+
+
+3.Please tabulated velocity data in a more readable table and convert to cm/sec.
+
+4. Use INDICATION: and not EXAM: in report title. 
+
+5. If incidental thyroid nodule is reported in input. Add Recommend dedicated thyroid ultrasound examination.
+
+6. Tabulate velocity data in a more readable table and convert to cm/sec.
+
+
+7. If PSV &lt; 110 AND EDV &lt; 45 â†’ Stenosis = Normal to mild (0-30%)
+If PSV 110â€“150 AND EDV &lt; 45 â†’ Stenosis = Moderate_(50-69%)
+If PSV 150â€“250 AND EDV 45â€“150 â†’ Stenosis = Severe (60-75%)
+If flow is extremely low â†’ Stenosis = Critical (80 to 99%)
+If no flow detected â†’ Stenosis = Occlusion (100%).
+
+give results bake in severity and percentage.

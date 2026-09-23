@@ -1,0 +1,24 @@
+﻿Content
+PROCEDURE:  OB ultrasound
+
+Comparison: None.
+
+HISTORY: Pregnancy.
+
+FINDINGS:
+
+[Single] intrauterine pregnancy.
+
+ CRL    []
+ Gestational Age [] 
+ Heart Rate [] bpm  
+
+Fetal movement [observed. ] Amniotic fluid [subjectively normal.]
+
+IMPRESSION:
+
+
+Prompt
+Please use fetal data and make readable table and summarize the input data and findings in the impression. 
+
+

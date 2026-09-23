@@ -1,0 +1,47 @@
+﻿Content
+FINDINGS:
+
+VASCULAR FINDINGS:
+
+VASCULAR:
+
+ [ The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.
+  Bilateral renal arteries are patent.]
+ [ No abdominal aortic aneurysm or dissection.]
+ [ No aortoiliac disease.]
+  [Patent common, bilateral iliac, external and internal iliac arteries.]
+  [Patent bilateral common femoral arteries and proximal superficial and profundus arteries.]
+
+
+ NONVASCULAR FINDINGS: 
+ 
+
+LUNG: [Lung bases are unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+BILIARY SYSTEM:  [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+ABDOMINAL WALL: [Unremarkable.]
+
+PELVIS: [Unremarkable]
+
+OSSEOUS AND SPINE: [Unremarkable]
+
+
+CONCLUSION:
+
+ []
+
+Prompt
+1. Use the template and adhere to style and format.

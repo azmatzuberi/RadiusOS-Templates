@@ -1,0 +1,27 @@
+﻿Content
+FINDINGS:
+
+LUNGS:  No suspicious pulmonary nodules seen.  
+
+MEDIASTINUM, HILA, and AXILLA:  There is no cardiomegaly.  There is no pericardial effusion. 
+
+PLEURA:   No pleural effusion or pneumothorax seen.  
+
+OSSEOUS AND SPINE:   Underlying osseous structures no significant abnormality. 
+
+VASCULAR: No aortic aneurysm.
+
+ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. 
+ 
+CONCLUSION:
+
+[]
+
+Prompt
+1. any pulmonary nodules please less than in the lungs section and remove the statement "No suspicious pulmonary nodules seen. "
+
+2.  Include radiation dose if given in the input.
+
+3. include recommendations if given. 
+
+4. include sentences in impression if given.

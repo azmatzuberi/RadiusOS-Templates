@@ -1,0 +1,40 @@
+﻿Content
+PROCEDURE: US Preg =>14 Wks Sgl or 1st Gest
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Transabdominal scanning was performed with gray scale, B-mode and color Doppler imaging.
+
+FINDINGS:  FINDINGS:  There is a [single] intrauterine fetus in  []   position. Fetal heart rate is  [] BPM. Placenta is []   , grade     maturity. Amniotic fluid assessment:  []   Cervical length is [] cm.
+
+BPD:   []   cm =    []
+HC:   []   cm =    []
+AC:   []   cm =   [] 
+FL:  [] cm = []
+
+EGA by this ultrasound:  []
+EDC by this ultrasound:    [] 
+EDC by prior ultrasound:  N/A
+Estimated fetal weight:  []    grams
+Weight percentile:    %[]
+
+Fetal anatomy:  The fetal head, lateral ventricles, cerebellum, stomach, kidneys, spine, bladder, cord insertion, three vessel cord, extremities, facial profile, nose and lips, fetal diaphragm, ventricular outflow tracts, and four-chamber heart were visualized and demonstrated no abnormalities. 
+
+Cervical length is   []  cm.  
+Amniotic fluid index is   []  cm.  
+
+Ovaries: Not identified.
+   
+
+IMPRESSION:   
+
+IMPRESSION:   
+
+Living intrauterine pregnancy with estimated gestational age of  []    and EDC by current ultrasound of  []  . 
+
+
+
+Prompt
+1. Please use fetal data and make readable table and summarize the input data and findings in the impression. 
+
+

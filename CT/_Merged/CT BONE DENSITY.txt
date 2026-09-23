@@ -1,0 +1,41 @@
+﻿Content
+
+TECHNIQUE:  CT bone density analysis was performed on a Siemens scanner with analysis of cortical and trabecular density of the L2, L3 and L4 vertebrae.
+
+ALT: TECHNIQUE: CT Bone density performed in the usual fashion.
+
+DLP (mGy-cm): []
+
+FINDINGS:
+
+Total cortical bone mineral density measures
+
+[] mg CA-HA/ml.
+
+Total trabecular bone density measures [] mg CA-HA/ml.
+
+T SCORE: []
+
+Z SCORE: []
+
+Normal = Trabecular BMD > 120 CA-HA/ml
+
+Osteopenia = Trabecular BMD 80 - 120 CA-HA/ml
+
+Osteoporosis = Trabecular BMD <80 CA-HA/ml
+
+HISTORY: []
+
+COMPARISON: [None]
+
+IMPRESSION:
+
+ALT: IMPRESSION: []
+
+Prompt
+
+1. for reference:
+
+2. Normal = Trabecular BMD > 120 CA-HA/ml
+
+3. Osteopenia = Trabecular BMD 80 - 120 CA-HA/ml

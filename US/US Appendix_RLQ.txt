@@ -1,0 +1,22 @@
+﻿Content
+EXAM: Right lower quadrant ultrasound. 
+
+HISTORY:
+
+[Right lower quadrant pain, fevers, diarrhea.]
+
+COMPARISON:
+[None.]
+
+TECHNIQUE:
+Real time sonography was performed with the Philips scanner and the curved array transducer in the right lower quadrant.  
+
+FINDINGS:
+ 
+[No dilated blind ending structure seen. No fluid or adenopathy. ]
+
+IMPRESSION:
+[Unremarkable right lower quadrant ultrasound.] [No obvious signs  to suggest appendicitis]
+
+Prompt
+Do not add data from input text following  the impression unless its a recommendation.  Do not repeat the findings after impression.

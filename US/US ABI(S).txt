@@ -1,0 +1,66 @@
+﻿Content
+INDICATION:  [Claudication].
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Arterial Dopplers of the lower extremities were performed as well as ankle pressure measurements.
+
+FINDINGS:  
+
+PRESSURES:
+
+RIGHT
+Brachial:  []    mmHg              
+Ankle:  []    mmHg              
+ABI:        []                     
+
+LEFT
+Brachial:   []   mmHg              
+Ankle:  []    mmHg              
+ABI:     []                     
+   
+SPECTRAL ANALYSIS:  Peak systolic velocities are measured in cm/second. 
+
+RIGHT
+Proximal common femoral:  [], multiphasic          
+Proximal profunda femoris:  [], multiphasic               
+Proximal superficial femoral:  [], multiphasic                        
+Distal superficial femoral:  [], multiphasic                     
+Proximal popliteal:  [], multiphasic                     
+Distal popliteal:  [], multiphasic                      
+Proximal posterior tibial:  [], multiphasic                      
+Distal posterior tibial:  [], multiphasic                      
+Distal peroneal:  [], multiphasic  
+Proximal anterior tibial:  [], multiphasic                    
+Distal anterior tibial:  [], multiphasic  
+Proximal dorsalis pedis:  [], multiphasic                      
+
+LEFT
+Proximal common femoral:  [], multiphasic     
+Proximal profunda femoris:  [], multiphasic                                 
+Proximal superficial femoral:  [], multiphasic                        
+Distal superficial femoral:  [], multiphasic                     
+Proximal popliteal:  [], multiphasic                     
+Distal popliteal:  [], multiphasic                      
+Proximal posterior tibial:  [], multiphasic                      
+Distal posterior tibial:  [], multiphasic                      
+Distal peroneal:  [], multiphasic  
+Proximal anterior tibial:  [], multiphasic                    
+Distal anterior tibial:  [], multiphasic  
+Proximal dorsalis pedis:  [], multiphasic        
+
+[The ankle brachial indices are within normal limits.]
+[ There is no sonographically visible plaque.]
+[ Color-flow appears normal. There are no significant velocity elevations on either side.]
+
+IMPRESSION:
+
+[No sonographic evidence of hemodynamically significant stenosis on either side.]
+[ No sonographically visible plaque.] [Normal ankle brachial indices.]
+
+
+
+Prompt
+1. Use INDICATION and not EXAM for title. Dont use history. Add to indication.
+
+2. include the peak velocity as phase in a readable format.

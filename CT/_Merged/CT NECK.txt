@@ -1,0 +1,77 @@
+﻿Content
+
+EXAM: CT NECK [with/without] contrast
+
+HISTORY: [Reason for exam]
+
+COMPARISON:   None.
+
+TECHNIQUE: CT soft tissue of the neck was performed.  Coronal sagittal reformats were obtained from the axial data set.
+
+CONTRAST: [None]
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+NASOPHARYNX: [Unremarkable.]
+
+OROPHARYNX: [Unremarkable.]
+
+HYPOPHARYNX: [Unremarkable.]
+
+LARYNX: [Unremarkable.]
+
+THYROID: [Unremarkable.]
+
+SALIVARY GLANDS: [Unremarkable.]
+
+PAROTID GLANDS: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+LYMPHATICS: [Unremarkable.]
+
+SUPRACLAVICULAR FOSSA: [Unremarkable.]
+
+LUNGS: [Visualzied upper chest is inremarkable.]
+
+IMPRESSION:
+
+[]
+
+----- S-SITE STYLE: lines found only in this site's version — delete this block if not needed -----
+
+INDICATION: [Reason for exam]
+
+TECHNIQUE: CT scan of the neck was performed with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]
+
+DLP (mGy-cm): []
+
+Prompt
+
+1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.
+
+2. Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+3. include DLP if given in the input and placed under contrast field.
+
+4. Add Clinical history if given in input in the HISTORY section.
+
+5. Add  comparison study if given in input in the COMPARISON section.
+
+6. Add Contrast given if study if given in input in the CONTRAST section.
+
+7. Use indication and not exam as title.
+
+8. Add DLP if given into the report if given in input.
+
+9. Move impression statement above the findings statement.
+
+10. Include DLP as DLP (mGy-cm): []
+
+11. Use pertinent negatives and refrain from using "Not mentioned"
+
+12. Adhere to template style and format.  Keep it in outline format.

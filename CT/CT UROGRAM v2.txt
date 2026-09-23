@@ -1,0 +1,66 @@
+﻿Content
+FINDINGS:
+
+LUNGS: [Visualized lower lungs are clear.]
+
+
+
+HEART: [Heart is normal in size without pericardial effusion.]
+
+
+
+LIVER: [Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]
+
+
+
+BILIA[Gallbladder normal without gallbladder wall thickening or pericholecystic fluid.  No calcified stones within the gallbladder.]
+
+
+
+[Spleen is normal in size, contour, and attenuation.]
+
+
+
+[Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]
+
+
+
+[No adrenal masses.]
+
+
+
+[Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] 
+
+
+
+[No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]
+
+
+
+[Abdominal aorta and arborizing branches are normal in course and caliber.]
+
+
+
+[No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]
+
+
+
+[Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+CONCLUSION:
+[]
+
+Prompt
+1. Dont add EXAM, technique, history, or comparison to these reports.
+
+2. use double line spacing
+
+3. use the template as our outline and keep the style and format. 
+
+4. include pertinent negatives and all the fields from the template data.
+
+5. Do not add prior surgeries to conclusion/impression like cholecystectomy, hysterectomy, appendectomy.
+
+6. Add recommendations as a sperate line to conclusion/impresson ONLY if recommendations is  made as
+
+RECOMMENDATIONS: []

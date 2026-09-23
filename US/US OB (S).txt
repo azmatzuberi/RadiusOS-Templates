@@ -1,0 +1,33 @@
+﻿Content
+INDICATION:    [] 
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Transvaginal scanning was performed with gray scale, B-mode and color Doppler imaging.
+
+FINDINGS:  FINDINGS:  There is a [single] intrauterine fetus in  []   position. Fetal heart rate is  [] BPM. Placenta is []   , grade     maturity. Amniotic fluid assessment:  []   Cervical length is [] cm.
+
+BPD:   []   cm =    []
+HC:   []   cm =    []
+AC:   []   cm =   [] 
+FL:  [] cm = []
+
+EGA by this ultrasound:  []
+EDC by this ultrasound:    [] 
+EDC by prior ultrasound:  N/A
+Estimated fetal weight:  []    grams
+Weight percentile:    %[]
+
+IMPRESSION:   
+
+  []  . 
+
+
+Prompt
+1. Use the input data to fill in the [] of the included template. 
+
+2. Do not add gender
+
+3. Do not make up your own history if none provided. 
+
+

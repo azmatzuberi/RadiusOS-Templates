@@ -1,0 +1,91 @@
+﻿Content
+
+CT TEMPORAL BONES WITHOUT CONTRAST
+
+INDICATION:
+
+[ ]
+
+COMPARISON:
+
+[ ] (e.g., None / Prior CT dated [ ])
+
+TECHNIQUE:
+
+Noncontrast CT of the temporal bones performed with thin-section axial images and reformatted in coronal and sagittal planes.
+
+[Additional technique details if needed]
+
+Findings
+
+RIGHT TEMPORAL BONE:
+
+EXTERNAL AUDITORY CANAL: [ ]
+
+TYMPANIC MEMBRANE: [ ]
+
+MIDDLE EAR CAVITY: [ ]
+
+OSSICLES: [ ]
+
+SCUTUM: [ ]
+
+TEGMEN TYMPANI / TEGMEN MASTOID: [ ]
+
+MASTOID AIR CELLS: [ ]
+
+INNER EAR (COCHLEA, VESTIBULE, SEMICIRCULAR CANALS): [ ]
+
+INTERNAL AUDITORY CANAL: [ ]
+
+FACIAL NERVE CANAL: [ ]
+
+VESTIBULAR AQUEDUCT: [ ]
+
+JUGULAR BULB: [ ]
+
+CAROTID CANAL: [ ]
+
+LEFT TEMPORAL BONE:
+
+EXTERNAL AUDITORY CANAL: [ ]
+
+TYMPANIC MEMBRANE: [ ]
+
+MIDDLE EAR CAVITY: [ ]
+
+OSSICLES: [ ]
+
+SCUTUM: [ ]
+
+TEGMEN TYMPANI / TEGMEN MASTOID: [ ]
+
+MASTOID AIR CELLS: [ ]
+
+INNER EAR (COCHLEA, VESTIBULE, SEMICIRCULAR CANALS): [ ]
+
+INTERNAL AUDITORY CANAL: [ ]
+
+FACIAL NERVE CANAL: [ ]
+
+VESTIBULAR AQUEDUCT: [ ]
+
+JUGULAR BULB: [ ]
+
+CAROTID CANAL: [ ]
+
+ADDITIONAL FINDINGS:
+
+[ ]
+
+Impression
+
+[ ]
+
+[ ]
+
+[ ]
+
+Prompt
+
+1. include DLP if given in the input and placed under contrast field.

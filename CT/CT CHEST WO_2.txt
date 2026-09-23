@@ -1,0 +1,25 @@
+﻿Content
+FINDINGS:
+
+LUNGS:  No suspicious pulmonary nodules seen.  
+
+LYMPHATICS:  There is no cardiomegaly.  There is no pericardial effusion. 
+
+PLEURA:   No pleural effusion or pneumothorax seen.  
+
+OSSEOUS AND SPINE:   Underlying osseous structures no significant abnormality. 
+
+VASCULAR: No aortic aneurysm.
+
+ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. 
+ 
+CONCLUSION:
+
+[]
+
+Prompt
+1. Adhere to the template style and format. Don't omit sections or sentences. 
+
+2. Include all sections even if not discussed.
+
+3. Remove all brackets from recommendation section.

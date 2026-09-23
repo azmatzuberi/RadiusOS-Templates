@@ -1,0 +1,30 @@
+﻿Content
+EXAM: MRI KNEE
+
+HISTORY: [ ]
+
+COMPARISON: [None]
+
+TECHNIQUE: Multiplanar multisequence MRI imaging of the [] knee was performed.  No IV contrast.
+
+FINDINGS: 
+
+Menisci: [The medial and lateral menisci are intact without evidence of tear.]
+Cruciate Ligaments: [The anterior and posterior cruciate ligaments are intact.]
+Collateral Ligaments: [The medial and the lateral collateral ligament are intact.] 
+Patellar Retinaculum: [The medial and lateral patellar retinaculum are intact.]
+Patellar/Quadriceps Tendon: [The patellar tendon and the quadriceps tendon are unremarkable.]
+Bone Marrow Signal: [No evidence of fracture, bone contusion, bone marrow edema, or AVN.]
+Cartilage/Articular Surfaces: [No intra-articular loose bodies.]
+Extra-articular Tendons: ][The medial and lateral heads of the gastrocnemius muscle, semimembranous, semitendinosus, and pes anserinus tendons are unremarkable.]
+
+
+IMPRESSION: 
+
+[]
+
+
+Prompt
+1. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format. 
+2. Keep it in outline format and organ based.  Dont write in a single prose paragraph.
+

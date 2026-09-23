@@ -1,0 +1,89 @@
+﻿Content
+
+EXAM: CTA CHEST ABDOMEN
+
+TECHNIQUE: CTA of the chest and abdomen  was performed with IV contrast. Oral contrast not administered. CT scan done according to ALARA (As Low As Reasonably
+
+COMPARISON: None
+
+CONTRAST: Administered.
+
+GI CONTRAST: None
+
+DLP (mGy-cm): []
+
+VASCULAR FINDINGS:
+
+[Normal aortic arch and take off of the major vessels.]
+
+[No ascending or descending thoracic aneurysm or dissection.]
+
+[The celiac, superior mesenteric artery, inferior mesenteric artery are patent.]
+
+[Bilateral renal arteries are patent.]
+
+[There is normal branch pattern.]
+
+[No abdominal aortic aneurysm or dissection.]
+
+[No aortoiliac disease.]
+
+[Patent common, bilateral iliac, external and internal iliac arteries.]
+
+[Patent bilateral common femoral arteries and proximal superficial femoral and profunda femoris arteries.]
+
+NONVASCULAR FINDINGS:
+
+AIRWAY: [Unremarkable.]
+
+MEDIASTINUM: [Unremarkable.]
+
+HEART: [No cardiomegaly. No pericardial effusion.]
+
+CHEST WALL: [Unremarkable.]
+
+HILA: [Unremarkable.]
+
+AXILLA: [Unremarkable.]
+
+LUNGS: [Unremarkable.]
+
+LIVER: [Unremarkable.]
+
+BILIARY: [Unremarkable.]
+
+SPLEEN: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+PELVIS: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+----- S-SITE STYLE: lines found only in this site's version — delete this block if not needed -----
+
+CONCLUSION:
+
+Prompt
+
+1. use INDICATION and not EXAM title
+
+2. Use template style and format. Don't make one or two big sentences.
+
+3. Use double line spacing.
+
+4. Adhere to the template style and format and preserve sections like Liver: Kidneys: etc.  Don't omit and bunch all sentences together.
+
+5. include DLP if given in the input and placed under contrast field.

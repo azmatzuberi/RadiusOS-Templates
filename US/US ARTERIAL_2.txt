@@ -1,0 +1,28 @@
+﻿Content
+EXAM: Arterial Ultrasound
+
+HISTORY:  Peripheral vascular disease.
+
+
+COMPARISON:  None
+
+TECHNIQUE:  Real-time images, Color flow Doppler and Doppler spectral analysis performed on the [] lower extremity arteries.
+
+FINDINGS: 
+
+There is no significant flow acceleration. There are biphasic and triphasic waveforms from the common femoral arteries through the dorsalis pedis arteries.
+
+IMPRESSION: 
+
+No signs of occlusive peripheral vascular  
+
+
+Prompt
+
+With velocity data from input or OCR, Present in a justified table format for clarity and readability.
+
+Also convert any values in m/s to cm/s if given in m/s otherwise leave as is.
+
+ please include ankle-brachial index from the OCR data if available.
+
+

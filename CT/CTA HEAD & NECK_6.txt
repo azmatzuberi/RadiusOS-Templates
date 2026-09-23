@@ -1,0 +1,36 @@
+﻿Content
+EXAM:  CTA HEAD and NECK
+
+HISTORY: []
+
+TECHNIQUE: CTA of the circle of Willis was performed with coronal and sagittal reformats. CTA of the neck was performed concurrently. 
+
+DLP: [] mGY-cm
+
+IV CONTRAST: [Adminstered]
+COMPARISON:  [None]
+
+CTA HEAD FINDINGS: The circle of Willis is overall intact.  There is no evidence for internal carotid artery dissection or intracranial dissection.  No AVM malformation seen.  No evidence for aneurysm.  Enhancement pattern is within normal limits.  
+
+CTA NECK FINDINGS:
+
+NONVASCULAR FINDINGS:
+
+Lung Apices: [Negative]
+
+Soft tissue: [Negative]
+
+Osseous Structures: [Negative]
+
+VASCULAR FINDINGS:
+
+[Normal branch pattern of the aorta and great vessels. ]
+
+[No dissection, critical stenosis, or AVM malformation.]
+
+IMPRESSION: 
+
+[]
+
+Prompt
+include DLP if given in the input and placed under contrast field.

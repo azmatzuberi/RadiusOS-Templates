@@ -1,0 +1,65 @@
+﻿Content
+INDICATION:   venous insufficiency
+
+TECHNIQUE:  Helical axial scans were obtained through the abdomen and pelvis during IV contrast infusion, followed by 100 mL saline flush. Coronal reformat images as well as 3-D rotational reconstruction of aorta and in plane reconstructions of right and left iliac arteries were obtained. CT venogram performed. CT scan done according to ALARA (As Low As Reasonably Achievable). Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient's advanced age/risk factors and absence of recent lab studies. I-STAT: Cr: 0.8 mg/dL; calculated GFR 96 mL/min.
+
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  
+
+
+COMPARISON: None
+
+ Contrast:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration 
+GI Contrast: None
+
+ VASCULAR FINDINGS:
+
+ 
+
+ NONVASCULAR FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+ABDOMINAL/PELVIC WALL: [Unremarkable.]
+
+BLADDER:  [Unremarkable.]
+
+PLEVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+
+IMPRESSION:
+
+ []
+
+ 
+
+
+
+
+Prompt
+Use INDICATION and not EXAM: for title. 
+
+Keep or add this sentence:
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  
+

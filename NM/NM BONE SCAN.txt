@@ -1,0 +1,44 @@
+﻿Content
+EXAM:
+NM Bone Scan.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Frontal images of the whole body were obtained following the intravenous administration of radiopharmaceutical.
+Per PQRS, this bone scan was compared with all other relevant prior exams regardless of modality. See the Comparisons section for documentation of relevant prior exams. 
+
+RADIOPHARMACEUTICAL:
+[_ _] technetium m99 pertechnetate.
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+SPINE:
+No abnormal increased or decreased uptake.
+
+RIBS:
+No abnormal uptake.
+
+LONG BONES:
+No abnormal uptake.
+
+PELVIS:
+No focal increased or decreased uptake.
+
+JOINTS:
+No focal increased or decreased uptake.
+
+SKULL/FACIAL BONES:
+No focal increased or decreased uptake.
+
+RENAL/BLADDER:
+Normal physiologic excretion.
+
+IMPRESSION:
+1. No abnormal uptake noted.
+
+Prompt
+

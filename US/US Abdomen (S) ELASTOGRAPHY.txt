@@ -1,0 +1,67 @@
+﻿Content
+INDICATION:    [] .
+
+COMPARISON: [ None available.]
+
+TECHNIQUE:  Right upper quadrant abdomen was scanned with grayscale and color Doppler imaging and Elastography.
+
+FINDINGS:  
+
+Aorta:  [Visualized portions of abdominal aorta are normal in diameter.]
+
+IVC:  [Visualized portions appear patent.]
+
+Pancreas: [ Visualized portions of pancreas are unremarkable.]
+
+Liver:  Measures   []  cm in length. Liver shows [normal] echogenicity.[ No liver masses identified.] Hepatopetal flow seen in the main portal vein.
+
+Gallbladder:  []    Negative sonographic Murphy's sign.
+
+Common bile duct:  Measures []    mm. No intraductal stones identified.
+
+Right kidney:  Measures  []   x  []   x  []   cm. Normal contour.[ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Left kidney:  Measures  []   x []    x  []   cm. Normal contour. [ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Spleen:  Measures  []   cm in length. It shows homogeneous echotexture.
+
+
+ELASTOGRAPHY: 
+Mean:    [] m/s 
+Median:   []  m/s 
+Standard Deviation:    []
+kPa:    []
+
+IMPRESSION: 
+
+Increased hepatic echotexture in keeping with steatosis vs diffuse liver disease.
+
+
+World Federation of Ultrasound in Medicine and Biology (WFUMB) Vendor-Neutral Guidelines on Liver Ultrasound Elastography using ARFI-SWE Techniques (rule of four)
+Liver Stiffness Value             Value Interpretation
+</=5 kPa (1.3 m/sec)            High probability of being normal
+<9 kPa (1.7 m/sec)               In the absence of other known clinical signs, rules out cACLD. If there are known clinical signs, further testing may be needed for confirmation. 
+9-13 kPa (1.7-2.1 m/sec)     Suggestive of cACLD but further testing is required for confirmation
+>13 kPa (2.1 m/sec)             Rules in cACLD
+>17 kPa (2.4 m/sec)             Suggestive of CSPH
+>21 kPa (2.6 m/sec)             High probability of CSPH
+
+ 
+
+
+Prompt
+1.Check the checkboxes if crossed or marked. Only use that statement accompanying check boxes if so, otherwise do not. 
+2. Don't add EXAM as title. Use INDICATION as directed by the template.
+3. Remove any sentence regarding sonographic murphy sign.
+4. Include this statement:
+
+
+World Federation of Ultrasound in Medicine and Biology (WFUMB) Vendor-Neutral Guidelines on Liver Ultrasound Elastography using ARFI-SWE Techniques (rule of four)
+Liver Stiffness Value             Value Interpretation
+</=5 kPa (1.3 m/sec)            High probability of being normal
+<9 kPa (1.7 m/sec)               In the absence of other known clinical signs, rules out cACLD. If there are known clinical signs, further testing may be needed for confirmation. 
+9-13 kPa (1.7-2.1 m/sec)     Suggestive of cACLD but further testing is required for confirmation
+>13 kPa (2.1 m/sec)             Rules in cACLD
+>17 kPa (2.4 m/sec)             Suggestive of CSPH
+>21 kPa (2.6 m/sec)             High probability of CSPH
+ 

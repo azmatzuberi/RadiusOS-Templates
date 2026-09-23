@@ -1,0 +1,77 @@
+﻿Content
+FINDINGS:
+
+
+AIRWAYS: [Visualized thyroid gland is normal in size, contour, and attenuation.]  [Airway is patent.]
+
+LUNGS: [Lungs are well aerated without infiltrate or focal consolidation.]  [No pleural effusion, pleural abnormality, or pneumothorax.]  [Lobar and segmental branches of the tracheobronchial tree are patent without endobronchial lesions.]
+
+PLEURA: [No effusions.]
+
+HEART: [Heart is normal in size without pericardial effusion.] 
+
+VASCULAR:  [No aortic aneurysm.]
+
+LYMPHATICS: [No axillary, mediastinal, or hilar lymphadenopathy.]
+[Supraclavicular soft tissues of the neck are normal.]
+
+ABDOMEN: [Soft tissues of the upper abdomen are normal.]
+
+OSSEOUS AND SPINE:  [Thoracic spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+Prompt
+You must follow all rules exactly. Do not deviate.
+
+SECTION 1 â€” FORMAT AND FINDINGS RULES
+
+For pulmonary nodules:
+
+List all pulmonary nodules in the LUNGS section.
+
+Remove the sentence â€œNo suspicious pulmonary nodules seen.â€
+
+Do not add any substitute sentence unless the input contains one.
+
+Adhere strictly to the template style, spacing, and format. Do not change section names, order, spacing, or structure.
+
+Use double line spacing between all sections and all lines.
+
+If a section has no positive findings, write â€œNegativeâ€ in that section.
+
+Do not include the word â€œTEMPLATEâ€ anywhere in the report.
+
+Include Lungâ€‘RADS as a recommendation inside the IMPRESSION section, not as a separate line.
+
+Keep pertinent negatives if fields are not changed. Dont just state negative. Use the statement from the template included. 
+
+Do not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.
+
+Add recommendations only if the input contains recommendations.
+If present, place them as a separate line directly below the IMPRESSION using this exact format:
+RECOMMENDATIONS: []
+
+Do not add calcified granulomas to impression.
+
+Do not re-list pulmonary nodules and sizes in the impression and only summarize.
+
+SECTION 2 â€” LUNG-RADS LOGIC
+
+Add lung rads as a RECOMMENDATION
+
+If Lung-RADS 1:
+Continue annual low-dose CT in 12 months.
+
+If Lung-RADS 2:
+Continue annual low-dose CT in 12 months.
+
+If Lung-RADS 3:
+Recommend 6-month low-dose CT follow-up.
+
+If Lung-RADS 4A:
+Recommend diagnostic chest CT in 3 months. Consider PET-CT if solid component is 8 mm or larger.
+
+If Lung-RADS 4B:
+Recommend PET-CT and tissue sampling. Thoracic oncology referral is appropriate.
+
+If Lung-RADS 4X:
+Recommend diagnostic chest CT (contrast as appropriate), PET-CT, tissue sampling, and thoracic oncology referral.

@@ -1,0 +1,43 @@
+﻿Content
+INDICATION:    [] 
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Transabdominal scanning was performed with gray scale, B-mode and color Doppler imaging.
+
+FINDINGS:  FINDINGS:  There is a [single] intrauterine fetus in  []   position. Fetal heart rate is  [] BPM. Placenta is []   , grade     maturity. Amniotic fluid assessment:  []   Cervical length is [] cm.
+
+BPD:   []   cm =    []
+HC:   []   cm =    []
+AC:   []   cm =   [] 
+FL:  [] cm = []
+
+EGA by this ultrasound:  []
+EDC/EDD  by this ultrasound:    [] 
+EDC/EDD by prior ultrasound: []
+Estimated fetal weight:  []    grams
+Weight percentile by LMP:    []%
+
+Fetal anatomy:  The fetal head, lateral ventricles, cerebellum, stomach, kidneys, spine, bladder, cord insertion, three vessel cord, extremities, facial profile, nose and lips, fetal diaphragm, ventricular outflow tracts, and four-chamber heart were visualized and demonstrated no abnormalities. 
+
+Cervical length is   []  cm.  
+Amniotic fluid index is   []  cm.  
+
+Ovaries: Not identified.
+   
+
+IMPRESSION:   
+
+IMPRESSION:   
+
+Living intrauterine pregnancy with estimated gestational age of  []    and EDC by current ultrasound of  []  .4/21/269/12/20269/12/202667% by LMPwithout obvious
+
+Prompt
+1. Please use fetal data and make readable table and summarize the input data and findings in the impression. 
+
+
+2. Dont use EXAM title. Use INDICATION as specified in template. 
+
+3. EDC is same as EDD
+
+4. Weight percentile is LMP percentile.

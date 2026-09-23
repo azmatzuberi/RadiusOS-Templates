@@ -1,0 +1,62 @@
+﻿Content
+FINDINGS:
+[Visualized lower lungs are clear.]
+
+
+
+[Heart is normal in size without pericardial effusion.]
+
+
+
+[Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]
+
+
+
+[Gallbladder normal without gallbladder wall thickening or pericholecystic fluid.  No calcified stones within the gallbladder.]
+
+
+
+[Spleen is normal in size, contour, and attenuation.]
+
+
+
+[Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]
+
+
+
+[No adrenal masses.]
+
+
+
+[Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] 
+
+
+
+[No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]
+
+
+
+[Abdominal aorta and arborizing branches are normal in course and caliber.]
+
+
+
+[No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]
+
+
+
+[Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+CONCLUSION:
+[]
+
+
+
+Thank you for the opportunity to provide your interpretation.
+
+
+Prompt
+Dont add EXAM, technique, history, or comparison to these reports.
+
+use double line spacing
+
+use the template as our outline and keep the style and format. 

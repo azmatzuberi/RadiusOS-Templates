@@ -1,0 +1,15 @@
+﻿Content
+INDICATION:    [Pain].
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Single AP view of the pelvis was obtained. 
+
+FINDINGS:  [The sacroiliac and both hip joints appear normal. ] [No fracture or dislocation is seen. ][Bone density is within normal limits.  ]  [Bowel obscures the sacrum.]
+
+IMPRESSION:  
+
+[Unremarkable radiographic series of the pelvis.]
+
+Prompt
+Use INDICATION and not EXAM for title.

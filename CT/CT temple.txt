@@ -1,0 +1,43 @@
+﻿Content
+FINDINGS:
+
+Lung nodules: []
+
+Nodule assessment, as seen on series [] : [No measurable nodules are identified.]
+
+Comorbidities Reporting:
+
+Pulmonary: []
+
+Emphysema:  []     
+
+Airway inflammation: []  
+
+Bronchiectasis: [] 
+
+Interstitial Lung Disease: []  
+
+Additional positive findings: []  
+
+Extra pulmonary: 
+
+Coronary calcification:  []    
+
+Heart size: []  
+
+Pulmonary artery: []  
+
+Hiatus hernia: []  
+
+Bone density: []  
+
+Obesity: []  
+
+Additional positive findings: []
+
+CONCLUSION:
+
+[]
+
+Prompt
+

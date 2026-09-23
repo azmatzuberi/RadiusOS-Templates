@@ -1,0 +1,70 @@
+﻿Content
+EXAM: MRI cervical spine without contrast. 
+
+HISTORY: []
+
+COMPARISON: None
+
+TECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.
+
+FINDINGS:
+
+
+There is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.
+
+No cervical cord expansion or syrinx identified.
+
+Level by level:
+
+ C1-C2: [Negative]
+
+C2-C3: [Negative]
+
+C3-C4: [Negative]
+
+C4-C5: [Negative]
+
+C5-C6: [Negative].
+
+C6-C7: [Negative].
+
+C7-T1: [Negative]
+
+
+IMPRESSION:
+
+No malposition disc material.  No canal stenosis or foraminal narrowing.
+TECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.
+
+FINDINGS:
+
+
+There is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.
+
+No cervical cord expansion or syrinx identified.
+
+Level by level:
+
+ C1-C2: [Negative]
+
+C2-C3: [Negative]
+
+C3-C4: [Negative]
+
+C4-C5: [Negative]
+
+C5-C6: [].
+
+C6-C7: [].
+
+C7-T1: [Negative]
+
+
+IMPRESSION:
+
+No malposition disc material.  No canal stenosis or foraminal narrowing.
+
+Prompt
+ 
+1. Add COMPARISON:  in generated report if a prior study is given. Otherwise COMPARISON: None
+ 

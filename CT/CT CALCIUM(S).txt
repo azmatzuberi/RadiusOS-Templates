@@ -1,0 +1,80 @@
+﻿Content
+INDICATION:  Hyperlipidemia. Atherosclerotic cardiovascular disease (ASCVD) risk stratification.    
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Noncontrast axial CT images were obtained through the level of the heart. The study was reviewed on dedicated calcium scoring software. Total and regional calcium score values were calculated. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+TECHNICAL QUALITY: Good
+
+RADIATION DOSE:  CTDI volume 8 mGy; total DLP 149 mGy-cm.
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+FINDINGS:  
+
+The total Agatston CAC score is 4. 
+Age/sex adjusted CAC score percentile: 0-25th percentile.
+
+Vessel-level Agatston CAC scoring:
+LM: 0
+LAD: 4
+LCX: 0
+RCA/PDA: 0
+
+EXTRA-CORONARY CALCIFICATION:
+The aortic valve demonstrates []  calcifications.
+The thoracic aorta demonstrates  []calcifications.
+The mitral valve demonstrates []calcifications.
+
+GREAT VESSELS (cm):
+Main Pulmonary Artery: []cm
+Aortic Sinus: []cm
+Ascending aorta: []cm
+
+PERICARDIUM:  Unremarkable.
+
+OTHER FINDINGS:  None
+
+IMPRESSION:
+
+1.  Total Agatston calcium score of []. 
+
+
+2. CAC-DRS Category A1/N1.
+
+3.  Right middle lobe pulmonary mass measuring 3.2 x 2.4 cm. Chest CT may be performed as clinically needed.
+
+
+
+A= CAC-DRS Risk category 
+N= Number of vessels involved 
+
+--------------------------------------------------------------------------------------------
+
+SUGGESTED RECOMMENDATIONS:
+
+Based on the 2018 CAC-DRS Consensus Document of the Society of Cardiovascular Computed Tomography (SCCT)
+
+CAC-DRS A0
+CAC score = 0  
+Risk: Very low risk
+Treatment recommendations: Statin generally not recommended (excluding familial hypercholesterolemia).
+
+CAC-DRS A1
+CAC score = 1â€“99
+Risk: Mildly increased risk
+Treatment recommendations: Moderate-intensity statin
+
+CAC-DRS A2
+CAC score = 100â€“299
+Risk: Moderately increased risk
+Treatment recommendations: Moderate to high-intensity statin + acetylsalicylic acid (ASA) 81mg
+
+CAC-DRS A3
+CAC score > 300 
+Risk: Moderately to severely increased risk
+Treatment recommendations: High intensity statin + ASA  81mg
+
+Prompt
+

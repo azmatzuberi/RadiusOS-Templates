@@ -1,0 +1,72 @@
+﻿Content
+INDICATION:   []  .
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Contiguous axial images were obtained through the abdomen and pelvis with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+CONTRAST:  [100] mL of Optiray (350 mg/mL) single-use vial was administered IV with [0] mL discarded. 
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+FINDINGS:
+
+Lung bases:  [Clear.]
+
+Liver:  [No enhancing mass. No intrahepatic biliary dilatation.]
+
+Gallbladder:   [Unremarkable] 
+
+Common bile duct: [ Normal caliber. No calcified stones.]
+
+Spleen:  [Within normal limits.]
+
+Pancreas: No enhancing mass. [  No pancreatic fluid collections.]
+
+Adrenals: [ No masses.]
+
+Kidneys: [No enhancing mass] [ No hydronephrosis.]
+
+Lymph nodes:  [No adenopathy.]
+
+Stomach, small bowel and colon: [ No bowel wall thickening or obstruction.]
+
+Peritoneal cavity: [ No mesenteric stranding or free fluid.]
+
+Osseous structures:  [No acute fracture or destructive lesion.]
+
+Abdominal aorta: [ No aneurysm.]
+
+Pelvic organs:  [Normal.]
+
+Bladder:     No stones.]
+
+IMPRESSION: 
+
+[Normal CT abdomen and pelvis.]
+
+
+Prompt
+1. Put findings/input data and modify the included template.   Stay with the template format and style.
+
+2.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+3.  Add clinical indication if given in input in the INDICATION section.
+
+4.  Add COMPARISON study if given in input in the Comparison section.
+
+5.  Keep single line spacing.
+
+6. Include statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]."
+
+7. Do not add word history, use indication: 
+
+8. If this is included, add to technique and do not remove:  "Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient's kidney disease or diabetes requiring medication and absence of recent lab studies. I-STAT: Cr: [] mg/dL; calculated GFR [] mL/min." 
+
+9. Dont add postdurgical changes or hardware or non-pertinent findings to the impression.
+
+10. Do not use "EXAM" as title. Use "INDICATION"  as detailed in template. Adhere to the template. 
+
+11.  Dont number sentences in impression per sentence that have to do with same finding. Only number per new pertinent findings. 
+
+

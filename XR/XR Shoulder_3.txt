@@ -1,0 +1,21 @@
+﻿Content
+INDICATION:     [Pain.]
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:   [side]  shoulder views were obtained. 
+
+FINDINGS:
+
+BONES: []
+
+JOINTS: []
+
+SOFT TISSUES: []
+
+IMPRESSION:
+
+[]
+
+Prompt
+Use "INDICATION:" for title and not "EXAM:"

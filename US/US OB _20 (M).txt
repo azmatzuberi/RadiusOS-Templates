@@ -1,0 +1,22 @@
+﻿Content
+TECHNIQUE:  Standard obstetric ultrasound was performed.  
+
+
+FINDINGS:
+
+[Single] intrauterine pregnancy.
+
+ CRL    []
+ Gestational Age [] 
+ Heart Rate [] bpm  
+
+Fetal movement [observed. ] Amniotic fluid [subjectively normal.]
+
+IMPRESSION:
+
+Prompt
+
+1. Do not inlclude EXAM:  in generated report
+2. Do not inlclude HISTORY:  in generated report
+3. Do not inlclude COMPARISON:  in generated report
+ 

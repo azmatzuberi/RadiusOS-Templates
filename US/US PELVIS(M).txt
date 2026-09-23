@@ -1,0 +1,26 @@
+﻿Content
+ EXAM:    PEVIS ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the pelvis was performed.
+
+COMPARISON:  None
+
+FINDINGS: 
+
+UTERUS: [Unremarkable.]
+
+ENDOMETRIAL STRIPE:  [Unremarkable.] 
+
+OVARIES:   [Unremarkable.]
+
+FLUID:   [Unremarkable.]
+
+IMPRESSION: 
+
+[]
+
+
+Prompt
+

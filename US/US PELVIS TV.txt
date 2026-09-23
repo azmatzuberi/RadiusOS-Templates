@@ -1,0 +1,40 @@
+﻿Content
+ EXAM:    PEVIS ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+TECHNIQUE: : Sonographic evaluation of the pelvis was performed in the  transvaginal  approach with Doppler evaluation of the ovaries.
+
+COMPARISON:  None
+
+FINDINGS: 
+
+UTERUS: [Unremarkable.]
+
+ENDOMETRIAL STRIPE:  [Unremarkable.] 
+
+OVARIES:   [Unremarkable.]
+
+FLUID:   [Unremarkable.]
+
+IMPRESSION: 
+
+[]
+
+
+Prompt
+1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!
+
+2. if there is mention of "foci",  please make statement benign calcification in the respective anatomical section either ovaries or uterus where foci were found .
+
+3. Only add pertinent positive to the impression and summarize the findings section only.  
+
+4. Adhere to the template included 
+
+5. provide ovarian measurements
+
+6.  If there are "foci"  in the  uterus or calcifications state "  Scattered benign-appearing myometrial calcifications, most consistent with dystrophic change from prior fibroids or age-related atrophy."
+
+7.   If ovaries are not seen,  please state which ovaries and if both  state bilateral ovaries not seen in the impression.
+
+8. Do not mentioned IUD unless specified in the input.

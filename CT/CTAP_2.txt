@@ -1,0 +1,59 @@
+﻿Content
+EXAM:  CT OF THE ABDOMEN AND PELVIS  
+
+HISTORY: [Unspecified.]
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  
+
+COMPARISON: None
+
+TOTAL DLP (mGy-cm): []
+
+IV Contrast:  []
+GI Contrast: None
+
+
+FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+
+BLADDER:  [Unremarkable.]
+
+PELVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+
+
+ IMPRESSION:
+
+ []
+
+ 
+
+
+
+
+
+Prompt
+ 
+1. If gallbladder surgically  removed add Absent/Cholecytectomy to the gallbladder section. 

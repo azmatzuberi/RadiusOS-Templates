@@ -1,0 +1,26 @@
+﻿Content
+PROCEDURE: []
+
+HISTORY: []
+ 
+TECHNIQUE: Limited ultrasound examination of the region of question was performed.
+
+FINDINGS:  []
+
+
+IMPRESSION:
+
+[ ]
+
+IMPRESSION:
+
+[ ]
+
+
+
+Prompt
+Please summarize the findings in the impression filed and do not include sizes and measurements. Only include these in the findings section. 
+
+and do not duplicate or copy for findings into impression   Verbatim.
+
+ do not include velocity data

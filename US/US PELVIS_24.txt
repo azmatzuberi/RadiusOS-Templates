@@ -1,0 +1,37 @@
+﻿Content
+INDICATION:    [] .
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Transvaginal scanning was performed with grayscale and color Doppler imaging.
+
+FINDINGS:  
+
+Uterus:  Measures  []   x  []   x   []  cm. No uterine masses are identified.
+
+Endometrium:  Measures  []   mm. No endometrial masses or abnormal fluid collections.
+
+Right ovary measures   []  x  []   x  []   cm. No right ovarian or adnexal masses are identified. The right ovary shows normal flow.
+
+Left ovary measures  []   x  []   x  []   cm. No left ovarian or adnexal masses are identified. The left ovary shows normal flow.
+
+Free fluid:  [None.]
+
+Other findings:  [None of significance.]
+
+IMPRESSION:  
+
+[Ultrasound of the pelvis is within normal limits.]
+
+Prompt
+1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!
+
+2. if there is a check box, use the statement next to it, not all the items with boxes. Only those that are checked off. 
+
+3. If for fertility, add the follciles count and size.
+
+4. use INDICATION: and not EXAM: for title. 
+
+5. Do not include venous flow or ovarian volume in report. Include arterial flow.
+
+6. Ignore sonographic murphy sign.

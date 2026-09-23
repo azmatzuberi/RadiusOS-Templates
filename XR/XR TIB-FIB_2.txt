@@ -1,0 +1,15 @@
+﻿Content
+INDICATION:    [Pain] .
+
+COMPARISON:  None available.
+
+TECHNIQUE:  AP and lateral views of the  [side]   tibia and fibula were performed.
+
+FINDINGS:  No fracture, dislocation or bone lesion is seen. Soft tissue and bone density are normal.    
+
+IMPRESSION:   
+
+Unremarkable radiographic series of the tibia and fibula.
+
+Prompt
+Use INDICATION and not EXAM for title.

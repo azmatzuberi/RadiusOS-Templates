@@ -1,0 +1,41 @@
+﻿Content
+HISTORY:    [] .
+
+COMPARISON: [ None available.]
+
+TECHNIQUE:  Abdomen was scanned with grayscale and color Doppler imaging.
+
+FINDINGS:  
+
+Aorta:  [Visualized portions of abdominal aorta are normal in diameter.]
+
+IVC:  [Visualized portions appear patent.]
+
+Pancreas: [ Visualized portions of pancreas are unremarkable.]
+
+Liver:  Measures   []  cm in length. Liver shows [normal] echogenicity.[ No liver masses identified.] Hepatopetal flow seen in the main portal vein.
+
+Gallbladder:  [No stones, sludge, or polyps]    Negative sonographic Murphy's sign.
+
+Common bile duct:  Measures []    mm. No intraductal stones identified.
+
+Right kidney:  Measures  []   x  []   x  []   cm. Normal contour.[ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Left kidney:  Measures  []   x []    x  []   cm. Normal contour. [ No cysts].[ No masses, stones, or hydronephrosis identified. Renal cortical thickness appears normal.]
+
+Spleen:  Measures  []   cm in length. It shows homogeneous echotexture.
+ 
+IMPRESSION:
+
+[]
+
+Prompt
+1Use INIDCATION and not EXAM for title. 
+
+2.Check the checkboxes if crossed or marked. Only use that statement accompanying check boxes if so, otherwise do not. 
+
+3. Ignore positive sonographic murphy sign 
+
+4. Use spacing according to template.
+
+5. A "-" means negative on OCR or screenshot

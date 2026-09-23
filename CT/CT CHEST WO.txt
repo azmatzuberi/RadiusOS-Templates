@@ -1,0 +1,47 @@
+﻿Content
+EXAM:  CT OF THE CHEST WITHOUT IV CONTRAST 
+
+HISTORY: []
+
+
+COMPARISON: None
+
+TECHNIQUE: CT of the chest was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV Contrast: None
+
+FINDINGS:
+
+AIRWAY/THYROID: The airway is patent.  No thyromegaly.
+
+AORTA/VASCULAR: No aortic aneurysm.
+
+LUNGS:  No suspicious pulmonary nodules seen.  
+
+MEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. 
+
+PLEURA:   No pleural effusion or pneumothorax seen.  
+
+HILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  
+ 
+AXILLARY: No bulky axillary adenopathy.  
+
+OSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. 
+
+
+UPPER ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. 
+ 
+IMPRESSION:
+
+No acute process within the chest.
+
+Prompt
+ 
+
+ 1. any pulmonary nodules please less than in the lungs section and remove the statement "No suspicious pulmonary nodules seen. "
+
+2. include DLP if given in the input and placed under contrast field.
+
+3. include recommendations if given. 
+
+4. include sentences in impression if given. 

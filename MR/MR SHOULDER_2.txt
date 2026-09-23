@@ -1,0 +1,39 @@
+﻿Content
+EXAM: MRI SHOULDER
+
+HISTORY: [Pain.]
+
+COMPARISON: [None]
+
+TECHNIQUE: [Multiplanar multisequence MRI imaging of the [RIGHT] shoulder was performed. ]
+
+FINDINGS: 
+
+Rotator cuff: [The subscapularis and infraspinatus tendons are intact.]
+[No full-thickness tears are noted.] 
+
+Labrum: [No labral tears are noted.] [No evidence of SLAP lesion.]
+
+Acromioclavicular joint: [No arthropathy is present.]
+
+Biceps and intrinsic ligaments: [The biceps tendon is well seated within the bicipital groove.] [The biceps tendon anchors are intact.]
+
+[The superior and middle glenohumeral ligaments are intact.]
+
+Bones: [Marrow signal is normal.] [No evidence of fractures or dislocation.]
+
+[No evidence of AVN.] [No joint effusion is present.]
+
+[The surrounding musculature including the deltoid is intact.] 
+
+
+IMPRESSION: 
+
+ []
+
+
+
+Prompt
+use the input findings to change the sections. 
+
+Summarize the impression with only the pertinent findings. 

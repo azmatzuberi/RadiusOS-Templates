@@ -1,0 +1,29 @@
+﻿Content
+EXAM: MRI THORACIC SPINE
+
+HISTORY: [Back pain]
+
+COMPARISON: [None]
+
+TECHNIQUE: Multiplanar multisequence MRI imaging of the thoracic spine was performed. No IV contrast was administered. 
+
+FINDINGS: 
+[The cervicothoracic and thoracolumbar junctions are intact.] 
+[The vertebral bodies and intervertebral disc heights are maintained.]
+[The thoracic cord is in anatomic location without abnormal signal.]
+[No abnormal extra-axial mass is present.]
+[The prevertebral and paravertebral soft tissues are within normal limits.] 
+Level by level findings are as follows:
+C7-L1: [No disc herniation.] [No spinal canal stenosis.] [No foraminal narrowing.]
+
+IMPRESSION:
+
+ [No abnormal signal seen within the cord.]  [No significant degenerative changes seen.]
+
+
+
+Prompt
+1. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format. 
+2. Keep it in outline format and organ based.  Dont write in a single prose paragraph.
+ 
+

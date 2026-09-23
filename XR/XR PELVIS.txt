@@ -1,0 +1,30 @@
+﻿Content
+TECHNIQUE:  Single view of the pelvis was performed..
+
+COMPARISON: None
+
+
+FINDINGS:   
+
+There is no displaced fracture.  
+
+Alignment and joint  spaces are maintained.  
+
+There are no destructive or erosive changes. 
+
+Soft tissues are unremarkable. 
+
+Bones appear normally mineralized for age.
+
+No radiopaque foreign body.
+
+Bowel obscures the sacrum.
+
+IMPRESSION:  
+
+[No acute process seen radiographically.]
+
+Prompt
+1. Do not include EXAM:  in generated report
+2. Do not include HISTORY:  in generated report
+3. Do not include COMPARISON:  in generated report unless a prior report date is given in data.

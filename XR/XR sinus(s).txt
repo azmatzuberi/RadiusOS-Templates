@@ -1,0 +1,15 @@
+﻿Content
+INDICATION:   [[Sinusitis] 
+
+COMPARISON:  None available.
+
+TECHNIQUE:  [3] views of the paranasal sinuses were obtained.
+
+FINDINGS:  The paranasal sinuses appear to be fairly well aerated. Mastoid air cells appear clear. There are no fluid levels or areas of significant mucosal thickening identified. There are no bony abnormalities identified. Visualized cranial and facial structures are unremarkable.    
+
+IMPRESSION:  
+
+Unremarkable radiographic series of the sinuses.
+
+Prompt
+Use INDICATION: and not EXAM: for title.

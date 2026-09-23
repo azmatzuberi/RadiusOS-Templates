@@ -1,0 +1,35 @@
+﻿Content
+EXAM: CT Pelvis  
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Axial images were acquired through the pelvis. Reformatted images were reviewed.  
+
+ DOSE:
+ CTDI (mGy) and DLP (mGy-cm) respectively:  []
+
+CONTRAST:
+[With or Without;]
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+BONES:
+No acute fracture or focal osseous lesion.
+
+JOINTS:
+No dislocation. The joint spaces are normal. 
+
+SOFT TISSUES:
+The soft tissues are unremarkable.
+
+IMPRESSION:
+[]
+
+
+
+Prompt
+include DLP if given in the input and placed under contrast field.

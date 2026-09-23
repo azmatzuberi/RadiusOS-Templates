@@ -1,0 +1,29 @@
+﻿Content
+INDICATION:   [].
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  The scrotum was scanned in transverse and longitudinal planes. A combination of grayscale, B-mode and color Doppler imaging was utilized. Duplex color and spectral Doppler waveform images were obtained to evaluate testicular arterial inflow and venous outflow.
+
+FINDINGS:
+
+Right testicle:  Measures []
+Echotexture is [homogeneous.] [There is no right testicular cyst or mass identified.][ Spectral and color flow imaging of the right testicle shows normal arterial and venous waveforms.]
+
+Left testicle:  Measures [] Echotexture is [homogeneous]. [There is no left testicular cyst or mass identified.] [Spectral and color flow imaging of the left testicle shows normal arterial and venous waveforms.]
+
+Right epididymis:  Measures   []  mm in length. [No cyst or mass noted. ]
+
+Left epididymis:  Measures  []   mm in length. [No cyst or mass noted.]
+
+Hydroceles:  [None.]
+
+Varicoceles:  [None.]
+
+IMPRESSION: 
+
+[Bilateral testicular ultrasound is within normal limits.]
+
+
+Prompt
+Use INIDICATION. Dont use HISTORY as the tern.

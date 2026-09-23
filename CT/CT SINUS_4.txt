@@ -1,0 +1,42 @@
+﻿Content
+EXAM: CT SINUS WITHOUT
+
+TECHNIQUE: CT maxillofacial was performed in usual fashion.  Coronal and sagittal reformats were obtained from the axial data set.  
+
+DOSE:
+  DLP (mGy-cm)  :  
+
+
+CONTRAST: None.
+
+COMPARISON: None.
+
+
+FINDINGS: 
+
+SINUSES: [Unremarkable]
+
+OSTEOMEATAL COMPLEX:  [Unremarkable]
+
+CRIBRIFORM PLATE:  [Unremarkable]
+
+SEPTUM: [Unremarkable]
+
+MASTOID: [Unremarkable]
+
+ORBITS: [Unremarkable]
+
+OSSEOUS STRUCTURES: [Unremarkable]
+
+SOFT TISSUE: [Unremarkable]
+
+IMPRESSION: 
+
+[Unremarkable]
+
+
+
+Prompt
+  USE THE TEMPLATE FOR GUIDANCE AND FILL IN SECTIONS OF  MARKED BY BRACKETS only. IF NO FINDINGS MATCHING THE FIELDS, PUT "UNREMARKABLE" IN THE BRACKET AREA.
+
+include DLP if given in the input and placed under contrast field.

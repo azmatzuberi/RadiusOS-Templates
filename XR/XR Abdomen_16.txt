@@ -1,0 +1,27 @@
+﻿Content
+PROCEDURE: XR Abdomen AP
+
+ HISTORY:  Pain
+
+TECHNIQUE:   Abdominal views performed.
+
+COMPARISON: None
+
+FINDINGS: 
+
+The bowel gas pattern is unremarkable.  
+
+Fair amount of stool is present. 
+
+The renal fossa are obscured by bowel. 
+
+No abnormal calcification seen.
+
+Underlying osseous structures are intact.
+
+IMPRESSION: 
+
+   
+
+Prompt
+modify the findings based on the input data.

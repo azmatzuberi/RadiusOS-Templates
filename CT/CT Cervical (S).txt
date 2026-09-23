@@ -1,0 +1,50 @@
+﻿Content
+EXAM: CT CERVICAL WO
+
+HISTORY: []
+
+TECHNIQUE: Axial images through the cervical spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.
+
+
+COMPARISON:  None
+
+CONTRAST: None
+
+
+FINDINGS: 
+
+ALIGNMENT: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+THYROID: [Unremarkable.]
+
+LUNGS: [Unremarkable.]
+
+SINUSES: [Unremarkable.]
+
+Level by Level:
+
+C2-C3: [Unremarkable.]
+
+C3-C4: [Unremarkable.]
+
+C4-C5: [Unremarkable.]
+
+C5-C6: [Unremarkable.]
+
+C6-C7: [Unremarkable.]
+
+C7-T1: [Unremarkable.]
+
+
+IMPRESSION:
+
+
+
+Prompt
+ please add all the input in the findings section level by level.
+
+  Please summarize the impression and state please see level by level regarding details.  Recommend further evaluation with MRI as a more sensitive and specific exam.

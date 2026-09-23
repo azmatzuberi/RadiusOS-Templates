@@ -1,0 +1,40 @@
+﻿Content
+PROCEDURE: US Pelvic Non OB
+
+HISTORY: []
+
+TECHNIQUE:  Color flow and Doppler grayscale ultrasound and spectral waveform analysis of the pelvis was performed.
+
+Probe:  [Transabdominal/Transvaginal].
+
+
+COMPARISON:  [None]
+
+FINDINGS: 
+
+UTERUS: [Unremarkable.]
+
+ENDOMETRIAL STRIPE:  [Unremarkable.] 
+
+OVARIES:   [Unremarkable.]
+
+FLUID:   [Unremarkable.]
+
+IMPRESSION: 
+[]
+
+[]
+
+
+Prompt
+1. Convert any endometrial stripe thickness  to mm and not cm. Include endometrial stripe thickness on all exams!
+
+2. Adhere to the template included.  
+
+ 3. Do not mentioned IUD unless specified in the input.
+
+4. Do not calculate volume from any dimensions. Only sizes IUD present without signs of complication.
+
+5. Add comparison to the comparison field if date given of prior exam. 10/27/2025. 
+
+6. Do not calculate ovarian volumes unless provided. 

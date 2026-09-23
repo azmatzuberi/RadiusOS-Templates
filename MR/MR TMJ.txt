@@ -1,0 +1,57 @@
+﻿Content
+MRI TMJ (Simplified Template)
+
+Indication: [ ]
+Technique: Standard TMJ MRI with open/closed mouth imaging.
+
+FINDINGS
+Bones
+
+Right condyle: [ ]
+
+Left condyle: [ ]
+
+Marrow signal: [ ]
+
+Articular eminence/glenoid fossa: [ ]
+
+Disc â€“ Closed Mouth
+
+Right disc position: [ ]
+
+Left disc position: [ ]
+
+Disc morphology: [ ]
+
+Disc â€“ Open Mouth
+
+Right reduction: [ ]
+
+Left reduction: [ ]
+
+Condylar translation (R/L): [ ]
+
+Effusion
+
+Right: [ ]
+
+Left: [ ]
+
+Soft Tissue
+
+Retrodiscal tissue: [ ]
+
+Muscles (masseter/pterygoids): [ ]
+
+Other: [ ]
+
+IMPRESSION
+
+Right TMJ: [ ]
+
+Left TMJ: [ ]
+
+Additional findings: [ ]
+
+Prompt
+

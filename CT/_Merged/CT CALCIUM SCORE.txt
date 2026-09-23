@@ -1,0 +1,113 @@
+﻿Content
+
+EXAM: CT CALCIUM SCORE
+
+HISTORY: High risk patient.
+
+TECHNIQUE: CT CALCIUM score was performed in the usual fashion in axial imaging only.
+
+IV CONTRAST: None
+
+COMPARISON: None
+
+IMPRESSION:
+
+No acute process visualized within the chest.
+
+Total calcium score of [].
+
+DLP (mGy-cm): []
+
+FINDINGS:
+
+[The lungs and airway are clear. No suspicious pulmonary nodules. No aortic aneurysm. No pericardial effusion. Visualized osseous structures grossly unremarkable.]
+
+[No pleural effusion or pneumothorax seen.]
+
+----- S-SITE STYLE: lines found only in this site's version — delete this block if not needed -----
+
+INDICATION:  Hyperlipidemia. Atherosclerotic cardiovascular disease (ASCVD) risk stratification.
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Noncontrast axial CT images were obtained through the level of the heart. The study was reviewed on dedicated calcium scoring software. Total and regional calcium score values were calculated. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+TECHNICAL QUALITY: Good
+
+RADIATION DOSE:  CTDI volume [] mGy; DLP (mGy-cm): []
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+[The total Agatston CAC score is 4.]
+
+AGE/SEX ADJUSTED CAC SCORE PERCENTILE: [0-25th percentile.]
+
+VESSEL-LEVEL AGATSTON CAC SCORING:
+
+LM: [0]
+
+LAD: [4]
+
+LCX: [0]
+
+RCA/PDA: [0]
+
+EXTRA-CORONARY CALCIFICATION:
+
+The aortic valve demonstrates []  calcifications.
+
+The thoracic aorta demonstrates  []calcifications.
+
+GREAT VESSELS (cm):
+
+MAIN PULMONARY ARTERY: []cm
+
+AORTIC SINUS: []cm
+
+ASCENDING AORTA: []cm
+
+PERICARDIUM: [Unremarkable.]
+
+OTHER FINDINGS:  None
+
+1.  Total Agatston calcium score of [].
+
+2. CAC-DRS Category A1/N1.
+
+3.  Right middle lobe pulmonary mass measuring 3.2 x 2.4 cm. Chest CT may be performed as clinically needed.
+
+A= CAC-DRS Risk category
+
+N= Number of vessels involved
+
+SUGGESTED RECOMMENDATIONS:
+
+Based on the 2018 CAC-DRS Consensus Document of the Society of Cardiovascular Computed Tomography (SCCT)
+
+CAC-DRS A0
+
+CAC score = 0
+
+RISK: Very low risk
+
+TREATMENT RECOMMENDATIONS: Statin generally not recommended (excluding familial hypercholesterolemia).
+
+CAC score = 1–99
+
+RISK: Mildly increased risk
+
+TREATMENT RECOMMENDATIONS: Moderate-intensity statin
+
+RISK: Moderately increased risk
+
+TREATMENT RECOMMENDATIONS: Moderate to high-intensity statin + acetylsalicylic acid (ASA) 81mg
+
+RISK: Moderately to severely increased risk
+
+TREATMENT RECOMMENDATIONS: High intensity statin + ASA  81mg
+
+Prompt
+
+1. Move impression statement before the findings statement.
+
+2. Make chart from calcium score screenshot.

@@ -1,0 +1,64 @@
+﻿Content
+PROCEDURE: US Vasc Dplx Extracran Art Bilat Comp
+
+HISTORY: []
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Standard duplex imaging of the carotid system was performed.  
+
+FINDINGS:  Grayscale imaging shows no significant luminal diameter narrowing in the right or left carotid system. 
+
+Spectral analysis was performed. No abnormal increased velocity, spectral broadening, turbulence or color flow aliasing is noted.  
+
+The peak/end velocities in cm/sec are as follows: 
+
+RIGHT   
+           
+CCA:  []                               
+ICA:  []                             
+ECA,:     []              
+Vertebral: [antegrade ]           
+                 
+ICA/CCA ratio:   []                 
+
+LEFT
+          
+CCA:  []                               
+ICA:  []                             
+ECA,:     []              
+Vertebral: [antegrade ]                  
+           
+ICA/CCA ratio:  []                  
+
+The degree of stenosis is calculated in accordance with the NASCET Index.
+
+IMPRESSION:
+
+[No hemodynamically significant stenosis bilaterally.]
+
+
+ 
+Reference: Society of Radiologists in Ultrasound Consensus Conference Radiology 2003; 229 (2) 340-34Occlusion and stenosis of unspecified carotid artery
+
+  
+
+
+
+
+
+ 
+
+Prompt
+Make sure to include internal ICA/CCA radios of right and left in findings. Not impression. 
+
+Include right and left PSV/EDV
+
+ Please tabulated velocity data in a more readable table and convert to cm/sec.
+
+
+
+ 
+
+
+

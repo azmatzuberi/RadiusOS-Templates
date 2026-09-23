@@ -1,0 +1,39 @@
+﻿Content
+INDICATION: [ Supervision of normal pregnancy first trimester, Z34.81.]
+
+COMPARISON:   [None available.]
+
+TECHNIQUE:  Transabdominal scanning was performed with grayscale, B-mode and color Doppler imaging. 
+
+FINDINGS:  
+
+Gestational Sac: [] Single. Shape: [Normal.]
+
+CRL:  []    cm =   []    
+
+Yolk Sac:  [Not seen.]
+
+FHR:    []  BPM
+
+EGA by ultrasound:      []
+
+EDC by ultrasound:  []   
+
+Uterus:  Measures  []   cm. No masses identified. No evidence of subchorionic hemorrhage.
+
+Right ovary:  Measures []    cm. No right ovarian or adnexal masses identified.
+
+Left ovary:  Measures  []   cm. No left ovarian or adnexal masses identified.
+
+Free fluid:  [None.]
+
+IMPRESSION:    
+
+Living first trimester intrauterine pregnancy with estimated gestational age of  []   and EDC of  [] .
+
+
+
+Prompt
+
+Don't use EXAM title. Use INDICATION as specified in template.  Adhere to template for style and format. 
+

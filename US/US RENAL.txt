@@ -1,0 +1,37 @@
+﻿Content
+EXAM:    RENAL ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+TECHNIQUE: Retroperitoneal renal ultrasound examination was performed in the usual fashion.  Doppler evaluation was performed.
+
+COMPARISON: None
+
+IMPRESSION:
+[ unremarkable]
+
+
+
+FINDINGS:
+RIGHT KIDNEY:
+[  Unremarkable.]
+LEFT KIDNEY:
+[ unremarkable
+ 
+Pre-void (ml): []
+Post-void (ml): []
+
+ 
+
+Prompt
+1. tabulate velocity data in a readable format  from input data in convert all measurements if given in meters to cm/sec.  
+
+2. Only add pertinent positives in the impression. Do not include these in the impression section. 
+  
+
+3. Give renal measurements  size in cm and stones in mm.  
+
+
+4.  Do not add bladder details unless specified in the input data, remove wording of pre and post void in the template and report. 
+ 
+

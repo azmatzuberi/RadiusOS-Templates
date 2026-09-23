@@ -1,0 +1,176 @@
+﻿CT MERGED TEMPLATES — how to read these
+- One file per study. The base is the most common plain version; other versions were folded in.
+- 'ALT:' lines sit under the line they replace — keep one wording, delete the other.
+- Lines only in other plain versions were inserted where they appeared.
+- Site-specific (S / P style) lines are grouped in a marked block at the end of Content — delete the block if you don't use that style.
+- EXAM line uses [with/without] contrast. Hardcoded DLP values were replaced with [].
+- Prompt = de-duplicated union of all versions' instructions; conflicts are flagged below.
+
+CT HEAD.txt
+  Base: CT HEAD.txt
+  Merged from: CT HEAD.txt, CT HEAD (S).txt, CT HEAD_2.txt, CT HEAD_3.txt, CT HEAD_7.txt
+  ALT lines: 2; added lines: 1; site blocks: none; prompt items: 6
+
+CT HEAD STROKE PROTOCOL.txt
+  Base: CT HEAD_5.txt
+  Merged from: CT HEAD_5.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 1
+
+CT CERVICAL SPINE.txt
+  Base: CT CERVICAL_7.txt
+  Merged from: CT CERVICAL_7.txt, CT Cervical (S).txt, CT CERVICAL_12.txt, CT CERVICAL_15.txt, CT CERVICAL_4.txt, CT CERVICAL_6.txt
+  ALT lines: 0; added lines: 2; site blocks: none; prompt items: 7
+
+CT THORACIC SPINE.txt
+  Base: CT THORACIC_6.txt
+  Merged from: CT THORACIC_6.txt, CT THORACIC_2.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 1
+
+CT LUMBAR SPINE.txt
+  Base: CT LUMBAR_16.txt
+  Merged from: CT LUMBAR_16.txt, CT LUMBAR.txt, CT LUMBAR_3.txt, CT LUMBAR_6.txt
+  ALT lines: 0; added lines: 1; site blocks: none; prompt items: 7
+  CHECK prompt conflicts — EXAM header: prompts #[6] vs #[6]
+
+CT CHEST.txt
+  Base: CT CHEST WO_5.txt
+  Merged from: CT CHEST WO_5.txt, CT CHEST WO.txt, CT CHEST WO_2.txt, CT CHEST WO_3.txt, CT CHEST W_CON.txt, CT CHEST W_CON_2.txt, CT CHEST W_CON_3.txt, CT CHEST W_CON_5.txt, CT CHEST WITH (S).txt, CT CHEST (S).txt
+  ALT lines: 3; added lines: 0; site blocks: P, S; prompt items: 17
+  CHECK prompt conflicts — line spacing: prompts #[15] vs #[17]
+
+CT CHEST HIGH RESOLUTION.txt
+  Base: CT CHEST HIRES_3.txt
+  Merged from: CT CHEST HIRES_3.txt, CT HIRES (S).txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 7
+
+CT CHEST LOW DOSE LUNG SCREENING.txt
+  Base: CT CHEST LOW-DOSE_3.txt
+  Merged from: CT CHEST LOW-DOSE_3.txt, CT CHEST LOW-DOSE.txt, CTCH low dose (M).txt, CTCH low dose.txt, CT LOW DOSE (S).txt, CTLD.txt, CT temple.txt
+  ALT lines: 2; added lines: 7; site blocks: S, P; prompt items: 39
+
+CT ABDOMEN.txt
+  Base: CT ABDOMEN_18.txt
+  Merged from: CT ABDOMEN_18.txt, CT ABDOMEN WO.txt, CT ABDOMEN.txt
+  ALT lines: 1; added lines: 3; site blocks: P; prompt items: 3
+
+CT ABDOMEN PELVIS.txt
+  Base: CT AbdPelvis with.txt
+  Merged from: CT AbdPelvis with.txt, CT AbdPelvis with_2.txt, CT AbdPelvis with_3.txt, CT AbdPelvis.txt, CT AbdPelvis_3.txt, CT AbdPelvis_4.txt, CTAP.txt, CTAP_2.txt, CTAP WITH (M).txt, CTAP WITH.txt, CTAP wo.txt, CTAPW.txt, CTAPWO.txt, CTAP (S).txt, CTAP (S) WITHOUT.txt, CTAP (S) WITHOUT_2.txt, CTAP(P).txt
+  ALT lines: 1; added lines: 6; site blocks: P, S; prompt items: 32
+  CHECK prompt conflicts — line spacing: prompts #[18, 29] vs #[27]; EXAM header: prompts #[11] vs #[11]
+
+CT ENTEROGRAPHY.txt
+  Base: CT enterography.txt
+  Merged from: CT enterography.txt, CTAP (ENTERO).txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 11
+  CHECK prompt conflicts — line spacing: prompts #[11] vs #[5]
+
+CT UROGRAM.txt
+  Base: CT UROGRAM v2.txt
+  Merged from: CT UROGRAM v2.txt, CT UROGRAM.txt
+  ALT lines: 0; added lines: 0; site blocks: P; prompt items: 10
+
+CT PELVIS.txt
+  Base: CT PELVIS_2.txt
+  Merged from: CT PELVIS (S).txt, CT PELVIS_2.txt, CT PELVIS.txt
+  ALT lines: 0; added lines: 0; site blocks: S, P; prompt items: 3
+
+CT CHEST ABDOMEN.txt
+  Base: CT CHEST AND ABDOMEN.txt
+  Merged from: CT CHEST AND ABDOMEN.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 24
+
+CT CHEST ABDOMEN PELVIS.txt
+  Base: CT PAN SCAN_6.txt
+  Merged from: CT PAN SCAN_6.txt, CT PAN SCAN v2.txt, CT PAN SCAN_2.txt, CT PAN SCAN_5.txt, CT PAN SCAN_3.txt, CT PAN SCAN.txt
+  ALT lines: 1; added lines: 1; site blocks: P; prompt items: 9
+
+CT NECK.txt
+  Base: CT NECK_2 v2.txt
+  Merged from: CT NECK_2 v2.txt, CT NECK (s)_2.txt, CT NECK (s).txt, CT NECK.txt, CT NECK_2.txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 12
+
+CT ORBITS.txt
+  Base: CT ORBITS_6.txt
+  Merged from: CT ORBITS_6.txt, CT ORBITS.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 1
+
+CT SINUS.txt
+  Base: CT SINUS.txt
+  Merged from: CT SINUS.txt, CT SINUS_4.txt, CT MAX(S).txt
+  ALT lines: 0; added lines: 1; site blocks: S; prompt items: 12
+
+CT MAXILLOFACIAL.txt
+  Base: CT MAX.txt
+  Merged from: CT MAX.txt, CT MAX_2.txt
+  ALT lines: 0; added lines: 1; site blocks: none; prompt items: 8
+
+CT TEMPORAL BONE.txt
+  Base: CT TEMPORAL.txt
+  Merged from: CT TEMPORAL.txt, CT temporal bone.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 1
+
+CT EXTREMITY.txt
+  Base: CT EXTREMITY_5.txt
+  Merged from: CT EXTREMITY_5.txt, CT EXTREMITY.txt, CT EXTREMITY (m).txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 6
+
+CT HIP.txt
+  Base: CT HIP.txt
+  Merged from: CT HIP.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 4
+
+CT BONE DENSITY.txt
+  Base: CT BONE DENSITY CT.txt
+  Merged from: CT BONE DENSITY CT.txt, CT BONE DENSITY_2.txt
+  ALT lines: 3; added lines: 2; site blocks: none; prompt items: 3
+
+CT CALCIUM SCORE.txt
+  Base: CT CALCIUM.txt
+  Merged from: CT CALCIUM(S).txt, CT CALCIUM.txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 2
+
+CTA CHEST PE.txt
+  Base: CTA PE_2.txt
+  Merged from: CTA PE_2.txt, CTA PE.txt, CTA PE_6.txt, CTA PE (m).txt, CT PE (s).txt
+  ALT lines: 0; added lines: 3; site blocks: S; prompt items: 13
+
+CTA HEAD AND NECK.txt
+  Base: CTA HEAD & NECK.txt
+  Merged from: CTA HEAD & NECK.txt, CTA HEAD & NECK_2.txt, CTA HEAD & NECK_6.txt
+  ALT lines: 0; added lines: 1; site blocks: none; prompt items: 1
+
+CTA HEAD.txt
+  Base: CTA HEAD.txt
+  Merged from: CTA HEAD.txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 1
+
+CTA NECK.txt
+  Base: CTA NECK.txt
+  Merged from: CTA NECK.txt, CTA NECK (m).txt, CTA NECK (S).txt
+  ALT lines: 0; added lines: 1; site blocks: S; prompt items: 1
+
+CTA ABDOMEN PELVIS.txt
+  Base: CTA  AbdPel.txt
+  Merged from: CTA  AbdPel.txt, CTA  AbdPel_4.txt, CTA AP (S)_2.txt, CTA AP (S).txt, CTA Abdomen and pelvis.txt
+  ALT lines: 1; added lines: 0; site blocks: S, P; prompt items: 9
+
+CTA RUNOFF.txt
+  Base: CTA Runoff_3.txt
+  Merged from: CTA Runoff.txt, CTA Runoff (s).txt, CTA Runoff_2.txt, CTA Runoff_3.txt, CTA Runoff_5.txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 5
+
+CTA CHEST ABDOMEN.txt
+  Base: CTA Chest and Abdomen.txt
+  Merged from: CTA Chest and Abdomen.txt, CTA Chest and Abdomen_2.txt
+  ALT lines: 0; added lines: 0; site blocks: S; prompt items: 5
+
+CTA CHEST ABDOMEN PELVIS.txt
+  Base: CTA PAN SCAN.txt
+  Merged from: CTA PAN SCAN.txt, CTA PAN SCAN_3.txt
+  ALT lines: 0; added lines: 0; site blocks: P; prompt items: 1
+
+CTV ABDOMEN PELVIS.txt
+  Base: CTV AP (S).txt
+  Merged from: CTV AP (S).txt
+  ALT lines: 0; added lines: 0; site blocks: none; prompt items: 3

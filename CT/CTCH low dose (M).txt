@@ -1,0 +1,48 @@
+﻿Content
+EXAM:  CT OF THE CHEST WITHOUT IV CONTRAST 
+
+HISTORY:   High-risk patient
+
+
+COMPARISON: None
+
+TECHNIQUE: Low dose CT of the chest was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV Contrast: None
+
+DLP: [] MGY*cm
+
+FINDINGS:
+
+AIRWAY/THYROID: The airway is patent.  No thyromegaly.
+
+AORTA/VASCULAR: No aortic aneurysm.
+
+LUNGS:  No suspicious pulmonary nodules seen.  
+
+MEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. 
+
+PLEURA:   No pleural effusion or pneumothorax seen.  
+
+HILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  
+ 
+AXILLARY: No bulky axillary adenopathy.  
+
+OSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. 
+
+
+UPPER ABDOMEN:   Limited by low dose technique.
+ 
+IMPRESSION:
+
+[]
+
+Recommedations: 
+
+[]
+
+Prompt
+1. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format. 
+2. Keep it in outline format and organ based.  Dont write in a single prose paragraph.
+3. Dont include CTDI: 
+

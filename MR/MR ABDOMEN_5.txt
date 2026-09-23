@@ -1,0 +1,49 @@
+﻿Content
+nullEXAM:
+MR Abdomen [with or without] IV contrast.
+CLINICAL HISTORY:
+TECHNIQUE:
+Multisequence, multiplanar magnetic resonance images of the abdomen [with or without] intravenous contrast.
+CONTRAST:
+[With or without];
+COMPARISON:
+None provided.
+FINDINGS:
+LOWER THORAX:
+No pleural effusion.
+LIVER:
+[Unremarkable.]
+GALLBLADDER AND BILE DUCTS:
+No stone.
+No ductal dilation.
+PANCREAS:
+[Unremarkable.]
+No ductal dilation.
+SPLEEN:
+[Unremarkable.]
+EXAM:
+MR Abdomen [with or without] IV contrast.
+CLINICAL HISTORY:
+TECHNIQUE:
+Multisequence, multiplanar magnetic resonance images of the abdomen [with or without] intravenous contrast.
+CONTRAST:
+[With or without];
+COMPARISON:
+None provided.
+FINDINGS:
+LOWER THORAX:
+No pleural effusion.
+LIVER:
+[Unremarkable.]
+GALLBLADDER AND BILE DUCTS:
+No stone.
+No ductal dilation.
+PANCREAS:
+[Unremarkable.]
+No ductal dilation.
+SPLEEN:
+[Unremarkable.]
+
+
+Prompt
+

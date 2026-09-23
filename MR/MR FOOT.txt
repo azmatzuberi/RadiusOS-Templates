@@ -1,0 +1,87 @@
+﻿Content
+nullEXAM: MRI FOOT
+CLINICAL HISTORY:
+TECHNIQUE:
+Multiplanar magnetic resonance images of the [] foot [without or with] intravenous contrast.
+CONTRAST:
+[Without or with];
+COMPARISON:
+None provided.
+FINDINGS:
+LIGAMENTS:
+MEDIAL COLLATERAL:
+[Unremarkable.]
+LATERAL COLLATERAL:
+[Unremarkable.]
+LISFRANC:
+[Unremarkable.]
+TENDONS:
+FLEXOR:
+[Unremarkable.]
+EXTENSOR:
+[Unremarkable.]
+PERONEAL:
+[Unremarkable.]
+BONES:
+No acute fracture or focal osseous lesion.
+MUSCLES:
+[Unremarkable.]
+FLUID:
+[Unremarkable.]
+No joint effusion.
+SINUS TARSI:
+[Unremarkable.]
+TARSAL TUNNEL:
+[Unremarkable.]
+PLANTAR FASCIA:
+[Unremarkable.]
+CARTILAGE:
+[Unremarkable.]
+IMPRESSION:
+[]
+
+EXAM: MRI FOOT
+CLINICAL HISTORY:
+TECHNIQUE:
+Multiplanar magnetic resonance images of the [] foot [without or with] intravenous contrast.
+CONTRAST:
+[Without or with];
+COMPARISON:
+None provided.
+FINDINGS:
+LIGAMENTS:
+MEDIAL COLLATERAL:
+[Unremarkable.]
+LATERAL COLLATERAL:
+[Unremarkable.]
+LISFRANC:
+[Unremarkable.]
+TENDONS:
+FLEXOR:
+[Unremarkable.]
+EXTENSOR:
+[Unremarkable.]
+PERONEAL:
+[Unremarkable.]
+BONES:
+No acute fracture or focal osseous lesion.
+MUSCLES:
+[Unremarkable.]
+FLUID:
+[Unremarkable.]
+No joint effusion.
+SINUS TARSI:
+[Unremarkable.]
+TARSAL TUNNEL:
+[Unremarkable.]
+PLANTAR FASCIA:
+[Unremarkable.]
+CARTILAGE:
+[Unremarkable.]
+IMPRESSION:
+[]
+
+
+
+Prompt
+

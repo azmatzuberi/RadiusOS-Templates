@@ -1,0 +1,36 @@
+﻿Content
+FINDINGS:
+
+Lungs: [Visualized lower lungs are clear.]
+
+Heart: [Heart is normal in size without pericardial effusion.]
+
+Liver: [Liver is normal in size, contour, and attenuation without intrahepatic or extrahepatic biliary ductal dilatation.]
+
+BILIARY System: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]
+
+Spleen: [Spleen is normal in size, contour, and attenuation.]
+
+Pancreas: [Pancreas is normal in size, attenuation, and contour without pancreatic ductal dilatation.]
+
+Adrenal Glands: [No adrenal masses.]
+
+Kidneys: [Kidneys are normal in size, contour, and attenuation without hydronephrosis, perinephric fluid collection, or perinephric stranding.  Urinary bladder is normal.] 
+
+Bowel:  [No bowel obstruction, pneumoperitoneum, pneumatosis, or ascites.]  [Normal appendix.]  [No free or loculated fluid collections within the abdomen or pelvis.]
+
+Vascular: [Abdominal aorta and arborizing branches are normal in course and caliber.]
+
+Pelvis: [No inguinal, pelvic sidewall, mesenteric, retroperitoneal lymphadenopathy.]
+
+OSSEOUS AND SPINE: [Lumbar spine alignment is anatomic without spinal canal stenosis or foraminal narrowing.]
+
+CONCLUSION:
+[]
+
+Prompt
+1. Do not include brackets [] in the final rendering.
+
+2. Combine hernias into one sentence in impression/conclusion.
+
+3. Combine atherosclerotic disease and coronary atherosclerotic disease into one sentence in impression/conclusion.

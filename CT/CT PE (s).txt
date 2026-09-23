@@ -1,0 +1,65 @@
+﻿Content
+INDICATION: [SOB]
+
+TECHNIQUE: CTA of the chest was performed with IV contrast using a PE protcol. Oral contrast not administered. CT scan done according to ALARA (As Low As Reasonably Achievable.) 
+
+CONTRAST:  [100] mL of Optiray (350 mg/mL) single-use vial was administered IV with [0] mL discarded. 
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0] 
+
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+PULMONARY ARTERIES:
+There is no intraluminal filling defect suspicious for PE.  No right heart strain.
+
+AORTA:
+No thoracic aortic aneurysm or dissection.
+
+LUNGS:
+The lungs are clear. No pulmonary mass. No focal airspace consolidation. 
+
+PLEURAL SPACES:
+No pleural effusion. No pneumothorax. 
+
+HEART AND MEDIASTINUM:
+No cardiomegaly. No significant pericardial effusion. 
+
+LYMPH NODES:
+No lymphadenopathy.
+
+BONES:
+No focal osseous abnormality or acute fracture.
+
+CHEST WALL AND UPPER ABDOMEN:
+Images through the upper abdomen are unremarkable. The chest wall is unremarkable. 
+
+IMPRESSION:
+No evidence for pulmonary embolism.  No right heart strain.
+
+
+Prompt
+1. Put findings/input data and modify the included template.   Stay with the template format and style.
+
+2.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+3.  Add clinical indication if given in input in the INDICATION section.
+
+4.  Add COMPARISON study if given in input in the Comparison section.
+
+5.  Keep double line spacing.
+
+6. Include staement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]."
+
+7. Do not add word history, use indication: 
+
+8. If this is included, add to technique and do not remove:  "Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient's kidney disease or diabetes requiring medication and absence of recent lab studies. I-STAT: Cr: [] mg/dL; calculated GFR [] mL/min." 
+
+9. Dont add postdurgical changes or hardware or non-pertinent findings to the impression.
+
+10. Do not use "EXAM" as title. Use "INDICATION"  as detailed in template. Adhere to the template. 
+
+

@@ -1,0 +1,134 @@
+﻿Content
+EXAM: CT CHEST, ABDOMEN, and PELVIS
+
+COMPARISON: None
+
+TECHNIQUE: CT of the chest, abdomen and pelvis was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV Contrast: [None]
+
+Oral contrast: [None]
+
+CHEST  FINDINGS:
+
+AIRWAY: [Unremarkable.]
+
+AORTA:  [Unremarkable.]
+
+LUNGS:   [Unremarkable.]
+
+MEDIASTINUM:   [Unremarkable.]
+
+PLEURA:    [Unremarkable.]
+
+HILAR STRUCTURES:  [Unremarkable.]
+â€˜
+AXILLARY:  [Unremarkable.]
+
+OSSEOUS STRUCTURES:   [Unremarkable.]
+
+
+ABDOMEN/PELVIS  FINDINGS:
+
+
+LIVER:  [Unremarkable.]
+
+GALLBLADDER:  [Unremarkable.]
+
+SPLEEN:  [Unremarkable.] 
+
+PANCREAS:  [Unremarkable.]
+
+Adrenal Glands:  [Unremarkable.]
+
+Kidneys/Bladder:  [Unremarkable.]
+
+PELVIC structure:  [Unremarkable.]
+
+BOWEL:  [Unremarkable.]
+
+ABDOMINAL WALL/MESENTERY:  [Unremarkable.]
+
+AORTA and VASCULARITY:  [Unremarkable.]
+
+OSSEOUS:  [Unremarkable.]
+ 
+IMPRESSION CHEST, ABDOMEN, and PELVIS:
+
+ [Unremarkable.]
+
+EXAM: CT CHEST, ABDOMEN, and PELVIS
+
+COMPARISON: None
+
+TECHNIQUE: CT of the chest, abdomen and pelvis was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV Contrast: [None]
+
+Oral contrast: [None]
+
+CHEST  FINDINGS:
+
+AIRWAY: [Unremarkable.]
+
+AORTA:  [Unremarkable.]
+
+LUNGS:   [Unremarkable.]
+
+MEDIASTINUM:   [Unremarkable.]
+
+PLEURA:    [Unremarkable.]
+
+HILAR STRUCTURES:  [Unremarkable.]
+â€˜
+AXILLARY:  [Unremarkable.]
+
+OSSEOUS STRUCTURES:   [Unremarkable.]
+
+
+ABDOMEN/PELVIS  FINDINGS:
+
+
+LIVER:  [Unremarkable.]
+
+GALLBLADDER:  [Unremarkable.]
+
+SPLEEN:  [Unremarkable.] 
+
+PANCREAS:  [Unremarkable.]
+
+Adrenal Glands:  [Unremarkable.]
+
+Kidneys/Bladder:  [Unremarkable.]
+
+PELVIC structure:  [Unremarkable.]
+
+BOWEL:  [Unremarkable.]
+
+ABDOMINAL WALL/MESENTERY:  [Unremarkable.]
+
+AORTA and VASCULARITY:  [Unremarkable.]
+
+OSSEOUS:  [Unremarkable.]
+ 
+IMPRESSION CHEST, ABDOMEN, and PELVIS:
+
+ [Unremarkable.]
+
+
+
+Prompt
+ USE THE INCLUDED TEMPLATE ONLY.
+
+
+1. put the input in the appropriate findings sections in the included template marked by []
+
+2. Any measurements in the findings section only.
+
+3.  Summarize the impression   With only pertinent positives and pertinent negatives without adding measurements on findings.
+
+4. Move impression statement above the findings statement. 
+
+5. include DLP if given in the input and placed under contrast field as DLP (mGy-cm) : []
+
+

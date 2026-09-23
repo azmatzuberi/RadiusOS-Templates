@@ -1,0 +1,69 @@
+﻿Content
+
+EXAM: CT SINUS [with/without] contrast
+
+TECHNIQUE: CT maxillofacial was performed in usual fashion.  Coronal and sagittal reformats were obtained from the axial data set.
+
+DLP (mGy-cm): []
+
+CONTRAST: None.
+
+COMPARISON: None.
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+OSTEOMEATAL COMPLEX: [Unremarkable.]
+
+CRIBRIFORM PLATE: [Unremarkable.]
+
+SEPTUM: [Unremarkable.]
+
+MASTOID: [Unremarkable.]
+
+ORBITS: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+IMPRESSION:
+
+[Unremarkable.]
+
+----- S-SITE STYLE: lines found only in this site's version — delete this block if not needed -----
+
+INDICATION:   [].
+
+COMPARISON:  [None available.]
+
+TECHNIQUE: CT scan of the sinus was performed without IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]
+
+Prompt
+
+1. USE THE TEMPLATE FOR GUIDANCE AND FILL IN SECTIONS OF  MARKED BY BRACKETS only. IF NO FINDINGS MATCHING THE FIELDS, PUT "UNREMARKABLE" IN THE BRACKET AREA.
+
+2. include DLP if given in the input and placed under contrast field.
+
+3. Put findings/input data and modify the included template.   Stay with the template format and style.
+
+4. Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+5. Add clinical indication if given in input in the INDICATION section.
+
+6. Add COMPARISON study if given in input in the Comparison section.
+
+7. Use double line spacing.
+
+8. Include statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]."
+
+9. Do not add word history, use indication:
+
+10. If this is included, add to technique and do not remove:  "Venipuncture was performed and IV access was obtained. Prior to contrast administration, blood was drawn from the IV port for I-STAT analysis to monitor renal function due to the patient's kidney disease or diabetes requiring medication and absence of recent lab studies. I-STAT: Cr: [] mg/dL; calculated GFR [] mL/min."
+
+11. Don't add postsurgical changes or hardware or non-pertinent findings to the impression.
+
+12. Do not use "EXAM" as title. Use "INDICATION"  as detailed in template. Adhere to the template.

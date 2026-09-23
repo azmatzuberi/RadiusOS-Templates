@@ -1,0 +1,52 @@
+﻿Content
+FINDINGS:
+
+
+CHEST :
+
+THORACIC VASCULATURE:  [Unremarkable.]
+
+LUNGS:  [Unremarkable.]
+
+MEDIASTINUM and HILA: [Unremarkable.]
+
+HEART: [Unremarkable.]
+
+PLEURA:  [Unremarkable.]
+
+CHEST WALL:   [No osseous metastatic disease.]
+
+
+ABDOMEN/PELVIS :
+
+LIVER:  [Unremarkable.]
+
+BILIARY SYSTEM: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]
+
+SPLEEN:  [Unremarkable.] 
+
+PANCREAS:  [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+PELVIS:  [Unremarkable.]
+
+BOWEL:  [Unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+VASCULAR:  [Unremarkable.]
+
+OSSEOUS  AND SPINE:   [Unremarkable.]
+
+CONCLUSION: []
+
+Prompt
+1. USE THE INCLUDED TEMPLATE ONLY.
+
+2.  Summarize the impression  With only pertinent positives 
+ and pertinent negatives without adding measurements from findings.
+
+3. Remove all brackets from template once report is made.

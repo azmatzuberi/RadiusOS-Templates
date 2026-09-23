@@ -1,0 +1,25 @@
+﻿Content
+
+EXAM:  CT Head Stroke Protocol
+
+HISTORY:  [L sided paralysis, aphasia]
+
+TECHNIQUE: Axial 3 mm images through the brain were obtained without intravenous contrast with a Philips 64 slice CT scanner.
+
+CONTRAST: NONE
+
+FINDINGS:
+
+BRAIN: [The ventricles, sulci and gyri are within normal limits. There is no mass effect. There is no midline shift.]
+
+SINUSES: [Visualized sinuses are clear.]
+
+CALVARIUM: [The skull base, calvarium and surrounding musculature are within normal limits. The mastoid air cells are clear.]
+
+IMPRESSION:
+
+No acute intracranial process by unenhanced technique.  No intracranial bleed.
+
+Prompt
+
+1. if comparison exam given, enter date in COMPARISON: field.

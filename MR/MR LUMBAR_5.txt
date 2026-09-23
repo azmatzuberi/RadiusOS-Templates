@@ -1,0 +1,43 @@
+﻿Content
+PROCEDURE: MR L Spine wo Con
+
+HISTORY:  Back pain
+
+COMPARISON: None
+
+TECHNIQUE: Multiplanar multisequence MRI imaging of the lumbar spine was performed.
+
+CONTRAST:  No IV contrast was administered. 
+
+FINDINGS: 
+
+ALIGNMENT: [Unremarkable.]
+
+BONE MARROW: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+For counting purposes: There is the assumption that there are 5 non-rib-bearing lumbar vertebral bodies.
+
+Level by Level:
+
+L1-L2 level:  [Unremarkable.]
+
+L2-L3 level:  [Unremarkable.]
+
+L3-L4 level: [Unremarkable.]
+
+L4-L5 level:  [Unremarkable.]
+
+L5-S1 level: [Unremarkable.]
+
+IMPRESSION:
+
+
+
+
+
+Prompt
+Put spine level by level details in order and do not include bullets or - in front.
+
+

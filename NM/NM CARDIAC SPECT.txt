@@ -1,0 +1,59 @@
+﻿Content
+TWO-DAY GATED CARDIAC SPECT IMAGING REPORT
+
+Date and Time: 9/11/2025 3:19 PM
+
+EXAM DATE: 
+
+MYOCARDIAL PERFUSION REPORT
+
+INDICATION FOR TEST:  To exclude     coronary artery disease in a patient    
+
+BODY SIZE:  
+Height (inches):        Weight (lbs):    
+
+IMAGING PROTOCOL
+PERFUSION IMAGING:     
+RADIOPHARMACEUTICAL: Technetium-99m Sestamibi
+REST DOSE:     mCi    STRESS DOSE:      mCi
+LEXISCAN DOSE:  0.4 mg of Lexiscan given intravenously over a 1-minute interval followed at approximately 2 minutes by 75 mg of aminophylline intravenously. 
+CNMT:  DD
+
+STRESS PROTOCOL
+TREADMILL PROTOCOL:     
+
+EXERCISE PERFORMANCE DATA
+EXERCISE TIME:     
+HR (MAX):      b/m
+BP (MAX):     
+
+MYOCARDIAL PERFUSION FINDINGS
+ANTERIOR:  Normal
+INFERIOR:  Normal
+LATERAL:  Normal  
+SEPTAL:  Normal
+APICAL:  Normal  
+POSTEROBASAL:  Normal
+COMMENTS:  SPECT imaging reveals    .
+
+LEFT VENTRICULAR WALL MOTION
+ANTERIOR:  Normal
+INFERIOR:  Normal
+LATERAL:  Normal  
+SEPTAL:  Normal
+APICAL:  Normal  
+POSTEROBASAL:  Normal
+
+OTHER FINDINGS
+EJECTION FRACTION:     %.    LV SIZE:  Normal
+
+IMPRESSION
+1.  This is a myocardial perfusion imaging study for evidence of reversible ischemia. 
+2.  SPECT imaging reveals    
+3.  The left ventricle is    , and there     evidence for transient cavity dilatation during stress.  Gated wall motion analysis reveals normal regional wall motion with an ejection fraction of approximately    %.  Normal systolic thickening is noted. 
+4.     
+5.  This study is consistent with a     probability for angiographically significant coronary artery disease.
+
+
+Prompt
+

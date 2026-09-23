@@ -1,0 +1,37 @@
+﻿Content
+
+EXAM: CT ORBITS [with/without] contrast
+
+CT Orbits [with or without] Intravenous Contrast.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+
+Axial computed tomography images of the orbits [with or without]  intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative reconstruction.
+
+CONTRAST:
+
+[With and without];
+
+COMPARISON:
+
+[None provided.]
+
+FINDINGS:
+
+ORBITS: [Unremarkable. No retrobulbar hematoma. No post-septal fat stranding or fluid.]
+
+BONES: [No acute fracture or focal osseous lesion. No periosteal reaction.]
+
+SINUSES: [No sinus air-fluid level as visualized.]
+
+SOFT TISSUES: [No soft tissue gas. No radiopaque foreign body.]
+
+IMPRESSION:
+
+1. [No acute orbital abnormalities.]
+
+Prompt
+
+1. include DLP in mGy-cm if given in the input and placed under contrast field.

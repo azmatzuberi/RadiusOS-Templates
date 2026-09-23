@@ -1,0 +1,55 @@
+﻿Content
+INDICATION:  [ ]  .
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Scans were obtained through the thorax without IV contrast, to include contiguous axial images with bone and soft tissue algorithm. Thin slice axial reformat and coronal reformat images were included. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+FINDINGS:
+
+Pulmonary parenchyma:  [No consolidation. No emphysema.]
+
+Airways: [The central airways are patent].
+
+Pleural space: [There is no pleural effusion.]
+
+Lymph nodes: [No enlarged mediastinal, hilar or axillary lymph node.]
+
+Mediastinum: [No lesion.]
+
+Heart:  No cardiomegaly. [ No significant pericardial effusion.  No significant coronary artery calcifications.]
+
+Great vessels:  [No aortic aneurysm. The pulmonary arteries are of normal caliber.]
+
+Skeletal structures and chest wall: [No destructive osseous lesion.]
+
+Upper abdomen: [No significant finding.]
+
+IMPRESSION: 
+
+[Noncontrast CT of the chest is within normal limits].
+
+LungRADS Assessment Categories Release date: 2022
+
+   
+
+
+DISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist's interpretation to assess the clinical significance of any detected findings.
+
+Prompt
+ 
+1.Modify the template data with the input data given.  
+
+2. If clincal history provided. Add to indication section.
+
+3. include sentences in impression if given. 
+
+4. Use single line spacing.
+
+5. Do not add "EXAM" as title and use "INDICATION" as specified in temlate.
+
+6. Include the statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0"  as mentioned in template.
+
+7. Use double line spacing.

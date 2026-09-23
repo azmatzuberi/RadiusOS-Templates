@@ -1,0 +1,51 @@
+﻿Content
+
+EXAM: CT LUMBAR SPINE [with/without] contrast
+
+HISTORY: []
+
+COMPARISON: [None]
+
+TECHNIQUE: Axial images through the lumbar spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.
+
+DLP (mGy-cm): []
+
+COMPARISON:  None
+
+FINDINGS:
+
+ALIGNMENT: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+LEVEL BY LEVEL:
+
+L1-L2 LEVEL: [Unremarkable.]
+
+L2-L3 LEVEL: [Unremarkable.]
+
+L3-L4 LEVEL: [Unremarkable.]
+
+L4-L5 LEVEL: [Unremarkable.]
+
+L5-S1 LEVEL: [Unremarkable.]
+
+IMPRESSION:
+
+Prompt
+
+1. put each sentence in the appropriate level in the template. Don't make a large paragraph.
+
+2. use the input field into the template fields and remove brackets.
+
+3. Impression should summarized above without repeating the same thing.  Summarized above findings in 1-2 sentences
+
+4. include DLP if given in the input and placed under contrast field with units of mGy-cm.
+
+5. move impression statement in above the finding statement.
+
+6. Do not include EXAM:  in generated report  <<CONFLICT: EXAM header — keep one>>  <<CONFLICT: EXAM header — keep one>>
+
+7. Add COMPARISON:  in generated report if a prior study is given. Otherwise COMPARISON: None

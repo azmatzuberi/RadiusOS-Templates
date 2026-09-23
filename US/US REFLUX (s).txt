@@ -1,0 +1,56 @@
+﻿Content
+INDICATION:  Venous insufficiency. Varicose veins.
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Duplex scanning of the lower extremities was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. Venous insufficiency exam was then performed in the standing position.
+
+FINDINGS:  The deep veins of the lower extremities were evaluated from the level of the common femoral veins proximally, through the level of the posterior tibial veins distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis. Greater saphenous veins are patent.  
+
+Right GSV:       
+          
+Evidence of reflux standing:  Yes
+
+Diameter:   
+                                                                                              
+Zone 1:   [] mm                                                                                 
+Zone 2:   [] mm                                                                                     
+Zone 3:   [] mm                                                                                     
+Zone 4:   [] mm                                                                                       
+Zone 5:   [] mm
+
+Left GSV:       
+          
+Evidence of reflux standing:  Yes
+
+Diameter:   
+                                                                                              
+Zone 1:   [] mm                                                                                 
+Zone 2:   [] mm                                                                                     
+Zone 3:   [] mm                                                                                       
+Zone 4:   [] mm                                                                                      
+Zone 5:   [] mm  
+                                                                                     
+Right LSV:                                               
+
+Diameter:                                                                                                    
+
+Zone A:  [] mm                                                                                        
+Zone B:  [] mm                                                                                        
+
+Left LSV:                                               
+
+Diameter:                                                                                                    
+
+ZZone A:  [] mm                                                                                        
+Zone B:  [] mm  
+                                                                                       
+IMPRESSION:  
+
+
+1. [No evidence of  deep vein thrombosis in the lower extremities. ]
+
+2. [Reflux as described.  ]
+
+Prompt
+stick to the template format and style. Dont add exam or history. Use INDICATION as shown in template. 

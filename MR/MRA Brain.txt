@@ -1,0 +1,33 @@
+﻿Content
+EXAM: MR Angiography Head 
+HISTORY:
+TECHNIQUE:  Magnetic resonance angiography images of the head [with or without] intravenous contrast. Three-dimensional MIP reformations performed.
+CONTRAST:
+[With or without];
+COMPARISON:
+None provided.
+FINDINGS:
+INTERNAL CAROTID ARTERIES:
+No significant stenosis.
+No aneurysm or AVM.
+ANTERIOR CEREBRAL ARTERIES:
+No significant stenosis.
+No aneurysm or AVM.
+MIDDLE CEREBRAL ARTERIES:
+No significant stenosis.
+No aneurysm or AVM.
+POSTERIOR CEREBRAL ARTERIES:
+No significant stenosis.
+No aneurysm or AVM.
+BASILAR ARTERY:
+No significant stenosis.
+No aneurysm or AVM.
+VERTEBRAL ARTERIES:
+No significant stenosis.
+No aneurysm or AVM.
+IMPRESSION:
+No evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head.
+
+
+Prompt
+

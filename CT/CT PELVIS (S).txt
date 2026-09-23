@@ -1,0 +1,37 @@
+﻿Content
+INDICATION:  []
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Scans were obtained through the pelvis following administration of oral contrast plus before and after IV contrast infusion.  Thin slice axial reformat and coronal reformat images were obtained.  CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+CONTRAST:  [100 mL of Optiray (350 mg/mL) single-use vial was administered IV with 0 mL discarded. ]
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]
+
+FINDINGS:
+
+Abdominal aorta and iliofemoral vessels:  [No aneurysm.]
+
+Lymph nodes:  [No adenopathy.]
+
+Bowel and mesentery:  [No  bowel wall thickening or obstruction. ]
+
+Peritoneal cavity:  [No ascites.]
+
+Pelvic structures:  [No significant findings.]
+
+Bladder:  [Unremarkable.] [No mass.] [No stones.]
+
+Abdominal wall:  [No masses or hernias.]
+
+Skeletal structures:  [No significant findings.]
+
+IMPRESSION:  
+
+[CT of the pelvis is within normal limits.]
+
+Prompt
+1. Use INDICATION for title and not EXAM:
+
+2. Adhere to the style and format.  Dont just make one paragraph. Use the  organ based outline format.

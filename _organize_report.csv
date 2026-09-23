@@ -1,0 +1,365 @@
+Folder,New name,Original name,Duplicates removed,Duplicate file names
+CT,CT ABDOMEN  WITHOUT (S).txt,CT ABDOMEN  WITHOUT (S).txt,0,
+CT,CT ABDOMEN (S).txt,CT ABDOMEN (S).txt,0,
+CT,CT ABDOMEN WO.txt,ABDOMEN WO.txt,1,ABDOMEN WO_4.txt
+CT,CT ABDOMEN WO_2.txt,ABDOMEN WO_2.txt,1,ABDOMEN WO_3.txt
+CT,CT ABDOMEN WO_5.txt,ABDOMEN WO_5.txt,0,
+CT,CT ABDOMEN WO_6.txt,ABDOMEN WO_6.txt,0,
+CT,CT ABDOMEN.txt,CT ABDOMEN.txt,1,CT ABDOMEN ONLY.txt
+CT,CT ABDOMEN_18.txt,ABDOMEN_18.txt,0,
+CT,CT AbdPelvis with.txt,AbdPelvis with.txt,0,
+CT,CT AbdPelvis with_2.txt,AbdPelvis with_2.txt,0,
+CT,CT AbdPelvis with_3.txt,AbdPelvis with_3.txt,0,
+CT,CT AbdPelvis.txt,AbdPelvis.txt,1,AbdPelvis_2.txt
+CT,CT AbdPelvis_3.txt,AbdPelvis_3.txt,0,
+CT,CT AbdPelvis_4.txt,AbdPelvis_4.txt,0,
+CT,CT BONE DENSITY CT.txt,BONE DENSITY CT.txt,0,
+CT,CT BONE DENSITY_2.txt,BONE DENSITY_2.txt,1,BONE DENSITY_4.txt
+CT,CT CALCIUM(S).txt,CALCIUM(S).txt,0,
+CT,CT CALCIUM.txt,CALCIUM.txt,0,
+CT,CT Cervical (S).txt,CT Cervical (S).txt,0,
+CT,CT CERVICAL_12.txt,CERVICAL_12.txt,0,
+CT,CT CERVICAL_15.txt,CERVICAL_15.txt,0,
+CT,CT CERVICAL_4.txt,CERVICAL_4.txt,0,
+CT,CT CERVICAL_6.txt,CERVICAL_6.txt,1,CERVICAL_8.txt
+CT,CT CERVICAL_7.txt,CERVICAL_7.txt,0,
+CT,CT CHEST (S).txt,CT CHEST (S).txt,0,
+CT,CT CHEST AND ABDOMEN.txt,CT CHEST AND ABDOMEN.txt,0,
+CT,CT CHEST HIRES_3.txt,CHEST HIRES_3.txt,0,
+CT,CT CHEST LOW-DOSE.txt,CHEST LOW-DOSE.txt,1,CHEST LOW-DOSE_2.txt
+CT,CT CHEST LOW-DOSE_3.txt,CHEST LOW-DOSE_3.txt,0,
+CT,CT CHEST W_CON.txt,CHEST W_CON.txt,0,
+CT,CT CHEST W_CON_2.txt,CHEST W_CON_2.txt,0,
+CT,CT CHEST W_CON_3.txt,CHEST W_CON_3.txt,1,CHEST W_CON_4.txt
+CT,CT CHEST W_CON_5.txt,CHEST W_CON_5.txt,1,CHEST W_CON_6.txt
+CT,CT CHEST WITH (S).txt,CT CHEST WITH (S).txt,0,
+CT,CT CHEST WO.txt,CHEST WO.txt,4,CHEST HIRES.txt; CHEST HIRES_2.txt; CHEST HIRES_4.txt; CHEST WO_4.txt
+CT,CT CHEST WO_2.txt,CHEST WO_2.txt,0,
+CT,CT CHEST WO_3.txt,CHEST WO_3.txt,0,
+CT,CT CHEST WO_5.txt,CHEST WO_5.txt,0,
+CT,CT enterography.txt,CT enterography.txt,0,
+CT,CT EXTREMITY (m).txt,EXTREMITY (m).txt,2,EXTREMITY_2.txt; Extremity (M)_2.txt
+CT,CT EXTREMITY.txt,EXTREMITY.txt,2,EXTREMITY_4.txt; EXTREMITY_6.txt
+CT,CT EXTREMITY_5.txt,EXTREMITY_5.txt,0,
+CT,CT HEAD (S).txt,CT HEAD (S).txt,0,
+CT,CT HEAD.txt,HEAD.txt,0,
+CT,CT HEAD_2.txt,HEAD_2.txt,2,HEAD_4.txt; HEAD_6.txt
+CT,CT HEAD_3.txt,HEAD_3.txt,0,
+CT,CT HEAD_5.txt,HEAD_5.txt,0,
+CT,CT HEAD_7.txt,HEAD_7.txt,0,
+CT,CT HIP.txt,HIP.txt,2,HIP_7.txt; HIP_9.txt
+CT,CT HIRES (S).txt,CT HIRES (S).txt,0,
+CT,CT LOW DOSE (S).txt,CT LOW DOSE (S).txt,0,
+CT,CT LUMBAR.txt,LUMBAR.txt,1,LUMBAR_8.txt
+CT,CT LUMBAR_16.txt,LUMBAR_16.txt,0,
+CT,CT LUMBAR_3.txt,LUMBAR_3.txt,1,LUMBAR_13.txt
+CT,CT LUMBAR_6.txt,LUMBAR_6.txt,0,
+CT,CT MAX(S).txt,MAX(S).txt,0,
+CT,CT MAX.txt,MAX.txt,2,MAX_3.txt; MAX_5.txt
+CT,CT MAX_2.txt,MAX_2.txt,2,MAX_4.txt; MAX_6.txt
+CT,CT NECK (s).txt,CT NECK (s).txt,1,CT NECK (s)_3.txt
+CT,CT NECK (s)_2.txt,CT NECK (s)_2.txt,1,CT NECK (s)_5.txt
+CT,CT NECK.txt,CT NECK.txt,0,
+CT,CT NECK_2 v2.txt,NECK_2.txt,2,NECK_7.txt; NECK_8.txt
+CT,CT NECK_2.txt,CT NECK_2.txt,1,CT NECK (s)_4.txt
+CT,CT ORBITS.txt,ORBITS.txt,1,ORBITS_4.txt
+CT,CT ORBITS_6.txt,ORBITS_6.txt,0,
+CT,CT PAN SCAN v2.txt,PAN SCAN.txt,2,PAN SCAN_4.txt; PAN SCAN_7.txt
+CT,CT PAN SCAN.txt,CT PAN SCAN.txt,0,
+CT,CT PAN SCAN_2.txt,PAN SCAN_2.txt,0,
+CT,CT PAN SCAN_3.txt,PAN SCAN_3.txt,0,
+CT,CT PAN SCAN_5.txt,PAN SCAN_5.txt,0,
+CT,CT PAN SCAN_6.txt,PAN SCAN_6.txt,0,
+CT,CT PE (s).txt,CT PE (s).txt,0,
+CT,CT PELVIS (S).txt,PELVIS (S).txt,0,
+CT,CT PELVIS.txt,CT PELVIS.txt,1,PELVIS_15.txt
+CT,CT PELVIS_2.txt,PELVIS_2.txt,2,PELVIS_11.txt; PELVIS_20.txt
+CT,CT SINUS.txt,SINUS.txt,1,SINUS_3.txt
+CT,CT SINUS_4.txt,SINUS_4.txt,0,
+CT,CT temple.txt,CT temple.txt,0,
+CT,CT temporal bone.txt,CT temporal bone.txt,0,
+CT,CT TEMPORAL.txt,CT TEMPORAL.txt,2,CT TEMPORAL_2.txt; CT TEMPORAL_3.txt
+CT,CT THORACIC_2.txt,THORACIC_2.txt,4,THORACIC_11.txt; THORACIC_15.txt; THORACIC_17.txt; THORACIC_7.txt
+CT,CT THORACIC_6.txt,THORACIC_6.txt,0,
+CT,CT UROGRAM v2.txt,UROGRAM.txt,0,
+CT,CT UROGRAM.txt,CT UROGRAM.txt,0,
+CT,CTA  AbdPel.txt,CTA  AbdPel.txt,3,CTA  AbdPel_2.txt; CTA  AbdPel_3.txt; CTA  AbdPel_5.txt
+CT,CTA  AbdPel_4.txt,CTA  AbdPel_4.txt,0,
+CT,CTA Abdomen and pelvis.txt,CTA Abdomen and pelvis.txt,0,
+CT,CTA AP (S).txt,CTA AP (S).txt,0,
+CT,CTA AP (S)_2.txt,CTA AP (S)_2.txt,0,
+CT,CTA Chest and Abdomen.txt,CTA Chest and Abdomen.txt,0,
+CT,CTA Chest and Abdomen_2.txt,CTA Chest and Abdomen_2.txt,0,
+CT,CTA HEAD & NECK.txt,CTA HEAD & NECK.txt,1,CTA HEAD & NECK_3.txt
+CT,CTA HEAD & NECK_2.txt,CTA HEAD & NECK_2.txt,2,CTA HEAD & NECK_4.txt; CTA HEAD & NECK_5.txt
+CT,CTA HEAD & NECK_6.txt,CTA HEAD & NECK_6.txt,0,
+CT,CTA HEAD.txt,CTA HEAD.txt,2,CTA HEAD_2.txt; CTA HEAD_3.txt
+CT,CTA NECK (m).txt,CTA NECK (m).txt,1,CTA NECK_2.txt
+CT,CTA NECK (S).txt,CTA NECK (S).txt,0,
+CT,CTA NECK.txt,CTA NECK.txt,2,CTA NECK_3.txt; CTA NECK_4.txt
+CT,CTA PAN SCAN.txt,CTA PAN SCAN.txt,2,CTA PAN SCAN_2.txt; CTA PAN SCAN_4.txt
+CT,CTA PAN SCAN_3.txt,CTA PAN SCAN_3.txt,0,
+CT,CTA PE (m).txt,CTA PE (m).txt,1,CTA PE_4.txt
+CT,CTA PE.txt,CTA PE.txt,2,CTA PE_3.txt; CTA PE_5.txt
+CT,CTA PE_2.txt,CTA PE_2.txt,0,
+CT,CTA PE_6.txt,CTA PE_6.txt,0,
+CT,CTA Runoff (s).txt,CTA Runoff (s).txt,0,
+CT,CTA Runoff.txt,CTA Runoff.txt,2,CTA Runoff (s)_2.txt; CTA Runoff_4.txt
+CT,CTA Runoff_2.txt,CTA Runoff_2.txt,0,
+CT,CTA Runoff_3.txt,CTA Runoff_3.txt,0,
+CT,CTA Runoff_5.txt,CTA Runoff_5.txt,0,
+CT,CTAP (ENTERO).txt,CTAP (ENTERO).txt,0,
+CT,CTAP (S) WITHOUT.txt,CTAP (S) WITHOUT.txt,0,
+CT,CTAP (S) WITHOUT_2.txt,CTAP (S) WITHOUT_2.txt,0,
+CT,CTAP (S).txt,CTAP (S).txt,0,
+CT,CTAP WITH (M).txt,CTAP WITH (M).txt,0,
+CT,CTAP WITH.txt,CTAP WITH.txt,0,
+CT,CTAP wo.txt,CTAP wo.txt,2,CTAP wo_2.txt; CTAP wo_3.txt
+CT,CTAP(P).txt,CTAP(P).txt,0,
+CT,CTAP.txt,CTAP.txt,0,
+CT,CTAP_2.txt,CTAP_2.txt,1,CTAP_3.txt
+CT,CTAPW.txt,CTAPW.txt,0,
+CT,CTAPWO.txt,CTAPWO.txt,0,
+CT,CTCH low dose (M).txt,CTCH low dose (M).txt,2,CTCH low dose (M)_2.txt; CTCH low dose_2.txt
+CT,CTCH low dose.txt,CTCH low dose.txt,0,
+CT,CTLD.txt,CTLD.txt,0,
+CT,CTV AP (S).txt,CTV AP (S).txt,0,
+DEXA,DEXA Bone Density.txt,Bone Density.txt,3,Bone Density XR.txt; Bone Density XR_2.txt; Bone Density_3.txt
+DEXA,DEXA.txt,DEXA.txt,0,
+Fluoro,Fluoro SBFT.txt,SBFT.txt,0,
+Fluoro,FLUORO.txt,FLUORO.txt,0,
+Fluoro,FLUORO_2.txt,FLUORO_2.txt,0,
+Fluoro,FLUORO_3.txt,FLUORO_3.txt,0,
+MR,MR ABDOMEN_4.txt,ABDOMEN_4.txt,1,ABDOMEN_12.txt
+MR,MR ABDOMEN_5.txt,ABDOMEN_5.txt,3,ABDOMEN_10.txt; ABDOMEN_17.txt; ABDOMEN_9.txt
+MR,MR ANKLE.txt,ANKLE.txt,5,ANKLE (m).txt; ANKLE (m)_2.txt; ANKLE_11.txt; ANKLE_6.txt; ANKLE_8.txt
+MR,MR Brain (M).txt,Brain (M).txt,0,
+MR,MR BRAIN.txt,BRAIN.txt,3,BRAIN_3.txt; BRAIN_4.txt; BRAIN_5.txt
+MR,MR Brain_2.txt,Brain_2.txt,0,
+MR,MR CERVICAL (m).txt,CERVICAL (m).txt,1,CERVICAL_16.txt
+MR,MR Cervical(p).txt,Cervical(p).txt,0,
+MR,MR CERVICAL_3.txt,CERVICAL_3.txt,3,CERVICAL_11.txt; CERVICAL_14.txt; CERVICAL_5.txt
+MR,MR ELBOW.txt,ELBOW.txt,1,ELBOW_4.txt
+MR,MR EXTREMITY_3.txt,EXTREMITY_3.txt,0,
+MR,MR FOOT.txt,FOOT.txt,1,FOOT_6.txt
+MR,MR HIPS.txt,HIPS.txt,4,HIPS_2.txt; HIPS_3.txt; HIPS_4.txt; HIPS_6.txt
+MR,MR HIPS_5.txt,HIPS_5.txt,0,
+MR,MR KNEE (M).txt,KNEE (M).txt,0,
+MR,MR KNEE.txt,KNEE.txt,3,KNEE_3.txt; KNEE_8.txt; KNEE_9.txt
+MR,MR KNEE_7.txt,KNEE_7.txt,0,
+MR,MR LUMBAR (M)_2.txt,LUMBAR (M)_2.txt,0,
+MR,MR Lumbar MRI (P).txt,Lumbar MRI (P).txt,0,
+MR,MR LUMBAR_4.txt,LUMBAR_4.txt,3,LUMBAR_11.txt; LUMBAR_14.txt; LUMBAR_7.txt
+MR,MR LUMBAR_5.txt,LUMBAR_5.txt,0,
+MR,MR NECT ST.txt,NECT ST.txt,1,NECK ST_2.txt
+MR,MR PELVIS_4.txt,PELVIS_4.txt,4,PELVIS_12.txt; PELVIS_19.txt; PELVIS_22.txt; PELVIS_23.txt
+MR,MR PELVIS_7.txt,PELVIS_7.txt,1,PELVIS_14.txt
+MR,MR SACRUM.txt,SACRUM.txt,0,
+MR,MR Shoulder (M).txt,Shoulder (M).txt,0,
+MR,MR Shoulder_11.txt,Shoulder_11.txt,0,
+MR,MR SHOULDER_2.txt,SHOULDER_2.txt,2,SHOULDER_7.txt; SHOULDER_9.txt
+MR,MR SHOULDER_6.txt,SHOULDER_6.txt,0,
+MR,MR THORACIC.txt,THORACIC.txt,4,THORACIC_13.txt; THORACIC_14.txt; THORACIC_18.txt; THORACIC_5.txt
+MR,MR THORACIC_4.txt,THORACIC_4.txt,1,THORACIC_9.txt
+MR,MR TMJ.txt,MR TMJ.txt,2,MR TMJ_2.txt; MR TMJ_3.txt
+MR,MR WRIST_2.txt,WRIST_2.txt,0,
+MR,MRA Brain.txt,MRA Brain.txt,1,MRA Brain_2.txt
+MR,MRV.txt,MRV.txt,1,MRV_2.txt
+NM,NM BONE SCAN.txt,BONE SCAN.txt,4,BONE SCAN_2.txt; BONE SCAN_3.txt; BONE SCAN_4.txt; BONE SCAN_5.txt
+NM,NM CARDIAC SPECT.txt,CARDIAC SPECT.txt,2,CARDIAC SPECT_2.txt; CARDIAC SPECT_3.txt
+NM,NM Gastric Empty.txt,Gastric Empty.txt,0,
+NM,NM PARATHYROID.txt,PARATHYROID.txt,0,
+Other,BLANK.txt,BLANK.txt,0,
+Other,blank_2.txt,blank_2.txt,1,blank_4.txt
+Other,blank_3.txt,blank_3.txt,0,
+Other,CONSULT.txt,CONSULT.txt,2,CONSULT_2.txt; CONSULT_3.txt
+Other,Consulting.txt,Consulting.txt,0,
+Other,FOOT_8.txt,FOOT_8.txt,0,
+Other,HEAD5.txt,HEAD5.txt,0,
+Other,test-15.txt,test-15.txt,2,modified-template.txt; scratch-template.txt
+Other,test-template.txt,test-template.txt,5,test-template_2.txt; test-template_3.txt; test-template_4.txt; test-template_5.txt; test-template_6.txt
+Other,test.txt,test.txt,0,
+US,US Abdomen (m).txt,Abdomen (m).txt,0,
+US,US Abdomen (m)_2.txt,Abdomen (m)_2.txt,0,
+US,US Abdomen (S) ELASTOGRAPHY.txt,Abdomen (S) ELASTOGRAPHY.txt,0,
+US,US Abdomen Complete.txt,Abdomen Complete.txt,0,
+US,US Abdomen Conplete.txt,Abdomen Conplete.txt,2,Abdomen Complete_2.txt; Abdomen Complete_3.txt
+US,US ABDOMEN RUQ (S).txt,ABDOMEN RUQ (S).txt,0,
+US,US ABDOMEN RUQ.txt,ABDOMEN RUQ.txt,2,ABDOMEN RUQ_6.txt; ABDOMEN RUQ_7.txt
+US,US Abdomen RUQ_2.txt,Abdomen RUQ_2.txt,1,Abdomen RUQ_5.txt
+US,US Abdomen RUQ_3.txt,Abdomen RUQ_3.txt,0,
+US,US ABDOMEN RUQ_4.txt,ABDOMEN RUQ_4.txt,0,
+US,US ABDOMEN RUQ_8.txt,ABDOMEN RUQ_8.txt,0,
+US,US abdomen w_doppler.txt,abdomen w_doppler.txt,0,
+US,US Abdomen.txt,Abdomen.txt,3,Abdomen_14.txt; Abdomen_3.txt; Abdomen_7.txt
+US,US Abdomen_8.txt,Abdomen_8.txt,0,
+US,US ABI (s) below knee.txt,ABI (s) below knee.txt,0,
+US,US ABI(S).txt,ABI(S).txt,0,
+US,US ABI(S)_2.txt,ABI(S)_2.txt,1,ABI(S)_3.txt
+US,US ABI.txt,ABI.txt,0,
+US,US AORTA (S).txt,AORTA (S).txt,1,AORTA (S)_2.txt
+US,US AORTA.txt,AORTA.txt,0,
+US,US AORTA_2.txt,AORTA_2.txt,3,AORTA_4.txt; AORTA_5.txt; AORTA_6.txt
+US,US AORTA_3.txt,AORTA_3.txt,2,AORTA_8.txt; AORTA_9.txt
+US,US AORTA_7.txt,AORTA_7.txt,0,
+US,US Appendix_RLQ.txt,Appendix_RLQ.txt,0,
+US,US ARTERIAL UE.txt,ARTERIAL UE.txt,1,ARTERIAL UE (S).txt
+US,US ARTERIAL.txt,ARTERIAL.txt,0,
+US,US ARTERIAL_2.txt,ARTERIAL_2.txt,1,ARTERIAL_4.txt
+US,US ARTERIAL_3.txt,ARTERIAL_3.txt,0,
+US,US BioPhysical(S).txt,BioPhysical(S).txt,0,
+US,US BIOPHYSICAL.txt,BIOPHYSICAL.txt,0,
+US,US BLADDER.txt,BLADDER.txt,3,BLADDER_2.txt; BLADDER_3.txt; BLADDER_4.txt
+US,US Carotids (S).txt,Carotids (S).txt,0,
+US,US CAROTIDS.txt,CAROTIDS.txt,0,
+US,US CAROTIDS_2.txt,CAROTIDS_2.txt,0,
+US,US Carotids_3.txt,Carotids_3.txt,0,
+US,US CAROTIDS_4.txt,CAROTIDS_4.txt,3,CAROTIDS_5.txt; CAROTIDS_6.txt; CAROTIDS_8.txt
+US,US Carotids_7.txt,Carotids_7.txt,0,
+US,US Carotids_9.txt,Carotids_9.txt,0,
+US,US DVT upper.txt,DVT upper.txt,2,DVT upper_2.txt; DVT upper_3.txt
+US,US DVT.txt,DVT.txt,0,
+US,US DVT_2.txt,DVT_2.txt,4,DVT_4.txt; DVT_5.txt; DVT_6.txt; DVT_7.txt
+US,US DVT_3.txt,DVT_3.txt,0,
+US,US LIVER.txt,LIVER.txt,0,
+US,US NECK (S).txt,NECK (S).txt,0,
+US,US NECK ST.txt,NECK ST.txt,0,
+US,US NECK.txt,NECK.txt,3,NECK_10.txt; NECK_4.txt; NECK_5.txt
+US,US NECK_6.txt,NECK_6.txt,0,
+US,US NECK_9.txt,NECK_9.txt,0,
+US,US OB (S).txt,OB (S).txt,0,
+US,US OB _ 14 Weeks (S).txt,OB _ 14 Weeks (S).txt,0,
+US,US OB _20 (M).txt,US OB _20 (M).txt,0,
+US,US OB Greater 14  (S).txt,OB Greater 14  (S).txt,1,OB Greater 14  (S)_3.txt
+US,US OB Greater 14  (S)_2.txt,OB Greater 14  (S)_2.txt,0,
+US,US OB Greater 14  (S)_4.txt,OB Greater 14  (S)_4.txt,0,
+US,US OB under 20 (M).txt,US OB &lt;20 (M).txt,0,
+US,US OB.txt,OB.txt,0,
+US,US OB2.txt,OB2.txt,2,OB2_2.txt; OB2_3.txt
+US,US PELVIS TAB.txt,PELVIS TAB.txt,2,PELVIS TAB_2.txt; PELVIS TAB_3.txt
+US,US PELVIS TV.txt,PELVIS TV.txt,0,
+US,US PELVIS(M).txt,PELVIS(M).txt,0,
+US,US PELVIS_10.txt,PELVIS_10.txt,0,
+US,US PELVIS_13.txt,PELVIS_13.txt,0,
+US,US PELVIS_24.txt,PELVIS_24.txt,1,PELVIS (S)_2.txt
+US,US PELVIS_3.txt,PELVIS_3.txt,2,PELVIS_21.txt; PELVIS_9.txt
+US,US PELVIS_5.txt,PELVIS_5.txt,0,
+US,US PROSTATE.txt,PROSTATE.txt,1,PROSTATE_2.txt
+US,US REFLUX (s).txt,REFLUX (s).txt,1,REFLUX (s)_2.txt
+US,US Renal w_Doppler.txt,Renal w_Doppler.txt,0,
+US,US RENAL.txt,RENAL.txt,4,RENAL2.txt; RENAL_7.txt; RENAL_8.txt; copy-template.txt
+US,US RENAL_2.txt,RENAL_2.txt,0,
+US,US RENAL_3.txt,RENAL_3.txt,2,RENAL_4.txt; RENAL_5.txt
+US,US RENAL_6.txt,RENAL_6.txt,0,
+US,US RENAL_9.txt,RENAL_9.txt,0,
+US,US SCROTUM.txt,SCROTUM.txt,0,
+US,US SCROTUM_2.txt,SCROTUM_2.txt,5,SCROTUM_6.txt; SCROTUM_7.txt; Scrotum_3.txt; Scrotum_5.txt; Scrotum_8.txt
+US,US SCROTUM_4.txt,SCROTUM_4.txt,0,
+US,US SUPERFICAL.txt,SUPERFICAL.txt,2,SUPERFICAL_6.txt; SUPERFICAL_7.txt
+US,US SUPERFICAL_2.txt,SUPERFICAL_2.txt,2,SUPERFICAL_3.txt; SUPERFICAL_5.txt
+US,US SUPERFICAL_4.txt,SUPERFICAL_4.txt,0,
+US,US Superficial.txt,Superficial.txt,0,
+US,US TESTICULAR.txt,TESTICULAR.txt,1,TESTICULAR (S).txt
+US,US Thyroid (S).txt,Thyroid (S).txt,1,Thyroid_8.txt
+US,US THYROID.txt,THYROID.txt,1,THYROID_7.txt
+US,US THYROID_2.txt,THYROID_2.txt,0,
+US,US THYROID_3.txt,THYROID_3.txt,1,THYROID_5.txt
+US,US THYROID_4.txt,THYROID_4.txt,0,
+US,US Thyroid_6.txt,Thyroid_6.txt,0,
+US,US Upper DVT.txt,Upper DVT.txt,0,
+US,US Venous Reflux(s).txt,Venous Reflux(s).txt,0,
+XR,XR Abdomen_13.txt,Abdomen_13.txt,0,
+XR,XR Abdomen_16.txt,Abdomen_16.txt,0,
+XR,XR Abdomen_2.txt,Abdomen_2.txt,3,Abdomen_11.txt; Abdomen_15.txt; Abdomen_6.txt
+XR,XR ANKLE_2.txt,ANKLE_2.txt,3,ANKLE_10.txt; ANKLE_4.txt; ANKLE_7.txt
+XR,XR ANKLE_5.txt,ANKLE_5.txt,0,
+XR,XR ANKLE_9.txt,ANKLE_9.txt,1,ankle (m)_3.txt
+XR,XR Bone Survey.txt,Bone Survey.txt,0,
+XR,XR Calcaneous.txt,Calcaneous.txt,0,
+XR,XR Calcaneus.txt,Calcaneus.txt,0,
+XR,XR Cervical spine.txt,Cervical spine.txt,0,
+XR,XR CERVICAL.txt,CERVICAL.txt,3,CERVICAL_13.txt; CERVICAL_17.txt; CERVICAL_2.txt
+XR,XR CERVICAL_9.txt,CERVICAL_9.txt,1,CERVICAL_10.txt
+XR,XR Chest (2V).txt,Chest (2V).txt,0,
+XR,XR CHEST portable.txt,CHEST portable.txt,0,
+XR,XR CHEST portable_2.txt,CHEST portable_2.txt,3,CHEST portable_3.txt; CHEST portable_5.txt; CHEST portable_7.txt
+XR,XR CHEST portable_4.txt,CHEST portable_4.txt,0,
+XR,XR CHEST portable_6.txt,CHEST portable_6.txt,0,
+XR,XR CHEST single.txt,CHEST single.txt,2,CHEST single_2.txt; CHEST single_4.txt
+XR,XR Chest Single_3.txt,Chest Single_3.txt,0,
+XR,XR Chest+Abdomen.txt,Chest+Abdomen.txt,1,Chest+Abdomen_2.txt
+XR,XR CHEST.txt,CHEST.txt,3,CHEST_3.txt; CHEST_6.txt; CHEST_7.txt
+XR,XR CHEST_2.txt,CHEST_2.txt,0,
+XR,XR CHEST_4.txt,CHEST_4.txt,0,
+XR,XR CHEST_5.txt,CHEST_5.txt,0,
+XR,XR Clavicle (m).txt,Clavicle (m).txt,0,
+XR,XR Clavicle.txt,Clavicle.txt,2,Clavicle_3.txt; Clavicle_5.txt
+XR,XR Clavicle_2.txt,Clavicle_2.txt,1,Clavicle_4.txt
+XR,XR DIGIT.txt,DIGIT.txt,5,DIGIT_2.txt; DIGIT_3.txt; DIGIT_4.txt; DIGIT_5.txt; DIGIT_7.txt
+XR,XR ELBOW(s).txt,ELBOW(s).txt,0,
+XR,XR ELBOW_2.txt,ELBOW_2.txt,3,ELBOW_6.txt; ELBOW_7.txt; ELBOW_8.txt
+XR,XR ELBOW_3.txt,ELBOW_3.txt,0,
+XR,XR ELBOW_5.txt,ELBOW_5.txt,0,
+XR,XR FEMUR.txt,FEMUR.txt,2,FEMUR_2.txt; FEMUR_4.txt
+XR,XR FOOT (m).txt,FOOT (m).txt,6,FOOT_10.txt; FOOT_2.txt; FOOT_4.txt; FOOT_5.txt; FOOT_7.txt; FOOT_9.txt
+XR,XR Foot_3.txt,Foot_3.txt,0,
+XR,XR FOREARM.txt,FOREARM.txt,0,
+XR,XR FOREARM_2.txt,FOREARM_2.txt,1,FOREARM_3.txt
+XR,XR GENERAL EXTREMITY.txt,GENERAL EXTREMITY.txt,0,
+XR,XR hand (m).txt,hand (m).txt,2,HAND_6.txt; hand_4.txt
+XR,XR hand.txt,hand.txt,2,hand_2.txt; hand_5.txt
+XR,XR Hand_3.txt,Hand_3.txt,0,
+XR,XR hand_7.txt,hand_7.txt,0,
+XR,XR HIP_2.txt,HIP_2.txt,0,
+XR,XR HIP_3.txt,HIP_3.txt,2,HIP_10.txt; HIP_6.txt
+XR,XR HIP_4.txt,HIP_4.txt,0,
+XR,XR HIP_5.txt,HIP_5.txt,1,HIP_8.txt
+XR,XR HUMERUS.txt,HUMERUS.txt,2,HUMERUS_2.txt; HUMERUS_3.txt
+XR,XR HUMERUS_4.txt,HUMERUS_4.txt,0,
+XR,XR humerus_5.txt,humerus_5.txt,0,
+XR,XR KNEE(D).txt,KNEE(D).txt,2,KNEE(D)_2.txt; KNEE(D)_3.txt
+XR,XR KNEE(M).txt,KNEE(M).txt,0,
+XR,XR KNEE_2.txt,KNEE_2.txt,0,
+XR,XR KNEE_4.txt,KNEE_4.txt,1,KNEE_6.txt
+XR,XR KNEE_5.txt,KNEE_5.txt,0,
+XR,XR KUB.txt,KUB.txt,1,KUB_3.txt
+XR,XR LS (S) DJD.txt,LS (S) DJD.txt,0,
+XR,XR LS Simon.txt,LS Simon.txt,0,
+XR,XR Lumbar (m).txt,Lumbar (m).txt,0,
+XR,XR Lumbar 2-3V.txt,Lumbar 2-3V.txt,0,
+XR,XR Lumbar 6+ views.txt,Lumbar 6+ views.txt,0,
+XR,XR Lumbar_10.txt,Lumbar_10.txt,0,
+XR,XR LUMBAR_2.txt,LUMBAR_2.txt,3,LUMBAR_12.txt; LUMBAR_15.txt; LUMBAR_9.txt
+XR,XR NASAL BONES.txt,NASAL BONES.txt,2,NASAL BONES_2.txt; NASAL BONES_3.txt
+XR,XR NECK_3.txt,NECK_3.txt,0,
+XR,XR orbits(s).txt,orbits(s).txt,0,
+XR,XR Orbits_2.txt,Orbits_2.txt,3,Orbits_3.txt; Orbits_5.txt; Orbits_7.txt
+XR,XR Pelvis(s).txt,Pelvis(s).txt,0,
+XR,XR PELVIS.txt,PELVIS.txt,1,PELVIS_17.txt
+XR,XR PELVIS_6.txt,PELVIS_6.txt,2,PELVIS_16.txt; PELVIS_18.txt
+XR,XR Rib Series.txt,Rib Series.txt,2,RIB Series_2.txt; Rib Series_3.txt
+XR,XR Ribs (m).txt,Ribs (m).txt,0,
+XR,XR RIBS.txt,RIBS.txt,2,RIBS_3.txt; RIBS_4.txt
+XR,XR RIBS_2.txt,RIBS_2.txt,0,
+XR,XR SACRUM_COCCYX.txt,SACRUM_COCCYX.txt,0,
+XR,XR scapula.txt,scapula.txt,0,
+XR,XR Shoulder.txt,Shoulder.txt,2,Shoulder_12.txt; Shoulder_8.txt
+XR,XR Shoulder_3.txt,Shoulder_3.txt,0,
+XR,XR SHOULDER_4.txt,SHOULDER_4.txt,0,
+XR,XR SHOULDER_5.txt,SHOULDER_5.txt,2,SHOULDER_10.txt; shoulder (m)_2.txt
+XR,XR SI joints.txt,SI joints.txt,2,SI joints_2.txt; SI joints_3.txt
+XR,XR sinus(s).txt,sinus(s).txt,2,sinus(s)_2.txt; sinus(s)_3.txt
+XR,XR SINUS_2.txt,SINUS_2.txt,0,
+XR,XR TBIFIB.txt,TBIFIB.txt,4,TBIFIB_2.txt; TBIFIB_3.txt; TBIFIB_4.txt; TBIFIB_5.txt
+XR,XR thoracic (m).txt,thoracic (m).txt,1,Thoracic_12.txt
+XR,XR Thoracic spine.txt,Thoracic spine.txt,5,ANKLE_3.txt; DIGIT_6.txt; FEMUR_3.txt; FOREARM_4.txt; PELVIS_8.txt
+XR,XR Thoracic_10.txt,Thoracic_10.txt,0,
+XR,XR Thoracic_3.txt,Thoracic_3.txt,2,Thoracic_16.txt; Thoracic_8.txt
+XR,XR TIB-FIB.txt,TIB-FIB.txt,2,KUB_2.txt; WRIST_4.txt
+XR,XR TIB-FIB_2.txt,TIB-FIB_2.txt,0,
+XR,XR TMJ.txt,TMJ.txt,1,TMJ_3.txt
+XR,XR TMJ_2.txt,TMJ_2.txt,0,
+XR,XR Wrist (m).txt,Wrist (m).txt,0,
+XR,XR Wrist.txt,Wrist.txt,2,Wrist_6.txt; Wrist_7.txt
+XR,XR Wrist_3.txt,Wrist_3.txt,2,WRIST_8.txt; Wrist_5.txt
+XR,XR WRIST_9.txt,WRIST_9.txt,0,

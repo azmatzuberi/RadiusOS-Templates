@@ -1,0 +1,71 @@
+﻿Content
+INDICATION:  AAA repair
+
+TECHNIQUE:  Helical axial scans were obtained through the abdomen and pelvis before and during IV contrast infusion, followed by 100 mL saline flush. Coronal reformat images as well as MIP reconstruction were performed. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  
+
+
+COMPARISON: None
+
+ Contrast:  100 ml optiray 350 of a 100ml single use bottle administered iv with 0ml discarded. 350mg/ml concentration 
+GI Contrast: None
+
+ VASCULAR FINDINGS:
+
+ The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.
+  Bilateral renal arteries are patent.
+  There is normal branch pattern.
+  No abdominal aortic aneurysm or dissection.
+  No aortoiliac disease.
+  Patent common, bilateral iliac, external and internal iliac arteries.
+  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.
+
+
+ NONVASCULAR FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+ABDOMINAL/PELVIC WALL: [Unremarkable.]
+
+BLADDER:  [Unremarkable.]
+
+PLEVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+
+IMPRESSION:
+
+ []
+
+ 
+
+
+
+
+Prompt
+Use INDICATION and not EXAM: for title. 
+
+Keep or add this sentence:
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0  
+

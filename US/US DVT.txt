@@ -1,0 +1,24 @@
+﻿Content
+EXAM: DVT Study
+
+HISTORY:     [Swelling/Pain.]
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Duplex scanning of the   [SIDE]  lower extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. 
+
+FINDINGS:  The deep veins of the [SIDE]  lower extremity were evaluated from the level of the common femoral vein proximally, through the level of the posterior tibial vein distally. All segments show normal compressibility and augmentation, and normal color flow. There is no evidence of intraluminal thrombosis.  The greater saphenous vein at the saphenofemoral junction is patent.  
+
+Other findings:  None.
+
+IMPRESSION:  
+
+No evidence of deep vein thrombosis in the   [SIDEleft ]  lower extremity.
+
+Prompt
+1. Enter LEFT, RIGHT, or BILATERAL in [SIDE] section when specified in the input. 
+
+
+2.  If there is a large lymph node add this recommendation after impression:
+
+RECOMMEDATION: Follow-up if growth or worsening symptomology of enlarged lymph node likely reactive.

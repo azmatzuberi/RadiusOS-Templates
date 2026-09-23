@@ -1,0 +1,91 @@
+﻿Content
+EXAM:CTA of the Chest/Abdomen/Pelvis
+
+TECHNIQUE:  Axial acquisitions were obtained through the chest, abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  
+
+COMPARISON: None
+
+IV Contrast: Administered
+GI Contrast: None
+
+EXAM:
+CTA Chest with Intravenous Contrast
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Axial CTA images of the chest with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterativeÂ reconstruction. 
+
+CONTRAST:
+With;
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+
+CTA CHEST/AORTA:
+No thoracic   Ascending or  descending aortic aneurysm or dissection.
+
+ABDOMEN/PLEVIS VASCULAR FINDINGS:
+
+ The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.
+  Bilateral renal arteries are patent.
+  There is normal branch pattern.
+  No abdominal aortic aneurysm or dissection.
+  No aortoiliac disease.
+  Patent common, bilateral iliac, external and internal iliac arteries.
+  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.
+
+
+ NONVASCULAR FINDINGS: 
+
+ LUNGS:
+The lungs are clear. No pulmonary mass. No focal airspace consolidation. 
+
+PLEURAL SPACES:
+No pleural effusion. No pneumothorax. 
+
+HEART AND MEDIASTINUM:
+No cardiomegaly. No significant pericardial effusion. 
+
+
+CHEST WALL:
+ The chest wall is unremarkable. 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+ABDOMINAL/PELVIC WALL: [Unremarkable.]
+
+BLADDER:  [Unremarkable.]
+
+PLEVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+
+IMPRESSION:
+
+ []
+
+ 
+
+
+
+Prompt
+include DLP if given in the input and placed under contrast field.

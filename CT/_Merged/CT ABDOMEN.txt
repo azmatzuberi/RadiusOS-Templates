@@ -1,0 +1,49 @@
+﻿EXAM: CT ABDOMEN [with/without] contrast
+
+HISTORY: [Unspecified.]
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen only. Multiplanar reconstructions were created from the axial data set.
+
+COMPARISON: None
+
+IV CONTRAST: [None]
+
+DLP (mGy-cm): []
+
+FINDINGS:
+
+LUNGS: [Unremarkable.]
+
+BILIARY: [Unremarkable.]
+
+LIVER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+LYMPHATICS: [No Adenopathy.]
+
+OSSEOUS: [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+Prompt
+
+1. Any input findings, remove the [Unremarkable] for that particular section and replace it with the input findings.
+
+2. Summarize the impression and not copy the input data word for word.
+
+3. include DLP if given in the input and placed under contrast field.

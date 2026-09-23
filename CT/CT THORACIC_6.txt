@@ -1,0 +1,36 @@
+﻿Content
+EXAM: CT THORACIC WO
+
+HISTORY: [Pain.]
+
+COMPARISON: [None]
+
+TECHNIQUE:  Axial images through the thoracic spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.
+
+DLP in mGy-cm: []
+
+CONTRAST: None
+
+
+FINDINGS: 
+
+ALIGNMENT: [Unremarkable]
+
+OSSEOUS: [Unremarkable]
+
+SOFT TISSUE: [Unremarkable]
+
+VISUALIZED LUNGS: [Unremarkable]
+
+
+
+
+IMPRESSION:
+
+[No acute osseous traumatic process identified within the thoracic spine.]
+
+
+
+
+Prompt
+include DLP if given in the input and placed under contrast field.

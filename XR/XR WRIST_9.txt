@@ -1,0 +1,19 @@
+﻿Content
+INDICATION:   [Pain]  
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:   [Multiple]  views of the  [side]  wrist were obtained. 
+
+FINDINGS:  The distal radius and ulna appear intact. Osseous structures of the proximal and distal carpal rows appear preserved. The proximal metacarpals are intact. No fractures are identified.
+
+The articulations of the wrist are preserved and normally aligned.  
+
+The surrounding soft tissues are normal.  
+
+IMPRESSION:  
+
+Unremarkable radiographic series of the wrist.
+
+Prompt
+Use INDICATION and not EXAM for title.

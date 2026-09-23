@@ -1,0 +1,45 @@
+FINDINGS:
+
+CHEST :
+
+AIRWAY: [Patent.]
+
+LUNGS: [Unremarkable.]
+
+MEDIASTINUM: [Unremarkable.]
+
+PLEURA: [Unremarkable.]
+
+CHEST WALL: [No osseous metastatic disease.]
+
+HEART: [There is no cardiomegaly.]   [There is no pericardial effusion.]
+
+HILA: [No adenopathy.]
+
+AXILLA: [No adenopathy.]
+
+ABDOMEN/PELVIS :
+
+LIVER: [Unremarkable.]
+
+BILIARY: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]
+
+SPLEEN: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+PELVIS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+CONCLUSION: []

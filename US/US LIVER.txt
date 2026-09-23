@@ -1,0 +1,26 @@
+﻿Content
+EXAM:  LIVER ULTRASOUND EXAMINATION
+
+HISTORY:  []  
+
+TECHNIQUE: Ultrasound of the liver was performed in the usual fashion. Doppler evaluation performed. 
+
+COMPARISON: None
+
+IMPRESSION:
+ 
+[]
+
+FINDINGS:
+
+LIVER:  [Unremarkable.]
+
+Common bile duct :  [Unremarkable.]
+
+Gallbladder:  [Unremarkable.]
+ 
+Fluid:  [Unremarkable.]
+
+
+Prompt
+

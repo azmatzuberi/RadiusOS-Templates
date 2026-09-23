@@ -1,0 +1,29 @@
+﻿Content
+INDICATION:    [Pain]
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:     [side]  knee views were obtained.
+
+
+FINDINGS:  
+
+FINDINGS:
+
+BONES: []
+
+JOINTS: []
+
+SOFT TISSUES: [] 
+
+
+IMPRESSION:  
+
+Unremarkable radiographic series of the [side] knee.
+
+Prompt
+Use INDICATION and not EXAM for report title.
+
+Dont add recommendation unless specified in the input
+
+fill "Side" based on input data if right, left, or bilateral

@@ -1,0 +1,31 @@
+﻿Content
+PROCEDURE: XR Bone Density - Axial 
+
+Exam date 1/14/2022 9:12 AM
+
+Comparison: None
+
+HISTORY: Disorder of Bone Density
+
+TECHNIQUE:  Dual energy x-ray evaluation of the lumbar spine and both hips was performed.
+
+FINDINGS: The T score for the lumbar spine L1-L4 is []
+The T score for the left femoral neck is []
+The T score for the total left hip is []
+The T score for the right femoral neck is []
+The T score for the total right hip is []
+The T score for the total bilateral hips is[]
+
+Note: The normal T score is equal to or greater than -1 SD.
+         Osteopenia corresponds to a T score between -1 and -2.5 SD.
+         Osteoporosis corresponds to a T score at or below -2.5 SD.
+
+The 10 year probability of major osteoporotic fracture Frax score is []%
+The hip fracture Frax score is []%
+
+IMPRESSION: 
+[]
+
+
+Prompt
+

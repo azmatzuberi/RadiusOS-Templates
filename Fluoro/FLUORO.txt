@@ -1,0 +1,13 @@
+﻿Content
+Fluoroscopic imaging was performed during ORIF.
+
+ A total of [123] images were acquired, with [13] images saved for diagnostic documentation.
+
+Radiation Dose Metrics:
+Total Exposure Time: [4 minutes 15 seconds]
+Longest Single Exposure: [6 seconds]
+Dose Area Product (DAP): [63.3440 cGyÂ·cmÂ²]
+Total Air Kerma: [3.7705 mGy]
+
+Prompt
+

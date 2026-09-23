@@ -1,0 +1,55 @@
+﻿Content
+
+EXAM: CT CHEST HIGH RESOLUTION [with/without] contrast
+
+HISTORY: []
+
+COMPARISON: None
+
+TECHNIQUE: CT of the chest was performed using high resolution technique.  Coronal and sagittal reformats were obtained from the axial data set.
+
+DLP (mGy-cm): []
+
+IV CONTRAST: None
+
+FINDINGS:
+
+AIRWAY: [The airway is patent.]
+
+VASCULAR: [No aortic aneurysm.]
+
+LUNGS: [No suspicious pulmonary nodules seen.]
+
+MEDIASTINUM: [Unremarkable.]
+
+HEART: [There is no cardiomegaly. There is no pericardial effusion.]
+
+PLEURA: [No pleural effusion or pneumothorax seen.]
+
+HILA: [No bulky hilar adenopathy by unenhanced examination.]
+
+AXILLA: [No bulky axillary adenopathy.]
+
+OSSEOUS: [Underlying osseous structures show no significant abnormality.]
+
+ABDOMEN: [Visualized portions of the upper abdomen are grossly unremarkable.]
+
+IMPRESSION:
+
+No acute process within the chest.
+
+Prompt
+
+1. any pulmonary nodules please less than in the lungs section and remove the statement "No suspicious pulmonary nodules seen. "
+
+2. include DLP if given in the input and placed under contrast field.
+
+3. include recommendations if given.
+
+4. include sentences in impression if given.
+
+5. Use double line spacing.
+
+6. use the input to fill in the [] per field in the template.
+
+7. Don't add exam title.  Use indication as depicted in the  template.

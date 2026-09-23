@@ -1,0 +1,35 @@
+﻿Content
+  HISTORY:  Pain.
+
+TECHNIQUE:  Multiple views of the []  elbow were performed.
+
+
+COMPARISON:  None
+
+FINDINGS:   
+
+Alignment maintained.
+
+There is no displaced fracture.  
+
+Bones appear normally mineralized for age.  
+
+Soft tissues are unremarkable. 
+
+No posterior fat pad sign seen.
+
+No radiopaque foreign body.
+
+IMPRESSION:  
+
+No fracture or dislocation seen. 
+
+
+
+
+
+
+Prompt
+1. Do not inlclude EXAM:  in generated report
+2. Do not inlclude HISTORY:  in generated report
+2. Do not inlclude COMPARISON:  in generated report

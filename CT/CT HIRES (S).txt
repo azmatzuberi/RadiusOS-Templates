@@ -1,0 +1,45 @@
+﻿Content
+INDICATION:    [] .
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  High-resolution protocol was utilized to include initial contiguous helical axial scans through the thorax without IV contrast.  Coronal reconstructions as well as overlapping thin-slice axial reconstructions were included. Patient was scanned in both supine and prone position. Artificial Intelligence assessment was performed separately on the Nodule Prediction workstation. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]
+
+
+IV Contrast: [None]
+
+FINDINGS:
+
+AIRWAY/THYROID: The airway is patent.  No thyromegaly.
+
+AORTA/VASCULAR: No aortic aneurysm.
+
+LUNGS:  No suspicious pulmonary nodules seen.  
+
+MEDIASTINUM:  There is no cardiomegaly.  There is no pericardial effusion. 
+
+PLEURA:   No pleural effusion or pneumothorax seen.  
+
+HILAR STRUCTURES: No bulky hilar adenopathy by unenhanced examination.  
+ 
+AXILLARY: No bulky axillary adenopathy.  
+
+OSSEOUS STRUCTURES:  Underlying osseous structures no significant abnormality. 
+
+
+UPPER ABDOMEN: Visualized portion of the upper abdomen are grossly unremarkable. 
+ 
+IMPRESSION:
+
+No acute process within the chest.
+
+Prompt
+Keep single line spacing.
+use the input to fill in the [] per field in the template. 
+
+
+Dont add exam title.  Use indication as depicted in the  template. 
+
+

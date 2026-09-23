@@ -1,0 +1,51 @@
+﻿Content
+
+EXAM: CT MAXILLOFACIAL [with/without] contrast
+
+TECHNIQUE: CT maxillofacial was performed in usual fashion.  Coronal and sagittal reformats were obtained from the axial data set.
+
+CONTRAST: [None.]
+
+COMPARISON: None.
+
+DLP (mGy-cm): []
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+OSTEOMEATAL COMPLEX: [Unremarkable.]
+
+CRIBRIFORM PLATE: [Unremarkable.]
+
+SEPTUM: [Unremarkable.]
+
+MASTOID: [Unremarkable.]
+
+ORBITS: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+IMPRESSION:
+
+[Unremarkable.]
+
+Prompt
+
+1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.
+
+2. Summarize the impression without adding measurements on findings. Don't duplicate findings word for word.
+
+3. include DLP if given in the input and placed under contrast field.
+
+4. Add Clinical history if given in input in the History section.
+
+5. Add COMPARISON study if given in input in the Comparison section.
+
+6. Include comparison date in the  COMPARISON: [] field if given.
+
+7. Keep pertinent negatives.
+
+8. Add DLP

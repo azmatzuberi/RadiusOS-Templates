@@ -1,0 +1,40 @@
+﻿Content
+EXAM:  AORTIC ULTRASOUND
+
+HISTORY: High Risk patient.
+
+TECHNIQUE:  Ultrasound evaluation of the aorta was performed transabdominally. Color flow Doppler and Doppler spectral analysis performed.
+
+
+
+
+COMPARISON: None
+
+IMPRESSION:
+
+[]
+
+FINDINGS:
+
+
+
+PROXIMAL AORTA DIAMETER: []
+
+MID AORTA DIAMETER: []
+
+DISTAL AORTA DIAMETER: []
+
+
+
+
+
+
+Prompt
+ 
+
+Present Ultrasound velocity data from input in a justified table format for clarity and readability.
+Also convert any values in m/s to cm/s.
+
+If the abdominal aorta  is measuring less than 3 cm involving the proximal, mid, or distal aorta please add in the impression no evidence for abdominal aortic aneurysm.  If the measurements come close please add instead abdominal aortic ectasia. If greater than 3 cm, then state aneurysm of abdominal aorta. 
+
+

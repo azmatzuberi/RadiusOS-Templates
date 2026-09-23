@@ -1,0 +1,52 @@
+﻿Content
+EXAM:  CT OF THE ABDOMEN AND PELVIS  
+
+HISTORY: [Unspecified.]
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  
+
+COMPARISON: None
+
+IV Contrast:  None
+GI Contrast: None
+
+
+FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+
+BLADDER:  [Unremarkable.]
+
+PELVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+ IMPRESSION:
+
+ []
+
+
+
+
+
+Prompt
+include DLP if given in the input and placed under contrast field.

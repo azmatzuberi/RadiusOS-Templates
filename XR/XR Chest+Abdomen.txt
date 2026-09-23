@@ -1,0 +1,34 @@
+﻿Content
+ HISTORY:  Pain
+
+TECHNIQUE:  Single view of the chest with abdominal views performed.
+
+COMPARISON: None
+
+FINDINGS: 
+
+
+The lungs are clear of consolidation.
+
+No pleural effusion or pneumothorax seen.  
+
+Mediastinum and cardiac contours are preserved.
+
+Underlying osseous structures show no significant abnormality. 
+
+The bowel gas pattern is unremarkable.  
+
+Fair amount of stool is present. 
+
+The renal fossa are obscured by bowel. 
+
+No abnormal calcification seen.
+
+Underlying osseous structures are intact.
+
+IMPRESSION: 
+
+   
+
+Prompt
+modify the findings based on the input data.

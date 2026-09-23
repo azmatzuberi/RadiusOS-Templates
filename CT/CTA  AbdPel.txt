@@ -1,0 +1,72 @@
+﻿Content
+EXAM:CTA Abdomen/Pelvis
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  
+
+COMPARISON: None
+
+IV Contrast: Administered
+GI Contrast: None
+
+ VASCULAR FINDINGS:
+
+ The celiac,  superior mesenteric artery, inferior mesenteric artery are patent.
+  Bilateral renal arteries are patent.
+  There is normal branch pattern.
+  No abdominal aortic aneurysm or dissection.
+  No aortoiliac disease.
+  Patent common, bilateral iliac, external and internal iliac arteries.
+  Patent bilateral common femoral arteries and proximal superficial and profundus arteries.
+
+
+ NONVASCULAR FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+ABDOMINAL/PELVIC WALL: [Unremarkable.]
+
+BLADDER:  [Unremarkable.]
+
+PLEVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+
+IMPRESSION:
+
+ []
+
+ 
+
+
+
+Prompt
+1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.
+
+2.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word. 
+
+3. include DLP if given in the input and placed under contrast field.
+
+4.  Add Clinical history if given in input in the History section.
+
+5.  Add COMPARISON study if given in input in the Comparison section.
+
+

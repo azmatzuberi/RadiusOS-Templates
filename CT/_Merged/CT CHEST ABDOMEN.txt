@@ -1,0 +1,99 @@
+﻿Content
+
+FINDINGS:
+
+CHEST :
+
+AIRWAY: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+LUNGS: [Unremarkable.]
+
+PLEURA: [Unremarkable.]
+
+HEART: [No cardiomegaly. No pericardial effusion.]
+
+MEDIASTINUM: [No adenopathy.]
+
+HILA: [No adenopathy.]
+
+AXILLA: [No adenopathy.]
+
+CHEST WALL: [No osseous metastatic disease.]
+
+ABDOMEN/PELVIS :
+
+LIVER: [Unremarkable.]
+
+BILIARY: [Unremarkable.]
+
+SPLEEN: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+LYMPHATICS: [No abdominal or pelvic lymphadenopathy.]
+
+OSSEOUS: [Unremarkable.]
+
+CONCLUSION:
+
+[Unremarkable.]
+
+Prompt
+
+1. You must follow all rules exactly. Do not deviate.
+
+2. SECTION 1 — TEMPLATE STRUCTURE RULES
+
+3. Follow the exact template structure. Do not change section names, order, spacing, or formatting.
+
+4. Use double line spacing.
+
+5. Include all template fields, including pertinent negatives. Do not remove any field.
+
+6. Do not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.
+
+7. Place hernias in the BOWEL section. If a finding does not fit any section, place it in OTHER.
+
+8. Remove all brackets.
+
+9. SECTION 2 — FINDINGS RULES
+
+10. Include every sentence from the input FINDINGS. Do not omit any sentence.
+
+11. If a sentence does not match any section, place it in OTHER.
+
+12. SECTION 3 — IMPRESSION RULES
+
+13. Summarize the findings but do not combine into one sentence.
+
+14. Do not repeat sentences word-for-word.
+
+15. Do not copy verbatim.
+
+16. Do not merge findings.
+
+17. Provide concise, accurate summaries only.
+
+18. Include pertinent negatives when clinically relevant, including statements such as "No obstructive uropathy or nephrolithiasis."
+
+19. Do not include surgeries in the IMPRESSION.
+
+20. Add recommendations only if the input contains recommendations. If present, place them directly below the IMPRESSION using:
+
+21. RECOMMENDATIONS: []
+
+22. SECTION 4 — BEHAVIOR RULES
+
+23. Output must be deterministic.
+
+24. If any rule conflicts, follow the strictest rule.

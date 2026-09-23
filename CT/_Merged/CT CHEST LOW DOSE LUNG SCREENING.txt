@@ -1,0 +1,131 @@
+﻿EXAM: CT CHEST LOW DOSE LUNG SCREENING
+
+HISTORY:   High-risk patient
+
+COMPARISON: None
+
+TECHNIQUE: Low dose CT of the chest was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV CONTRAST: None
+
+DLP (mGy-cm): []
+
+FINDINGS:
+
+AIRWAY: [The airway is patent.]
+
+VASCULAR: [No aortic aneurysm.]
+
+LUNGS: [No suspicious pulmonary nodules seen.]
+
+ALT: LUNGS: [Lungs are well aerated without infiltrate or focal consolidation.]  [No pleural effusion, pleural abnormality, or pneumothorax.]  [Lobar and segmental branches of the tracheobronchial tree are patent without endobronchial lesions.]
+
+MEDIASTINUM: [Unremarkable.]
+
+HEART: [Heart is normal in size without pericardial effusion.]
+
+PLEURA: [No pleural effusion or pneumothorax seen.]
+
+HILA: [No bulky hilar adenopathy by unenhanced examination.]
+
+AXILLA: [No bulky axillary adenopathy.]
+
+OSSEOUS: [Underlying osseous structures show no significant abnormality.]
+
+ABDOMEN: [Limited by low dose technique.]
+
+LYMPHATICS: [No axillary, mediastinal, or hilar lymphadenopathy.]
+
+IMPRESSION:
+
+[]
+
+NOTE:
+
+Low-dose CT is nondiagnostic for soft tissue details.
+
+RECOMMENDATIONS:
+
+[]
+
+DISCLAIMER:  AI lung nodule detection was utilized on this study. This system is designed for high sensitivity, potentially identifying benign findings. Please refer to the radiologist's interpretation to assess the clinical significance of any detected findings.
+
+Prompt
+
+1. any pulmonary nodules please less than in the lungs section and remove the statement "No suspicious pulmonary nodules seen. "
+
+2. include DLP if given in the input and placed under contrast field.
+
+3. include recommendations if given.
+
+4. include sentences in impression if given.
+
+5. Move IMPRESSION statement above the FINDINGS statement.
+
+6. Add DLP as DLP (mGy-cm): [] if given.
+
+7. Stick to the template style and format and line spacing.  Do not write reports in prose format. Keep in outline format.
+
+8. Keep it in outline format and organ based.  Don't write in a single prose paragraph.
+
+9. Don't include CTDI:
+
+10. Adhere to the template style and format without altering and and replace [] with findings from input.
+
+11. Use INDICATION not EXAM for title. Don't add a separate history section.
+
+12. Include the statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0"  as mentioned in template.
+
+13. Don't re-list any pulmonary nodules in impression.  Make a general statement.
+
+14. You must follow all rules exactly. Do not deviate.
+
+15. SECTION 1 — FORMAT AND FINDINGS RULES
+
+16. For pulmonary nodules:
+
+17. List all pulmonary nodules in the LUNGS section.
+
+18. Remove the sentence "No suspicious pulmonary nodules seen."
+
+19. Do not add any substitute sentence unless the input contains one.
+
+20. Adhere strictly to the template style, spacing, and format. Do not change section names, order, spacing, or structure.
+
+21. Use double line spacing.
+
+22. If a section has no positive findings, write "Negative" in that section.
+
+23. Do not include the word "TEMPLATE" anywhere in the report.
+
+24. Include Lung"‘RADS as a recommendation inside the IMPRESSION section, not as a separate line.
+
+25. Keep pertinent negatives if fields are not changed. Don't just state negative. Use the statement from the template included.
+
+26. Do not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.
+
+27. Add recommendations only if the input contains recommendations.
+
+28. If present, place them as a separate line directly below the IMPRESSION using this exact format:
+
+29. RECOMMENDATIONS: []
+
+30. Do not add calcified granulomas to impression.
+
+31. Do not re-list pulmonary nodules and sizes in the impression and only summarize.
+
+32. SECTION 2 — LUNG-RADS LOGIC
+
+33. Add lung rads as a RECOMMENDATION
+
+34. If Lung-RADS 1:
+
+35. Continue annual low-dose CT in 12 months.
+
+36. Recommend 6-month low-dose CT follow-up.
+
+37. Recommend diagnostic chest CT in 3 months. Consider PET-CT if solid component is 8 mm or larger.
+
+38. Recommend PET-CT and tissue sampling. Thoracic oncology referral is appropriate.
+
+39. Recommend diagnostic chest CT (contrast as appropriate), PET-CT, tissue sampling, and thoracic oncology referral.

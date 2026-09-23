@@ -1,0 +1,30 @@
+﻿Content
+EXAM: CT CALIUM SCORE
+
+HISTORY: High risk patient. 
+
+TECHNIQUE: CT CALCIUM score was performed in the usual fashion in axial imaging only.  
+
+IV Contrast: None
+
+COMPARISON: None
+
+ 
+IMPRESSION:
+
+No acute process visualized within the chest.
+
+ Total calcium score of [].
+
+DLP: [] mGy-cm
+
+
+FINDINGS:
+
+ The lungs and airway are clear.  No suspicious pulmonary nodules.  No aortic aneurysm.  No pericardial effusion.   Visualized osseous structures grossly unremarkable.
+  No  pleural effusion or pneumothorax seen.
+
+Prompt
+1. Move impression statement before the findings statement.
+
+2. Make chart from calcium score screenshot.

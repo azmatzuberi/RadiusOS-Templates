@@ -1,0 +1,61 @@
+﻿Content
+INDICATION:   []  .
+
+COMPARISON:  [None available.]
+
+TECHNIQUE:  Contiguous axial images were obtained through the abdomen and pelvis without IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable).
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: 0
+
+FINDINGS:
+
+Lung bases:  [Clear.]
+
+Liver:  [No intrahepatic biliary dilatation.]
+
+Gallbladder:   [Unremarkable] 
+
+Common bile duct: [ Normal caliber. No calcified stones.]
+
+Spleen:  [Within normal limits.]
+
+Pancreas: [  No pancreatic fluid collections.]
+
+Adrenals: [ No masses.]
+
+Kidneys:  [ No hydronephrosis.]
+
+Lymph nodes:  [No adenopathy.]
+
+Stomach, small bowel and colon: [ No bowel wall thickening or obstruction.]
+
+Peritoneal cavity: [ No mesenteric stranding or free fluid.]
+
+Osseous structures:  [No acute fracture or destructive lesion.]
+
+Abdominal aorta: [ No aneurysm.]
+
+Pelvic organs:  [Normal.]
+
+Bladder:     No stones.]
+
+IMPRESSION: 
+
+[Normal CT abdomen and pelvis.]
+
+
+Prompt
+1.  Adhere to template structure and format in outline fashion. Dont make paragraphs of just the data.
+
+1b.  Start with indication: not exam: as detailed in template.
+
+2.  Add COMPARISON study if given in input in the Comparison section.
+
+3.  Keep double line spacing.
+
+4. Include statement "Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]."
+
+5. Don't add post surgical findings to the impression. Only pertinent positives or negatives and recommendations. 
+
+6. Use spacing similar to template, typically single line spacing. 
+

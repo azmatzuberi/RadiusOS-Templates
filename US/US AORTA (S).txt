@@ -1,0 +1,35 @@
+﻿Content
+COMPARISON:  None available.
+
+TECHNIQUE:  Transverse and longitudinal B-mode and color Doppler sonography of the abdominal aorta was performed. 
+
+FINDINGS:
+
+Proximal aorta:  []    cm transverse x  []   cm AP.
+
+Mid abdominal aorta: []     cm transverse x  []   cm AP. 
+
+Distal aorta:   []   cm transverse x []    cm AP.
+
+Right common iliac artery:  []    cm transverse x  []   cm AP.  
+
+Left common iliac artery:   []   cm transverse x  []   cm AP.
+
+[There is no significant aortic atherosclerotic plaque noted.]
+
+IMPRESSION: 
+
+1.[ No evidence of aortic aneurysm.]
+
+2. [No significant abdominal aortic atherosclerotic changes.]
+
+
+Prompt
+
+1. If the abdominal aorta  is measuring less than 3 cm involving the proximal, mid, or distal aorta please add in the impression no evidence for abdominal aortic aneurysm.  If the measurements come close please add instead abdominal aortic ectasia. If greater than 3 cm, then state aneurysm of abdominal aorta. 
+
+2. Do not include EXAM:  in generated report
+3. Do not include HISTORY:  in generated report
+4. Do not include COMPARISON:  in generated report unless comparison study provided in data. 
+
+

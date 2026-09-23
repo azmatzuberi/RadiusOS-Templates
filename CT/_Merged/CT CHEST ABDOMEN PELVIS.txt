@@ -1,0 +1,79 @@
+﻿Content
+
+EXAM: CT CHEST ABDOMEN PELVIS [with/without] contrast
+
+COMPARISON: None
+
+ALT: COMPARISON: []
+
+TECHNIQUE: CT of the chest, abdomen and pelvis was performed.  Coronal and sagittal reformats were obtained from the axial data set.
+
+IV CONTRAST: [None]
+
+ORAL CONTRAST: [None]
+
+FINDINGS:
+
+CHEST :
+
+AIRWAYS: [Patent.]
+
+LUNGS: [Unremarkable.]
+
+MEDIASTINUM: [Unremarkable.]
+
+PLEURA: [Unremarkable.]
+
+CHEST WALL: [No osseous metastatic disease.]
+
+HEART: [There is no cardiomegaly.]   [There is no pericardial effusion.]
+
+HILA: [No adenopathy.]
+
+AXILLA: [No adenopathy.]
+
+ABDOMEN/PELVIS :
+
+LIVER: [Unremarkable.]
+
+BILIARY: [Unremarkable Gallbladder.] [No intra or extra hepatic ductal dilatation.]
+
+SPLEEN: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+KIDNEYS: [Unremarkable.]
+
+PELVIS: [Unremarkable.]
+
+BOWEL: [Unremarkable.]
+
+ABDOMINAL WALL: [Unremarkable.]
+
+VASCULAR: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+CONCLUSION: []
+
+Prompt
+
+1. USE THE INCLUDED TEMPLATE ONLY.
+
+2. put the input in the appropriate findings sections in the included template marked by []
+
+3. Any measurements in the findings section only.
+
+4. Summarize the impression   With only pertinent positives and pertinent negatives without adding measurements on findings.
+
+5. Move impression statement above the findings statement.
+
+6. include DLP if given in the input and placed under contrast field as DLP (mGy-cm): []
+
+7. Summarize the impression   With only pertinent positives
+
+8. and pertinent negatives without adding measurements on findings.
+
+9. Remove all brackets from template once report is made.

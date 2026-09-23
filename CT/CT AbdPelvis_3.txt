@@ -1,0 +1,57 @@
+﻿Content
+EXAM:  CT OF THE ABDOMEN AND PELVIS  
+
+HISTORY: [Unspecified.]
+
+TECHNIQUE:  Axial acquisitions were obtained through the abdomen and pelvis. Multiplanar reconstructions were created from the axial data set.  
+
+COMPARISON: None
+
+IV Contrast:  None
+GI Contrast: None
+
+
+
+FINDINGS: 
+
+LUNG BASES: [Unremarkable.] 
+
+LIVER: [Unremarkable.]
+
+GALLBLADDER: [Unremarkable.]
+
+SPLEEN: [Unremarkable.] 
+
+KIDNEYS: [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+PANCREAS: [Unremarkable.]
+
+BOWEL: [Unremarkable.] 
+
+
+BLADDER:  [Unremarkable.]
+
+PELVIS/REPRODUCTIVE: [Unremarkable]
+
+FLUID: [Unremarkable.]
+
+OSSEOUS STRUCTURES:  [Unremarkable.]
+
+VASCULATURE: [Unremarkable.]
+
+ IMPRESSION:
+
+ []
+
+Prompt
+1.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word. 
+
+2. Include DLP in mGy-cm if given in the input and placed under contrast field as DLP (mGy-cm: []
+
+3.  Add Clinical history if given in input in the History section.
+
+4.  Add COMPARISON study if given in input in the Comparison section.
+
+5. Move IMPRESSION statement above the FINDINGS statement.

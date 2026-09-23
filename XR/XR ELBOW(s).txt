@@ -1,0 +1,25 @@
+﻿Content
+HISTORY:Â Â Â Â  [].
+
+COMPARISON:Â  [None available.]
+
+TECHNIQUE:Â Â Â  [Multiple] views of theÂ  [SIDE]Â  [BODY PART] were performed.
+
+
+FINDINGS:
+
+BONES: []
+
+JOINTS: []
+
+SOFT TISSUES: []
+
+
+IMPRESSION:
+
+[]
+
+Prompt
+Use INDICATION and not EXAM for title. 
+
+Update number of views based on the input data.

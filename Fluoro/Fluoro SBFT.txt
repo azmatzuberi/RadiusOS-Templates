@@ -1,0 +1,24 @@
+﻿Content
+Reason For Exam
+(DX Small Bowel Follow Through) Iron deficiency, abd pain, abnormal MRE
+Rad Report
+Accession #: 00000DX260282078 Exam Date: 04/14/2026
+DX Small Bowel Follow Through
+CLINICAL INDICATION: Iron deficiency, abd pain, abnormal MRE
+COMPARISON:  NONE
+IMAGES: 14
+RADIATION DOSE: 11.50 mGy
+FINDINGS:
+Scout image demonstrates dilated gas-filled loop of small bowel in the right upper quadrant measuring approximately 4.3
+cm diameter.
+Serial images of the small bowel were obtained following ingestion of barium suspension oral contrast.
+Transit time to the cecum was between 3:15 and 4:00 hours.
+The small bowel positioning and mucosal pattern appear normal. Spot films of the terminal ileum are unremarkable.
+IMPRESSION:
+* Relatively slow small bowel transit, with contrast reaching the cecum between 3 hours 15 minutes and 4 hours. No
+evidence of bowel obstruction or high-grade stricture.
+* Dilated loop of jejunum in the right upper quadrant, nonspecific could represent enteritis.
+* Otherwise unremarkable examination.
+
+Prompt
+

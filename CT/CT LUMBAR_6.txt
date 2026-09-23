@@ -1,0 +1,51 @@
+﻿Content
+ EXAM: CT LUMBAR WO
+
+HISTORY: [Pain.]
+
+COMPARISON: [None]
+
+TECHNIQUE: Axial images through the lumbar spine were obtained without intravenous contrast. Coronal and sagittal reformats were obtained from the axial data set.
+
+DLP in mGy-cm: []
+
+COMPARISON:  None
+
+
+FINDINGS: 
+
+ALIGNMENT: [Unremarkable.]
+
+OSSEOUS: [Unremarkable.]
+
+SOFT TISSUE: [Unremarkable.]
+
+Level by Level:
+
+L1-L2 level: [Unremarkable.]
+
+L2-L3 level: [Unremarkable.]
+
+L3-L4 level: [Unremarkable.]
+
+L4-L5 level: [Unremarkable.]
+
+L5-S1 level: [Unremarkable.]
+
+
+IMPRESSION:
+
+
+ 
+
+
+
+Prompt
+put each sentences in the appropriate level in the template. Dont make a large paragraph. 
+
+  Please use the input field into the template fields and remove brackets. 
+
+
+ Impression should summarized above without repeating the same thing.  Summarized above findings in 1-2 sentences  
+
+include DLP if given in the input and placed under contrast field.

@@ -1,0 +1,24 @@
+﻿Content
+EXAM:    NECK ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+COMPARISON: None
+
+TECHNIQUE: Ultrasound examination of the neck was performed.
+
+FINDINGS:
+
+Neck: [Unremarkable.]
+
+Adenopathy: [Unremarkable.]
+
+ IMPRESSION: 
+
+[]
+
+
+
+Prompt
+2. Ignore sonographic murphy sign unless clearly circled as positive. 
+

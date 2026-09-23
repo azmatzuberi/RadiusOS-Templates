@@ -1,0 +1,49 @@
+﻿Content
+EXAM:
+MR Neck [with or without] Intravenous Contrast.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Multiplanar magnetic resonance images of the neck [with or without] intravenous contrast.
+
+CONTRAST:
+[With or without];
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+NASOPHARYNX:
+Unremarkable.
+
+OROPHARYNX:
+Unremarkable.
+
+HYPOPHARYNX:
+Unremarkable.
+
+LARYNX:
+Unremarkable. Normal epiglottis. 
+
+RETROPHARYNGEAL SPACE:
+Unremarkable.
+
+SALIVARY GLANDS:
+The parotid and submandibular glands are unremarkable.
+
+LYMPH NODES:
+No lymphadenopathy.
+
+THYROID:
+Unremarkable. No nodule. 
+
+BONES:
+No acute fracture or focal osseous lesion.
+
+IMPRESSION:
+1. No acute findings within the soft tissues of the neck.
+
+Prompt
+

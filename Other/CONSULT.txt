@@ -1,0 +1,68 @@
+﻿Content
+REASON FOR CONSULTATION
+[Reason]
+
+
+HISTORY OF PRESENT ILLNESS
+[Ilness]
+
+
+PAST MEDICAL HISTORY
+[See H&P]
+
+
+SOCIAL HISTORY
+[Non-contributory]
+
+
+FAMILY HISTORY
+[Non-contributory]
+
+
+SURGICAL HISTORY
+[Non-contributory]
+
+
+MEDICATIONS
+[ See medication reconciliation list]
+
+
+ALLERGIES
+[No contraindication]
+
+
+REVIEW OF SYSTEMS:
+
+
+GENERAL/CONSTITUTIONAL: [Negative]
+HEAD, EYES, EARS, NOSE AND THROAT: [Negative]
+CARDIOVASCULAR: [Negative]
+RESPIRATORY: [Negative]
+GASTROINTESTINAL: [Negative]
+GENITOURINARY: [Negative]
+MUSCULOSKELETAL: [Negative]
+SKIN: [Negative]
+NEUROLOGIC: [Negative]
+PSYCHIATRIC: [Negative]
+ENDOCRINE: [Negative]
+HEMATOLOGIC/LYMPHATIC: [Negative]
+
+
+PHYSICAL EXAM
+GENERAL:  [Negative].
+VITAL SIGNS:  [Non-contributory].
+
+
+LABS
+[No contraindication]
+
+
+IMPRESSION
+[Impression]
+
+
+PLAN
+[Plan]
+
+Prompt
+consult prompt

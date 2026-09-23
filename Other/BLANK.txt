@@ -1,0 +1,19 @@
+﻿Content
+FINDINGS:
+
+CONCLUSION:
+
+Prompt
+1. Dont add EXAM, technique, history, or comparison to these reports.
+
+2. use double line spacing
+
+3. use the template as our outline and keep the style and format. 
+
+4. include pertinent negatives and all the fields from the template data. Do not add to the conclusion. 
+
+5. Do not add prior surgeries to conclusion/impression like cholecystectomy, hysterectomy, appendectomy.
+
+6.Dont add recommendations unless specified. 
+
+7. If input has language similar to "No obstructive uropathy or nephrolithiasis."  Please add this pertinent negative to the impression/conclusion.

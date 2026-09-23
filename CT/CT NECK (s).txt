@@ -1,0 +1,55 @@
+﻿Content
+INDICATION: [Reason for exam]
+
+COMPARISON:   None.
+
+TECHNIQUE: CT scan of the neck was performed with IV contrast. CT scan done according to ALARA (As Low As Reasonably Achievable.)
+
+Prior known CT or cardiac nuclear medicine studies performed in the last 12 months: [0]
+
+CONTRAST: [None]
+
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+NASOPHARYNX:  [Unremarkable.]
+
+OROPHARYNX:  [Unremarkable.] 
+
+HYPOPHARYNX:  [Unremarkable.]
+
+LARYNX:  [Unremarkable.]
+
+THYROID:  [Unremarkable.]
+
+SALIVARY/PAROTID GLANDS:   [Unremarkable.]
+
+VASCULATURE:  [Unremarkable.]
+
+LYMPHATICS:  [Unremarkable.]
+
+SUPRACLAVICULAR FOSSA:  [Unremarkable.]
+
+VISUALIZED UPPER CHEST:  [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+
+
+
+Prompt
+1.  Use indication and not exam as title.
+
+2.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word. 
+
+3. Add DLP if given into the report if given in input.
+
+4.  Add Clinical history if given in input in the HISTORY section.
+
+5.  Add  comparison study if given in input in the COMPARISON section.
+
+6. 5.  Add Contrast given if study if given in input in the CONTRAST section.

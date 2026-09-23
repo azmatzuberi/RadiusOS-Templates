@@ -1,0 +1,55 @@
+﻿Content
+EXAM: CT NECK
+
+HISTORY: [Reason for exam]
+
+COMPARISON:   None.
+
+TECHNIQUE: CT soft tissue of the neck was performed.  Coronal sagittal reformats were obtained from the axial data set.
+
+CONTRAST: [None]
+
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+NASOPHARYNX:  [Unremarkable.]
+
+OROPHARYNX:  [Unremarkable.] 
+
+HYPOPHARYNX:  [Unremarkable.]
+
+LARYNX:  [Unremarkable.]
+
+THYROID:  [Unremarkable.]
+
+SALIVARY/PAROTID GLANDS:   [Unremarkable.]
+
+VASCULATURE:  [Unremarkable.]
+
+LYMPHATICS:  [Unremarkable.]
+
+SUPRACLAVICULAR FOSSA:  [Unremarkable.]
+
+VISUALIZED UPPER CHEST:  [Unremarkable.]
+
+IMPRESSION:
+
+[]
+
+
+
+
+Prompt
+1. Put findings/input data and modify the included template.  Add any measurements in the findings section only, not impression.
+
+2.  Summarize the impression without adding measurements on findings. Don't duplicate findings word for word. 
+
+3. include DLP if given in the input and placed under contrast field.
+
+4.  Add Clinical history if given in input in the HISTORY section.
+
+5.  Add  comparison study if given in input in the COMPARISON section.
+
+6. 5.  Add Contrast given if study if given in input in the CONTRAST section.

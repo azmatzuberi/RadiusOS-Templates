@@ -1,0 +1,25 @@
+﻿Content
+HISTORY:Â Â Â Â  [].
+
+COMPARISON:Â  [None available.]
+
+TECHNIQUE:Â Â Â  Lumbar spine views were performed.
+
+
+FINDINGS:
+
+ALIGNMENT: []
+
+BONES: []
+
+JOINTS: []
+
+SOFT TISSUES: []
+
+
+IMPRESSION:
+
+[]
+
+Prompt
+Use INDICATION and not EXAM for title

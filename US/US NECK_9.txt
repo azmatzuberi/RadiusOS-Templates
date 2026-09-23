@@ -1,0 +1,41 @@
+﻿Content
+EXAM:    NECK ULTRASOUND EXAMINATION
+
+HISTORY:  [] 
+
+COMPARISON: None
+
+TECHNIQUE: Ultrasound examination of the neck was performed.
+
+ Total DLP: [] mGy-cm   
+
+
+FINDINGS:
+
+SINUSES: [Unremarkable.]
+
+NASOPHARYNX:  [Unremarkable.]
+
+OROPHARYNX:  [Unremarkable.] 
+
+HYPOPHARYNX:  [Unremarkable.]
+
+LARYNX:  [Unremarkable.]
+
+THYROID:  [Unremarkable.]
+
+SALIVARY/PAROTID GLANDS:   [Unremarkable.]
+
+VASCULATURE:  [Unremarkable.]
+
+LYMPHATICS:  [Unremarkable.]
+
+SUPRACLAVICULAR FOSSA:  [Unremarkable.]
+
+VISUALIZED UPPER CHEST:  [Unremarkable.]
+
+IMPRESSION: []
+
+
+Prompt
+testing

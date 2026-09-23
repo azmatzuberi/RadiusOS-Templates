@@ -1,0 +1,20 @@
+﻿Content
+INDICATION:   []  .
+
+COMPARISON:  None available.
+
+TECHNIQUE:  Duplex scanning of the  []   upper extremity was performed using B-mode/grayscale imaging and Doppler spectral analysis and color flow. 
+
+FINDINGS:  
+
+The deep veins of the   []  upper extremity are normally patent, including the internal jugular, subclavian, axillary, and brachial veins. The     cephalic vein is patent as well.
+
+Other findings: None.
+
+IMPRESSION: 
+
+No evidence of deep vein thrombosis in the     upper extremity.
+
+
+Prompt
+Use INDICATION for title and not EXAM:

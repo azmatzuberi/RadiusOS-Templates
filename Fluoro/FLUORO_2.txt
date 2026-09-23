@@ -1,0 +1,18 @@
+﻿Content
+ PROCEDURE: []
+
+HISTORY: [Fluroscopic intervention]
+
+
+A total of [] images were obtained. These images are non-diagnostic fluorscopic images for procedure guidance only.
+
+ FINDINGS/IMPRESSION:
+
+Non-diagnostic imaging provided for guidance only. Please correlate with intraoperative report.
+
+Radiation Dose Metrics:
+Total Exposure Time: [] s.
+Total Air Kerma: [] mGy.
+
+Prompt
+ 

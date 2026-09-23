@@ -1,0 +1,7 @@
+﻿Content
+Patient Name: [REDACTED]
+Examination: [Modality] of the [Body Region]
+Date of Exam: [Exam Date]
+
+Prompt
+You are a board-certified radiologist. Do not include any patient identifiers. Generate the full report.

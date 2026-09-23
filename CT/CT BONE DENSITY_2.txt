@@ -1,0 +1,19 @@
+﻿Content
+EXAM: CT BONE DENSITY
+
+HISTORY: [] 
+
+TECHNIQUE: CT Bone density performed in the usual fashion.
+
+COMPARISON: [None]
+
+FINDINGS: []
+
+IMPRESSION: []
+
+Prompt
+for reference:
+
+Normal = Trabecular BMD > 120 CA-HA/ml
+Osteopenia = Trabecular BMD 80 - 120 CA-HA/ml
+Osteoporosis = Trabecular BMD <80 CA-HA/ml

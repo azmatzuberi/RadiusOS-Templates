@@ -1,0 +1,59 @@
+﻿Content
+EXAM: MRI ANKLE
+HISTORY:  []
+TECHNIQUE:
+Multiplanar magnetic resonance images of the [] ankle with intravenous contrast.
+CONTRAST:
+[With or without];
+COMPARISON:
+None provided.
+FINDINGS:
+LIGAMENTS:
+ANTERIOR TALOFIBULAR:
+[Unremarkable.]
+POSTERIOR TALOFIBULAR:
+[Unremarkable.]
+ANTERIOR TIBIOFIBULAR:
+[Unremarkable.]
+POSTERIOR TIBIOFIBULAR:
+[Unremarkable.]
+CALCANEOFIBULAR:
+[Unremarkable.]
+DELTOID:
+[Unremarkable.]
+SPRING:
+[Unremarkable.]
+LISFRANC:
+[Unremarkable.]
+TENDONS:
+ACHILLES:
+[Unremarkable.]
+POSTERIOR TIBIAL:
+[Unremarkable.]
+FLEXOR:
+[Unremarkable.]
+EXTENSOR:
+[Unremarkable.]
+PERONEAL:
+[Unremarkable.]
+BONES:
+No acute fracture or focal osseous lesion.
+MUSCLES:
+[Unremarkable.]
+FLUID:
+No joint effusion.
+SINUS TARSI:
+[Unremarkable.]
+TARSAL TUNNEL:
+[Unremarkable.]
+PLANTAR FASCIA:
+[Unremarkable.]
+CARTILAGE:
+[Unremarkable.]
+IMPRESSION:
+
+
+
+
+Prompt
+

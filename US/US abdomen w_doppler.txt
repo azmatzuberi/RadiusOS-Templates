@@ -1,0 +1,121 @@
+﻿Content
+PROCEDURE:
+Abdominal Ultrasound with Liver Doppler Evaluation
+
+REASON FOR EXAM:
+[PAIN]
+
+COMPARISON:
+[NONE]
+
+TECHNIQUE:
+Grayscale and color Doppler ultrasound of the liver, gallbladder, biliary tree, pancreas, spleen, kidneys, aorta, and IVC performed. Spectral Doppler sampling of the hepatic artery, portal vein, hepatic veins, and IVC obtained.
+
+FINDINGS:
+
+LIVER:
+Size: []
+Echotexture: []
+ 
+
+GALLBLADDER:
+Wall thickness: []
+Stones/sludge: []
+Sonographic Murphy sign: []
+
+COMMON BILE DUCT:
+Diameter: []
+
+PANCREAS:
+[]
+
+SPLEEN:
+Size: []
+ 
+
+AORTA:
+Caliber: []
+
+IVC:
+ [WNL]
+
+LIVER DOPPLER:
+
+ 
+
+MAIN PORTAL VEIN:
+ 
+Flow direction: []
+ 
+  
+IMPRESSION:
+[]
+
+Prompt
+You must evaluate liver Doppler values using the strict rules below AND produce a SINGLE unified impression without redundancy or conflicting statements.
+
+NORMAL RANGES:
+
+HEPATIC ARTERY:
+- PSV 50â€“100 cm/s
+- RI 0.55â€“0.80
+
+MAIN PORTAL VEIN:
+- Velocity 20â€“40 cm/s
+- Flow direction: hepatopetal
+
+RIGHT/LEFT PORTAL VEINS:
+- Velocity 10â€“25 cm/s
+- Flow direction: hepatopetal
+
+HEPATIC VEINS:
+- Normal waveform: triphasic
+- Mildly dampened biphasic may be acceptable
+
+IVC:
+- Normal: respiratory phasicity present
+
+STRICT INTERPRETATION RULES:
+
+1. **Portal hypertension pattern** ONLY when:
+   - Portal vein velocity is LOW (&lt;20 cm/s), AND/OR
+   - Hepatic vein waveforms are dampened/monophasic, AND/OR
+   - IVC shows reduced phasicity.
+   You MUST classify this pattern as â€œsuggestive of portal hypertension.â€
+
+2. **Arterial abnormality pattern**:
+   - Hepatic artery PSV >100 cm/s OR RI >0.80 â†’ â€œarterial hyper-resistance pattern.â€
+   - Hepatic artery PSV &lt;50 cm/s OR RI &lt;0.55 â†’ â€œarterial low-resistance pattern.â€
+   These MUST NOT be interpreted as portal hypertension.
+
+3. **Portal flow abnormality**:
+   - Hepatofugal flow MUST be labeled as â€œabnormal portal flow direction.â€
+   - Slow hepatopetal flow (&lt;20 cm/s) MUST be labeled as â€œreduced portal venous velocity.â€
+
+4. **Hepatic vein abnormality**:
+   - Biphasic or monophasic waveforms MUST be labeled as â€œdampened hepatic venous waveform.â€
+   - You MUST NOT list each vein separately in the impression.
+
+5. The IMPRESSION MUST:
+   - Contain ONE unified statement.
+   - State whether portal hypertension pattern is present or absent.
+   - Summarize arterial abnormalities in ONE phrase.
+   - Summarize venous abnormalities in ONE phrase.
+   - NEVER repeat or contradict itself.
+   - NEVER list individual segments.
+
+6. FINDINGS may list each abnormal value individually, but IMPRESSION MUST be concise and unified.
+
+OUTPUT FORMAT:
+
+FINDINGS:
+- Bullet list of abnormalities with classification.
+
+IMPRESSION (STRICT FORMAT):
+- ONE unified statement summarizing:
+  â€¢ Presence or absence of portal hypertension pattern.
+  â€¢ Arterial abnormalities (if present).
+  â€¢ Venous waveform abnormalities (if present).
+  â€¢ WITHOUT redundancy or conflicting statements.
+
+You MUST follow these rules exactly.

@@ -1,0 +1,43 @@
+﻿Content
+EXAM: MRI cervical spine without contrast. 
+
+HISTORY: []
+
+COMPARISON: None
+
+TECHNIQUE: Multiplanar multisequence MRI imaging of the cervical spine was performed.  No IV contrast administered.
+
+FINDINGS:
+
+
+There is no tonsillar ectopia.  Bone marrow signal is preserved.  No compression fracture or subluxation seen.
+
+No cervical cord expansion or syrinx identified.
+
+Level by level:
+
+ C1-C2: [Negative]
+
+C2-C3: [Negative]
+
+C3-C4: [Negative]
+
+C4-C5: [Negative]
+
+C5-C6: [Negative].
+
+C6-C7: [Negative].
+
+C7-T1: [Negative]
+
+
+IMPRESSION:
+
+[] 
+
+Prompt
+ only add pertinent positives  in the impression..  Please make a statement see level by level regarding details.
+
+If there is straightening of the cervical alignment add findings most likely related to spasm or positional in the impression.
+
+do not convert mm to cm.

@@ -1,0 +1,96 @@
+﻿Content
+FINDINGS:
+
+
+CHEST :
+
+AIRWAY: [Unremarkable.]
+
+AORTA:  [Unremarkable.]
+
+LUNGS:   [Unremarkable.]
+
+PLEURA:    [Unremarkable.]
+
+HILAR/MEDIASTINAL/AXILLARY STRUCTURES:  [No adenopathy.]
+
+CHEST WALL/OSSEUS:   [No osseous metastatic disease.]
+
+
+ABDOMEN/PELVIS :
+
+
+LIVER:  [Unremarkable.]
+
+BILLIARY:  [Unremarkable.]
+
+SPLEEN:  [Unremarkable.] 
+
+PANCREAS:  [Unremarkable.]
+
+ADRENALS: [Unremarkable.]
+
+KIDNEYS/BLADDER: [Unremarkable.]
+
+BOWEL:  [Unremarkable.]
+
+ABDOMINAL WALL/MESENTERY:  [Unremarkable.]
+
+LYMPHATICS: [No abdominal or pelvic lymphadenopathy. ]
+
+AORTA and VASCULARITY:  [Unremarkable.]
+
+OSSEOUS AND SPINE:  [Unremarkable.]
+ 
+
+CONCLUSION:
+
+ [Unremarkable.]
+
+Prompt
+You must follow all rules exactly. Do not deviate.
+
+SECTION 1 â€” TEMPLATE STRUCTURE RULES
+
+Follow the exact template structure. Do not change section names, order, spacing, or formatting.
+
+Use double line spacing between all sections and all lines.
+
+Include all template fields, including pertinent negatives. Do not remove any field.
+
+Do not add EXAM, TECHNIQUE, HISTORY, or COMPARISON.
+
+Place hernias in the BOWEL section. If a finding does not fit any section, place it in OTHER.
+
+Remove all brackets.  
+
+SECTION 2 â€” FINDINGS RULES
+
+Include every sentence from the input FINDINGS. Do not omit any sentence.
+
+If a sentence does not match any section, place it in OTHER.
+
+SECTION 3 â€” IMPRESSION RULES
+
+Summarize the findings but do not combine into one sentence.
+
+Do not repeat sentences word-for-word.
+
+Do not copy verbatim.
+
+Do not merge findings.
+
+Provide concise, accurate summaries only.
+
+Include pertinent negatives when clinically relevant, including statements such as â€œNo obstructive uropathy or nephrolithiasis.â€
+
+Do not include surgeries in the IMPRESSION.
+
+Add recommendations only if the input contains recommendations. If present, place them directly below the IMPRESSION using:
+RECOMMENDATIONS: []
+
+SECTION 4 â€” BEHAVIOR RULES
+
+Output must be deterministic.
+
+If any rule conflicts, follow the strictest rule.

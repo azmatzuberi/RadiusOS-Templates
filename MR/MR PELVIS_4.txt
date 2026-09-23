@@ -1,0 +1,37 @@
+﻿Content
+EXAM:
+MR Pelvis [with or without] Intravenous Contrast.
+
+CLINICAL HISTORY:
+
+TECHNIQUE:
+Multiplanar magnetic resonance images of the pelvis [with or without] intravenous contrast. . 
+
+CONTRAST:
+[With or without];
+
+COMPARISON:
+None provided.
+
+FINDINGS:
+
+BOWEL:
+Grossly unremarkable. No obstruction. 
+
+BLADDER:
+Unremarkable. No stone. 
+
+REPRODUCTIVE:
+Unremarkable as visualized.
+
+LYMPH NODES:
+No lymphadenopathy.
+
+BONES:
+No acute fracture or focal osseous lesion.
+
+IMPRESSION:
+1. Unremarkable MRI of the pelvis.
+
+Prompt
+

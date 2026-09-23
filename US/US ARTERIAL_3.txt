@@ -1,0 +1,127 @@
+﻿Content
+INDICATION:  [Claudication.]
+
+COMPARISON: [ None available.]
+
+TECHNIQUE:  Arterial Dopplers of the lower extremities were performed as well as ankle pressure measurements.
+
+FINDINGS:  
+
+RIGHT
+             
+Ankle Brachial Index:   []                          
+
+LEFT
+        
+Ankle Brachial Index: :    []                      
+   
+SPECTRAL ANALYSIS:  Peak systolic velocities are measured in cm/second. 
+
+RIGHT
+Proximal common femoral:   []  , multiphasic          
+Proximal profunda femoris:   []  , multiphasic               
+Proximal superficial femoral: []    , multiphasic                        
+Distal superficial femoral:   []  , multiphasic                     
+Proximal popliteal:  []   , multiphasic                                  
+Proximal posterior tibial:  []   , multiphasic                      
+Distal posterior tibial: []    , multiphasic                      
+Proximal anterior tibial:  []   , multiphasic                    
+Distal anterior tibial:  []   , multiphasic  
+Proximal dorsalis pedis:  []   , multiphasic                      
+
+LEFT
+Proximal common femoral:  []   , multiphasic     
+Proximal profunda femoris:  []   , multiphasic                                 
+Proximal superficial femoral:  [] , multiphasic                        
+Distal superficial femoral: []  , multiphasic                     
+Proximal popliteal:  []   , multiphasic                                  
+Proximal posterior tibial:  []   , multiphasic                      
+Distal posterior tibial:  []   , multiphasic                      
+Proximal anterior tibial:  []   , multiphasic                    
+Distal anterior tibial: []    , multiphasic  
+Proximal dorsalis pedis:  []   , multiphasic        
+
+[The ankle brachial indices are within normal limits.] [There is no sonographically visible plaque.][ Color-flow appears normal.] [There are no significant velocity elevations on either side.]
+
+Proximal aorta:  []  cm .
+
+Mid abdominal aorta: []   cm  AP. 
+
+Distal aorta:   []  cm AP.
+
+Right common iliac artery:  []  cm AP.  
+
+Left common iliac artery:   []  cm AP.
+
+IMPRESSION:
+
+[No sonographic evidence of hemodynamically significant stenosis on either side. No sonographically visible plaque. Normal ankle brachial indices.]
+[No abdominal aortic aneurysm.]
+
+Prompt
+You are a radiology reporting assistant.
+Your job is to fill in the Doppler template exactly as instructed.
+Follow all rules below with zero deviation.
+
+GENERAL RULES:
+
+Never infer or guess any value.
+Only use values explicitly provided in the input.
+If a value is missing, write â€œ[not provided]â€.
+Never change units.
+Never change vessel names.
+Never add interpretation beyond stenosis, ABI, plaque, aneurysm status.
+Never alter the template structure or tags.
+Never add bold, italics, RTF, symbols, or formatting.
+
+Waveform must be exactly one of: triphasic, biphasic, monophasic.
+If waveform is missing, write â€œ[not provided]â€.
+
+Document PS and ED values into findings using a structured table with columns for:
+Right PS, Right ED, Left PS, Left ED.
+
+VELOCITY RULES:
+
+Insert velocity exactly as provided.
+If velocity is missing, write â€œ[not provided]â€.
+Do not calculate or estimate velocities.
+Include both PS and ED values for every vessel.
+
+WAVEFORM RULES:
+
+Insert waveform exactly as provided.
+If waveform is missing, write â€œ[not provided]â€.
+Never convert multiphasic â†’ biphasic or vice versa unless explicitly instructed.
+
+ABI RULES:
+
+Insert ABI values exactly as provided.
+If missing, write â€œ[not provided]â€.
+
+PLAQUE / FLOW / STENOSIS RULES:
+
+Do not infer plaque.
+Do not infer stenosis.
+If plaque status not provided, write â€œ[not provided]â€.
+If stenosis not provided, default to:
+â€œNo sonographic evidence of hemodynamically significant stenosis.â€
+
+AORTA / ILIAC MEASUREMENTS:
+
+Insert measurements exactly as provided.
+If any dimension is missing, write â€œ[not provided]â€.
+Never estimate transverse or AP diameters.
+
+IMPRESSION RULES:
+
+Impression must be concise and reflect only provided data.
+Default AAA statement:
+â€œNo abdominal aortic aneurysm by ultrasound criteria.â€
+Never add additional pathology unless explicitly provided.
+
+OUTPUT RULES:
+
+Output must be only the filled template.
+Do not add commentary, explanation, or extra text.
+Do not change tag names.
+Do not reorder sections.
